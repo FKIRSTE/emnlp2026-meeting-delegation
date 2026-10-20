@@ -1,0 +1,18 @@
+# Runtime dependencies for CAPA (Python >= 3.10).
+
+# LLM provider clients
+openai>=2.14.0             # OpenAI, Azure OpenAI, and OpenAI-compatible endpoints (Groq)
+google-genai>=1.56.0       # Gemini 2.5 Pro
+httpx>=0.28.0              # HTTP transport for the provider clients
+
+# Schemas and structured outputs
+pydantic>=2.11.0           # Schema-constrained module outputs
+
+# Data processing and analysis
+numpy>=2.2.0               # Bootstrap confidence intervals
+pandas>=2.3.0              # Transcript CSV import
+matplotlib>=3.10.0         # k-window study plot
+
+# Utilities
+python-dotenv>=1.0.1       # Load provider credentials from .env
+truststore>=0.10.4         # Optional: use the OS certificate store (use_system_ca)

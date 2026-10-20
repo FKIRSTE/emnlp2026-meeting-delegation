@@ -1,0 +1,4752 @@
+[
+  {
+    "utterance_id": "Meeting67_001",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay we all all set ? Right . Well this is the uh final detailed design meeting . Um we're gonna discuss the look and feel design , the user interface design , and we're gonna evaluate the product . And the end result of this meeting has to be a decision on the details of this remote control , like absolute final decision , um and then I'm gonna have to specify the final design in the final report . So um just from from last time to recap , we said we were gonna have a snowman shaped remote control with no L_C_D_ display , no need for talk-back , it was hopefully gonna be kinetic power and battery uh with rubber buttons , maybe backlighting the buttons with some internal L_E_D_s to shine through the casing , um hopefully a jog-dial , and incorporating the slogan somewhere as well . Anything I've missed ?"
+  },
+  {
+    "utterance_id": "Meeting67_002",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting67_003",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay um so uh if you want to present your prototype go ahead ."
+  },
+  {
+    "utterance_id": "Meeting67_004",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh-oh . This is it ? {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_005",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Ninja Homer , made in Japan . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_006",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um , there are a few changes we've made ."
+  },
+  {
+    "utterance_id": "Meeting67_007",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_008",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um , well look at the expense sheet , and uh it turned to be quite a lot expensive to have open up and have lots of buttons and stuff inside ,"
+  },
+  {
+    "utterance_id": "Meeting67_009",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_010",
+    "speaker_id": "User Interface",
+    "utterance_content": "so instead we've um {disfmarker} this is gonna be an L_C_D_ screen , um just a a very very basic one , very small um with access to the menu through the the scroll wheel and uh confirm um button ."
+  },
+  {
+    "utterance_id": "Meeting67_011",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm 'kay ."
+  },
+  {
+    "utterance_id": "Meeting67_012",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh , apart from that , it's just pretty much the same as we discussed last time ."
+  },
+  {
+    "utterance_id": "Meeting67_013",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And there isn't uh d it doesn't open up to the advanced functions ? the advanced functions are still hidden from you , but they're hidden in the sense that um they're not in use ."
+  },
+  {
+    "utterance_id": "Meeting67_014",
+    "speaker_id": "Marketing",
+    "utterance_content": "Where are they ?"
+  },
+  {
+    "utterance_id": "Meeting67_015",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um they're in the L_C_D_ panel and the jog-dial ?"
+  },
+  {
+    "utterance_id": "Meeting67_016",
+    "speaker_id": "Marketing",
+    "utterance_content": "Ah , right ."
+  },
+  {
+    "utterance_id": "Meeting67_017",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay 'cause {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_018",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So w what kind of thing uh is gonna be {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_019",
+    "speaker_id": "Marketing",
+    "utterance_content": "Great ."
+  },
+  {
+    "utterance_id": "Meeting67_020",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_021",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The L_C_D_ panel just displays um functionally what you're doing . If you're using an advanced function right , like um c brightness , contrast , whatever , it will just say {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_022",
+    "speaker_id": "Marketing",
+    "utterance_content": "Right . Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_023",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You know it's like it only has four columns , it's a very simple L_C_D_ like , whereas many {disfmarker} the minimum amount we need that the user will automatically know like this is brightness or this is contrast ."
+  },
+  {
+    "utterance_id": "Meeting67_024",
+    "speaker_id": "Marketing",
+    "utterance_content": "Right ."
+  },
+  {
+    "utterance_id": "Meeting67_025",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm . Okay cool ."
+  },
+  {
+    "utterance_id": "Meeting67_026",
+    "speaker_id": "Marketing",
+    "utterance_content": "Right , 'kay ."
+  },
+  {
+    "utterance_id": "Meeting67_027",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It might even be one , a bit more complex L_C_D_ panel with pictures like maybe the sun or the , you know , the the symbols of the various functions ."
+  },
+  {
+    "utterance_id": "Meeting67_028",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay"
+  },
+  {
+    "utterance_id": "Meeting67_029",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh right okay ."
+  },
+  {
+    "utterance_id": "Meeting67_030",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm , and what is this here ?"
+  },
+  {
+    "utterance_id": "Meeting67_031",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Cool ."
+  },
+  {
+    "utterance_id": "Meeting67_032",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "That's a number pad ."
+  },
+  {
+    "utterance_id": "Meeting67_033",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay so the number pad is {disfmarker} 'Kay , great ."
+  },
+  {
+    "utterance_id": "Meeting67_034",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Where are we gonna have the slogan ?"
+  },
+  {
+    "utterance_id": "Meeting67_035",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um they're al along this {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_036",
+    "speaker_id": "User Interface",
+    "utterance_content": "You know , just like right inside there ."
+  },
+  {
+    "utterance_id": "Meeting67_037",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_038",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay cool ."
+  },
+  {
+    "utterance_id": "Meeting67_039",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You have this space here , and then you have this thing on the side as well , or at the bottom ."
+  },
+  {
+    "utterance_id": "Meeting67_040",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_041",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "'Cause slogans are usually quite small , right ,"
+  },
+  {
+    "utterance_id": "Meeting67_042",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_043",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "they're not like huge"
+  },
+  {
+    "utterance_id": "Meeting67_044",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_045",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so they're s"
+  },
+  {
+    "utterance_id": "Meeting67_046",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_047",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Say a button's about"
+  },
+  {
+    "utterance_id": "Meeting67_048",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_049",
+    "speaker_id": "Marketing",
+    "utterance_content": "Looks good ."
+  },
+  {
+    "utterance_id": "Meeting67_050",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "say a button's about this size , right , so you would still have plenty of space for a slogan , say even for that ."
+  },
+  {
+    "utterance_id": "Meeting67_051",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yep . {vocalsound} Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_052",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So if this isn't to scale , what kind of dimensions are you thinking about here ?"
+  },
+  {
+    "utterance_id": "Meeting67_053",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Well {vocalsound} we want the other buttons to be big enough to push easily with a finger"
+  },
+  {
+    "utterance_id": "Meeting67_054",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_055",
+    "speaker_id": "User Interface",
+    "utterance_content": "so we reckon maybe that'll be about the same size as the palm of your hand . {gap}"
+  },
+  {
+    "utterance_id": "Meeting67_056",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_057",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep so that would be about a centimetre for a button , so one two three four centimetres . Plus maybe half o five"
+  },
+  {
+    "utterance_id": "Meeting67_058",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_059",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "six seven eight ,"
+  },
+  {
+    "utterance_id": "Meeting67_060",
+    "speaker_id": "Marketing",
+    "utterance_content": "About nine in total ."
+  },
+  {
+    "utterance_id": "Meeting67_061",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Six , seven , eight , nine , ten ."
+  },
+  {
+    "utterance_id": "Meeting67_062",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "about yeah nine total ."
+  },
+  {
+    "utterance_id": "Meeting67_063",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So we're talking about ten centimetres ."
+  },
+  {
+    "utterance_id": "Meeting67_064",
+    "speaker_id": "Marketing",
+    "utterance_content": "That sounds good . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_065",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That would be good . So ten centimetres in height ."
+  },
+  {
+    "utterance_id": "Meeting67_066",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_067",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Nine , ten . Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_068",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay um {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting67_069",
+    "speaker_id": "Marketing",
+    "utterance_content": "That'd be good , in fact a pen is about ten centimetres usually , so that would be {disfmarker} that sounds like a really good size , if you see it there ."
+  },
+  {
+    "utterance_id": "Meeting67_070",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . That's great and it's very bright as well . So um okay ."
+  },
+  {
+    "utterance_id": "Meeting67_071",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm . Is it possible {disfmarker} uh I'm just gonna bring up the idea of colours . Is these are these the colours that {disfmarker} of production , or is this just what we had available ?"
+  },
+  {
+    "utterance_id": "Meeting67_072",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well I'm {disfmarker} We're gonna have again the the sort of the foggy um yellow from last time that lit up when you pushed the button ."
+  },
+  {
+    "utterance_id": "Meeting67_073",
+    "speaker_id": "Marketing",
+    "utterance_content": "Right ."
+  },
+  {
+    "utterance_id": "Meeting67_074",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay so just {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_075",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_076",
+    "speaker_id": "Project Manager",
+    "utterance_content": "could you just list all the things that it does s so I can write them in the report ."
+  },
+  {
+    "utterance_id": "Meeting67_077",
+    "speaker_id": "User Interface",
+    "utterance_content": "But um {vocalsound} this button um , because it's red it's sort of very prominent , we're gonna use it as uh {disfmarker} it can be the power button if you hold it for maybe two seconds it'll send a stand-by signal ."
+  },
+  {
+    "utterance_id": "Meeting67_078",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Excuse me ."
+  },
+  {
+    "utterance_id": "Meeting67_079",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_080",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um apart from that it's gonna be used as a confirm button for the L_C_D_ screen"
+  },
+  {
+    "utterance_id": "Meeting67_081",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Sure ."
+  },
+  {
+    "utterance_id": "Meeting67_082",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_083",
+    "speaker_id": "User Interface",
+    "utterance_content": "and you use this as a jog-dial ."
+  },
+  {
+    "utterance_id": "Meeting67_084",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay so that's like an okay button , right ."
+  },
+  {
+    "utterance_id": "Meeting67_085",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_086",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh we've discussed how h high it is , but how wide is it ? {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_087",
+    "speaker_id": "User Interface",
+    "utterance_content": "I don't know . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_088",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_089",
+    "speaker_id": "Marketing",
+    "utterance_content": "How high is it ?"
+  },
+  {
+    "utterance_id": "Meeting67_090",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No as in the height , but what about the width ?"
+  },
+  {
+    "utterance_id": "Meeting67_091",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_092",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh oh"
+  },
+  {
+    "utterance_id": "Meeting67_093",
+    "speaker_id": "User Interface",
+    "utterance_content": "Didn't put five centimetres ."
+  },
+  {
+    "utterance_id": "Meeting67_094",
+    "speaker_id": "Project Manager",
+    "utterance_content": "like depth of the actual thing ."
+  },
+  {
+    "utterance_id": "Meeting67_095",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Do we need five ? I don't think five is {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_096",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um ."
+  },
+  {
+    "utterance_id": "Meeting67_097",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "be about th three and a half ."
+  },
+  {
+    "utterance_id": "Meeting67_098",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_099",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh is this k to get an idea of scale from your from your thing there okay ."
+  },
+  {
+    "utterance_id": "Meeting67_100",
+    "speaker_id": "User Interface",
+    "utterance_content": "Something by there ."
+  },
+  {
+    "utterance_id": "Meeting67_101",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_102",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sure ."
+  },
+  {
+    "utterance_id": "Meeting67_103",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So you can power on and off , what else can you do ?"
+  },
+  {
+    "utterance_id": "Meeting67_104",
+    "speaker_id": "Marketing",
+    "utterance_content": "Three and a half ."
+  },
+  {
+    "utterance_id": "Meeting67_105",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um you can skip straight to a channel using these buttons ."
+  },
+  {
+    "utterance_id": "Meeting67_106",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_107",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um , were gonna have the volume control here , but um because we've got the the L_C_D_ and the jog-dial we just thought we'd um use that as the volume ."
+  },
+  {
+    "utterance_id": "Meeting67_108",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay jog-dial for volume . And what else do you do with the jog-dial ?"
+  },
+  {
+    "utterance_id": "Meeting67_109",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_110",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um you can use it for um more advanced functions like contrast , colour and {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_111",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Contrast , brightness ,"
+  },
+  {
+    "utterance_id": "Meeting67_112",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_113",
+    "speaker_id": "Project Manager",
+    "utterance_content": "yeah , and anything else ?"
+  },
+  {
+    "utterance_id": "Meeting67_114",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um just whatever else we wanted to include as the advanced functions , um we didn't actually go through and specify the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_115",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well of the designers what are they ?"
+  },
+  {
+    "utterance_id": "Meeting67_116",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh what can a T_V_ do ?"
+  },
+  {
+    "utterance_id": "Meeting67_117",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay things like um brightness , contrast ,"
+  },
+  {
+    "utterance_id": "Meeting67_118",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh-huh ."
+  },
+  {
+    "utterance_id": "Meeting67_119",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "um maybe tuning the channels ."
+  },
+  {
+    "utterance_id": "Meeting67_120",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay channel tuning ."
+  },
+  {
+    "utterance_id": "Meeting67_121",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um ."
+  },
+  {
+    "utterance_id": "Meeting67_122",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That's a good one ."
+  },
+  {
+    "utterance_id": "Meeting67_123",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "What else ? Um the various inputs . Are you having a V_C_R_ , are you having {disfmarker} you know which input do you have ?"
+  },
+  {
+    "utterance_id": "Meeting67_124",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm , mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_125",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay auxiliary inputs ."
+  },
+  {
+    "utterance_id": "Meeting67_126",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ,"
+  },
+  {
+    "utterance_id": "Meeting67_127",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um ."
+  },
+  {
+    "utterance_id": "Meeting67_128",
+    "speaker_id": "Marketing",
+    "utterance_content": "probably colour or sharpness ."
+  },
+  {
+    "utterance_id": "Meeting67_129",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep , colour , sharpness . Um a lot of these things will have to be um free and open for users to define them ."
+  },
+  {
+    "utterance_id": "Meeting67_130",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Sharpness . Okay what about uh sound settings"
+  },
+  {
+    "utterance_id": "Meeting67_131",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_132",
+    "speaker_id": "Project Manager",
+    "utterance_content": "? Uh d can you change any of those at all ?"
+  },
+  {
+    "utterance_id": "Meeting67_133",
+    "speaker_id": "Marketing",
+    "utterance_content": "Audio ."
+  },
+  {
+    "utterance_id": "Meeting67_134",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Audio , we have like your basic y your base , your mid-range , your high range ."
+  },
+  {
+    "utterance_id": "Meeting67_135",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um ."
+  },
+  {
+    "utterance_id": "Meeting67_136",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um ."
+  },
+  {
+    "utterance_id": "Meeting67_137",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap} the the balance hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_138",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep , left-right balance , um maybe even pre-programmed sound modes , like um the user could determine like a series of sound modes ,"
+  },
+  {
+    "utterance_id": "Meeting67_139",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_140",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and then what could happen would be um when you click on that then it would go to that setting ."
+  },
+  {
+    "utterance_id": "Meeting67_141",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_142",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ,"
+  },
+  {
+    "utterance_id": "Meeting67_143",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm 'kay ."
+  },
+  {
+    "utterance_id": "Meeting67_144",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_145",
+    "speaker_id": "Project Manager",
+    "utterance_content": "is there anything else at all it can do ? That {disfmarker} 'cause that's that's fine . Just need to know so I can write it down . Okay um right I g I guess that's it , so we can now um {vocalsound} {disfmarker} We can now have a little look at the the Excel sheet and price listing , and see if we need to um if we need to rethink anything at all ."
+  },
+  {
+    "utterance_id": "Meeting67_146",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_147",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So um for this first part here power-wise , have we got battery ?"
+  },
+  {
+    "utterance_id": "Meeting67_148",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The battery ."
+  },
+  {
+    "utterance_id": "Meeting67_149",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Do we have kinetic as well ?"
+  },
+  {
+    "utterance_id": "Meeting67_150",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting67_151",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No . Okay ,"
+  },
+  {
+    "utterance_id": "Meeting67_152",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um ."
+  },
+  {
+    "utterance_id": "Meeting67_153",
+    "speaker_id": "Project Manager",
+    "utterance_content": "just battery ."
+  },
+  {
+    "utterance_id": "Meeting67_154",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "We need an {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_155",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And that's because of cost restraints is it ?"
+  },
+  {
+    "utterance_id": "Meeting67_156",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_157",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay"
+  },
+  {
+    "utterance_id": "Meeting67_158",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_159",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah advanced chip ."
+  },
+  {
+    "utterance_id": "Meeting67_160",
+    "speaker_id": "Project Manager",
+    "utterance_content": "um what about the electronics here ?"
+  },
+  {
+    "utterance_id": "Meeting67_161",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "We need an advanced chip I think , yep ."
+  },
+  {
+    "utterance_id": "Meeting67_162",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Advanced chip ."
+  },
+  {
+    "utterance_id": "Meeting67_163",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Let me just confirm that . Yes I think so . Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_164",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay um the case , what does it mean by single and double , do you know ?"
+  },
+  {
+    "utterance_id": "Meeting67_165",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um I think single would just be sort of one sort of oval whereas double is this sort of thing ."
+  },
+  {
+    "utterance_id": "Meeting67_166",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_167",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So we want double-curved ?"
+  },
+  {
+    "utterance_id": "Meeting67_168",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_169",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Um ."
+  },
+  {
+    "utterance_id": "Meeting67_170",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Plastic ."
+  },
+  {
+    "utterance_id": "Meeting67_171",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Is there any rubber at all in the buttons or any"
+  },
+  {
+    "utterance_id": "Meeting67_172",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think we're gonna have to skip the rubber ."
+  },
+  {
+    "utterance_id": "Meeting67_173",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ,"
+  },
+  {
+    "utterance_id": "Meeting67_174",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um ."
+  },
+  {
+    "utterance_id": "Meeting67_175",
+    "speaker_id": "Project Manager",
+    "utterance_content": "um and we wanted special colours didn't we ?"
+  },
+  {
+    "utterance_id": "Meeting67_176",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_177",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So I'll have to put that {disfmarker} Oh no wait we {disfmarker} ho how many colours have we got there ?"
+  },
+  {
+    "utterance_id": "Meeting67_178",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "For the case itself , one colour . It's one special colour ."
+  },
+  {
+    "utterance_id": "Meeting67_179",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Just one colour , okay ."
+  },
+  {
+    "utterance_id": "Meeting67_180",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "'Cause the case unit itself , the rest of our components go on top of it ."
+  },
+  {
+    "utterance_id": "Meeting67_181",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay so interface-wise , is it this third option we have , the two of them there ?"
+  },
+  {
+    "utterance_id": "Meeting67_182",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_183",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yes . One and the L_C_ display ."
+  },
+  {
+    "utterance_id": "Meeting67_184",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay and then buttons , we have what , two colours ?"
+  },
+  {
+    "utterance_id": "Meeting67_185",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "How many {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_186",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um we have um got some push buttons as well ."
+  },
+  {
+    "utterance_id": "Meeting67_187",
+    "speaker_id": "Marketing",
+    "utterance_content": "Or even clear ."
+  },
+  {
+    "utterance_id": "Meeting67_188",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "We've got push buttons as well ."
+  },
+  {
+    "utterance_id": "Meeting67_189",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Like uh oh wait so push button and integrated scroll wheel push"
+  },
+  {
+    "utterance_id": "Meeting67_190",
+    "speaker_id": "User Interface",
+    "utterance_content": "'Kay ."
+  },
+  {
+    "utterance_id": "Meeting67_191",
+    "speaker_id": "Project Manager",
+    "utterance_content": "okay ."
+  },
+  {
+    "utterance_id": "Meeting67_192",
+    "speaker_id": "User Interface",
+    "utterance_content": "So I reckon we've got one button for this thing 'cause it's just one big sheet of rubber ."
+  },
+  {
+    "utterance_id": "Meeting67_193",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh-huh ."
+  },
+  {
+    "utterance_id": "Meeting67_194",
+    "speaker_id": "User Interface",
+    "utterance_content": "I'm not sure if that counts but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_195",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay let's just be safe and put like say four buttons for that one ."
+  },
+  {
+    "utterance_id": "Meeting67_196",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_197",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay um and maybe a special colour for the buttons , so maybe four again ."
+  },
+  {
+    "utterance_id": "Meeting67_198",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Four ."
+  },
+  {
+    "utterance_id": "Meeting67_199",
+    "speaker_id": "User Interface",
+    "utterance_content": "You can see we're we're all very far beyond the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_200",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So w why are we arriving at the number four ? Where does the number four come from ?"
+  },
+  {
+    "utterance_id": "Meeting67_201",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "'Cause that's one button by its the complexity of twelve buttons ."
+  },
+  {
+    "utterance_id": "Meeting67_202",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay right ,"
+  },
+  {
+    "utterance_id": "Meeting67_203",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So we're just estimating that yeah it would be less ."
+  },
+  {
+    "utterance_id": "Meeting67_204",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so we're writing down four . {vocalsound} Okay . How about these ? Are we wanting them in {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_205",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting67_206",
+    "speaker_id": "Project Manager",
+    "utterance_content": "no they're just {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_207",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_208",
+    "speaker_id": "Project Manager",
+    "utterance_content": "is everything gonna be plastic ?"
+  },
+  {
+    "utterance_id": "Meeting67_209",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_210",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . So we're w w quite far over ."
+  },
+  {
+    "utterance_id": "Meeting67_211",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_212",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_213",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Now we're gonna {disfmarker} something's gonna have to go . Um we're at sixteen point eight and {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_214",
+    "speaker_id": "Marketing",
+    "utterance_content": "Uh how mm-hmm {disfmarker} how are we going to achieve this high-end product if {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_215",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well we h something has to go to the tune of two point t three Euro ,"
+  },
+  {
+    "utterance_id": "Meeting67_216",
+    "speaker_id": "Marketing",
+    "utterance_content": "We only have very sparse {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_217",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so let me see , what are we {disfmarker} I mean {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_218",
+    "speaker_id": "Marketing",
+    "utterance_content": "Two point three ? Four point three no ?"
+  },
+  {
+    "utterance_id": "Meeting67_219",
+    "speaker_id": "Project Manager",
+    "utterance_content": "oh yes sorry , four point three . My maths is all out ."
+  },
+  {
+    "utterance_id": "Meeting67_220",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well we could take out ones by making it single curved , just fill in those bits ."
+  },
+  {
+    "utterance_id": "Meeting67_221",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_222",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "How much would that save us ?"
+  },
+  {
+    "utterance_id": "Meeting67_223",
+    "speaker_id": "Marketing",
+    "utterance_content": "And then where is the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_224",
+    "speaker_id": "Project Manager",
+    "utterance_content": "How much would that save us ?"
+  },
+  {
+    "utterance_id": "Meeting67_225",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "That will only save you one ."
+  },
+  {
+    "utterance_id": "Meeting67_226",
+    "speaker_id": "User Interface",
+    "utterance_content": "That is one ."
+  },
+  {
+    "utterance_id": "Meeting67_227",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The other thing could be that um you could take away the L_C_D_ panel and the advanced chip together ,"
+  },
+  {
+    "utterance_id": "Meeting67_228",
+    "speaker_id": "Project Manager",
+    "utterance_content": "One ."
+  },
+  {
+    "utterance_id": "Meeting67_229",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "um because when you do something on the T_V_ , the T_V_ responds and reacts as well ,"
+  },
+  {
+    "utterance_id": "Meeting67_230",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_231",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so the user could be looking at the T_V_ and pushing his thing so we may not need to {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_232",
+    "speaker_id": "User Interface",
+    "utterance_content": "That's fair enough , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_233",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so when we scroll we need just some way to get the T_V_ to respond ,"
+  },
+  {
+    "utterance_id": "Meeting67_234",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_235",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "which I think is a technically doable thing so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_236",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_237",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_238",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So w what's our reviewed suggestion ?"
+  },
+  {
+    "utterance_id": "Meeting67_239",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_240",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_241",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um take away the L_C_ display ?"
+  },
+  {
+    "utterance_id": "Meeting67_242",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep . And the advanced chip goes away as well ."
+  },
+  {
+    "utterance_id": "Meeting67_243",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_244",
+    "speaker_id": "Project Manager",
+    "utterance_content": "To be replaced with a"
+  },
+  {
+    "utterance_id": "Meeting67_245",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Regular chip ."
+  },
+  {
+    "utterance_id": "Meeting67_246",
+    "speaker_id": "Project Manager",
+    "utterance_content": "regular chip ."
+  },
+  {
+    "utterance_id": "Meeting67_247",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep . So what that means is that um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_248",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_249",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_250",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} And so we've got point three to get rid of . Um and we ha where are the four {disfmarker} the four push buttons are where exactly now ?"
+  },
+  {
+    "utterance_id": "Meeting67_251",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The twelve buttons that you see there {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting67_252",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Twelve buttons ."
+  },
+  {
+    "utterance_id": "Meeting67_253",
+    "speaker_id": "User Interface",
+    "utterance_content": "That's um one piece of rubber but it's gonna have twelve button things underneath so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_254",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_255",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Functionally you're gonna have to intercept {disfmarker} So four is a good estimate for {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_256",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Do you think ?"
+  },
+  {
+    "utterance_id": "Meeting67_257",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , so you can't actually cut {vocalsound} {disfmarker} It's like three times the number of buttons , four , eight , twelve ."
+  },
+  {
+    "utterance_id": "Meeting67_258",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Like is is that one big button or is it twelve buttons ,"
+  },
+  {
+    "utterance_id": "Meeting67_259",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It {disfmarker} It needs to be more than one big button because if you open up your phone , underneath there's actually one button underneath , it's just that the panel itself is a single panel ."
+  },
+  {
+    "utterance_id": "Meeting67_260",
+    "speaker_id": "Project Manager",
+    "utterance_content": "how can it be something in between ?"
+  },
+  {
+    "utterance_id": "Meeting67_261",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_262",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm . Okay"
+  },
+  {
+    "utterance_id": "Meeting67_263",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_264",
+    "speaker_id": "Project Manager",
+    "utterance_content": "well we have point three to get rid of somewhere ."
+  },
+  {
+    "utterance_id": "Meeting67_265",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "We just report that it has to be over budget {vocalsound} ,"
+  },
+  {
+    "utterance_id": "Meeting67_266",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_267",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_268",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "or the colours , you could take away s colours for th for the buttons ."
+  },
+  {
+    "utterance_id": "Meeting67_269",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No can do ."
+  },
+  {
+    "utterance_id": "Meeting67_270",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah we could just go with um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_271",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah w"
+  },
+  {
+    "utterance_id": "Meeting67_272",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Normal coloured buttons ."
+  },
+  {
+    "utterance_id": "Meeting67_273",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well do you want colour differentiation here ?"
+  },
+  {
+    "utterance_id": "Meeting67_274",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No that's not the button we're talking about ."
+  },
+  {
+    "utterance_id": "Meeting67_275",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_276",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "That's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_277",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh yeah sorry yeah then . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_278",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "the buttons only refer to the pad so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_279",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Right so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_280",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Should we take that off uh ?"
+  },
+  {
+    "utterance_id": "Meeting67_281",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Ah ."
+  },
+  {
+    "utterance_id": "Meeting67_282",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_283",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Hey it's back to the original ."
+  },
+  {
+    "utterance_id": "Meeting67_284",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That's it ."
+  },
+  {
+    "utterance_id": "Meeting67_285",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_286",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um so then these just become normal coloured buttons , so that might be some some way of cutting the cost ."
+  },
+  {
+    "utterance_id": "Meeting67_287",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm . Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_288",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , ach that's a shame . {vocalsound} Um right , so take away that completely ? Ah . And now we're under budget . So we do have point five Euro to play with if we wanted ."
+  },
+  {
+    "utterance_id": "Meeting67_289",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_290",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} So I reckon {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_291",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_292",
+    "speaker_id": "Marketing",
+    "utterance_content": "How about with embossing the logo , isn't that going to cost us some money ?"
+  },
+  {
+    "utterance_id": "Meeting67_293",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Doesn't say so . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_294",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . That's a freebie ."
+  },
+  {
+    "utterance_id": "Meeting67_295",
+    "speaker_id": "User Interface",
+    "utterance_content": "Reckon that probably counts as a special form for the buttons ."
+  },
+  {
+    "utterance_id": "Meeting67_296",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_297",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah that's a good idea . Just one ? Does that mean that one button has a special form or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_298",
+    "speaker_id": "User Interface",
+    "utterance_content": "I think {gap} there's just one button so"
+  },
+  {
+    "utterance_id": "Meeting67_299",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah okay ."
+  },
+  {
+    "utterance_id": "Meeting67_300",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_301",
+    "speaker_id": "User Interface",
+    "utterance_content": "handy {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting67_302",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well well there we go . So I'm just gonna have to redraw this now . So we're not gonna have the L_C_D_ anymore , and we'll just gonna have an on t on the T_V_ it'll show you what you're doing , which I think is fair enough , and so this is gonna be one big thing here . Um ."
+  },
+  {
+    "utterance_id": "Meeting67_303",
+    "speaker_id": "Marketing",
+    "utterance_content": "Was the goal in your in your prototype design that it be as low profile as possible ?"
+  },
+  {
+    "utterance_id": "Meeting67_304",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "What do you mean by profile ?"
+  },
+  {
+    "utterance_id": "Meeting67_305",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Sort of flat as possible ."
+  },
+  {
+    "utterance_id": "Meeting67_306",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_307",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting67_308",
+    "speaker_id": "User Interface",
+    "utterance_content": "You see I envision it as being um quite deep"
+  },
+  {
+    "utterance_id": "Meeting67_309",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_310",
+    "speaker_id": "User Interface",
+    "utterance_content": "sort of {vocalsound} deep enough to be comfy to hold in your hands rather than being wide and flat ."
+  },
+  {
+    "utterance_id": "Meeting67_311",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah that's what I was thinking , to"
+  },
+  {
+    "utterance_id": "Meeting67_312",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "We didn't have enough Play-Doh to make it three D_ . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_313",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sure , okay . Yeah alright yeah fair enough ."
+  },
+  {
+    "utterance_id": "Meeting67_314",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_315",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay , just thought I'd ask ."
+  },
+  {
+    "utterance_id": "Meeting67_316",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So there's one more dimension to the thing which we need to to add ,"
+  },
+  {
+    "utterance_id": "Meeting67_317",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_318",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and you might want to add in the report , length , width , and height ."
+  },
+  {
+    "utterance_id": "Meeting67_319",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Right okay ."
+  },
+  {
+    "utterance_id": "Meeting67_320",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_321",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So just to well to be thorough then , width-wise we're looking at about what three centimetres or something ?"
+  },
+  {
+    "utterance_id": "Meeting67_322",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_323",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay and then so height-wise {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_324",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_325",
+    "speaker_id": "Project Manager",
+    "utterance_content": "How how tall do you envisage it being ? About that big ?"
+  },
+  {
+    "utterance_id": "Meeting67_326",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Two ."
+  },
+  {
+    "utterance_id": "Meeting67_327",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah it works , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_328",
+    "speaker_id": "Project Manager",
+    "utterance_content": "About two centimetres , okay ."
+  },
+  {
+    "utterance_id": "Meeting67_329",
+    "speaker_id": "Marketing",
+    "utterance_content": "Two's not very high at all though ."
+  },
+  {
+    "utterance_id": "Meeting67_330",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "This is about this is about two ."
+  },
+  {
+    "utterance_id": "Meeting67_331",
+    "speaker_id": "Marketing",
+    "utterance_content": "Maybe a bit higher ?"
+  },
+  {
+    "utterance_id": "Meeting67_332",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Slightly more than two , so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_333",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_334",
+    "speaker_id": "User Interface",
+    "utterance_content": "See , about that thick ."
+  },
+  {
+    "utterance_id": "Meeting67_335",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Ach , that is {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_336",
+    "speaker_id": "Marketing",
+    "utterance_content": "Maybe closer to three even or two and a half ."
+  },
+  {
+    "utterance_id": "Meeting67_337",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_338",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . Okay we'll s we'll say two point five . Okay um so we have it within cost anyway . Um so yeah project evaluation is this point . Um ."
+  },
+  {
+    "utterance_id": "Meeting67_339",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_340",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Right uh . Okay so can we close that ? This is what it's {disfmarker} the final spec that it's gonna be . Someone is gonna have to {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_341",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_342",
+    "speaker_id": "Project Manager",
+    "utterance_content": "yeah that's fine that's fine ."
+  },
+  {
+    "utterance_id": "Meeting67_343",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um it's probably just {disfmarker} I dunno if it's worth getting into , but um just in in that we want this to be stylish , should we think a little bit more out of the box in terms of a button grid , because I've seen there's lots of devices out there that that instead of taking your standard nine nine square grid , and they have it sort of stylized or in different concept that that {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_344",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think that's something that's very hard to catch ,"
+  },
+  {
+    "utterance_id": "Meeting67_345",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_346",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so you you restrict the number of people who wanna try something ."
+  },
+  {
+    "utterance_id": "Meeting67_347",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sure , okay ."
+  },
+  {
+    "utterance_id": "Meeting67_348",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The the look and the colour is something which is cool ,"
+  },
+  {
+    "utterance_id": "Meeting67_349",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , alright ."
+  },
+  {
+    "utterance_id": "Meeting67_350",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but I think that there's also that factor of if it's too unfamiliar"
+  },
+  {
+    "utterance_id": "Meeting67_351",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay , sure ."
+  },
+  {
+    "utterance_id": "Meeting67_352",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "then um {disfmarker} because when you put it on the shelf {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_353",
+    "speaker_id": "Marketing",
+    "utterance_content": "What about button shape ? Square buttons ?"
+  },
+  {
+    "utterance_id": "Meeting67_354",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah button shape might be a good idea to change , rather than rather than positioning ,"
+  },
+  {
+    "utterance_id": "Meeting67_355",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_356",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "'cause I think positioning is {disfmarker} we're kinda engrained into the the telephone kind of"
+  },
+  {
+    "utterance_id": "Meeting67_357",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Sure ."
+  },
+  {
+    "utterance_id": "Meeting67_358",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_359",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_360",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_361",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "pad ."
+  },
+  {
+    "utterance_id": "Meeting67_362",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Right um . So at this point we uh , let me see , discuss uh how satisfied we all are with um with these four points , with the room for creativity in the project , and leadership and teamwork , and the stuff we had around us I guess ."
+  },
+  {
+    "utterance_id": "Meeting67_363",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm 'kay ."
+  },
+  {
+    "utterance_id": "Meeting67_364",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um , let me see uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_365",
+    "speaker_id": "Marketing",
+    "utterance_content": "Do you want me to d um {disfmarker} {vocalsound} Do you want me to do my um design evaluation last ?"
+  },
+  {
+    "utterance_id": "Meeting67_366",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Maybe we should do the design evaluation first ."
+  },
+  {
+    "utterance_id": "Meeting67_367",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Yeah I wasn't really sure what that was {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_368",
+    "speaker_id": "Marketing",
+    "utterance_content": "Or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_369",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah"
+  },
+  {
+    "utterance_id": "Meeting67_370",
+    "speaker_id": "Marketing",
+    "utterance_content": "Evaluation ."
+  },
+  {
+    "utterance_id": "Meeting67_371",
+    "speaker_id": "Project Manager",
+    "utterance_content": ", yeah go for that first . I wasn't entirely sure what uh {disfmarker} who was supposed to be doing that ,"
+  },
+  {
+    "utterance_id": "Meeting67_372",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_373",
+    "speaker_id": "Project Manager",
+    "utterance_content": "but y you go for it ."
+  },
+  {
+    "utterance_id": "Meeting67_374",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sure . Um , alright so the way this works , I'm gonna need to plug into PowerPoint ,"
+  },
+  {
+    "utterance_id": "Meeting67_375",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{gap} Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_376",
+    "speaker_id": "Marketing",
+    "utterance_content": "I'll try and do it as quick as possible ."
+  },
+  {
+    "utterance_id": "Meeting67_377",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_378",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um , this is um {disfmarker} I'll just go over your head if that's okay ."
+  },
+  {
+    "utterance_id": "Meeting67_379",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_380",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I don't think you need the power ,"
+  },
+  {
+    "utterance_id": "Meeting67_381",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_382",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so {disfmarker} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_383",
+    "speaker_id": "Marketing",
+    "utterance_content": "What's that ?"
+  },
+  {
+    "utterance_id": "Meeting67_384",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No , that's okay that's okay ."
+  },
+  {
+    "utterance_id": "Meeting67_385",
+    "speaker_id": "Marketing",
+    "utterance_content": "I don't need the PowerPoint ?"
+  },
+  {
+    "utterance_id": "Meeting67_386",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No , the power cord itself ."
+  },
+  {
+    "utterance_id": "Meeting67_387",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh {gap} course ,"
+  },
+  {
+    "utterance_id": "Meeting67_388",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , so then you have a bit more freedom to {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_389",
+    "speaker_id": "Marketing",
+    "utterance_content": "yeah that's true . Let me get that . A bit more ."
+  },
+  {
+    "utterance_id": "Meeting67_390",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_391",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ,"
+  },
+  {
+    "utterance_id": "Meeting67_392",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You you still have your blue fingers ."
+  },
+  {
+    "utterance_id": "Meeting67_393",
+    "speaker_id": "Marketing",
+    "utterance_content": "so what this is is a set-up for us to um uh use a kind of a like a {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_394",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} {vocalsound} Is it ?"
+  },
+  {
+    "utterance_id": "Meeting67_395",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You killed a monster ."
+  },
+  {
+    "utterance_id": "Meeting67_396",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_397",
+    "speaker_id": "Marketing",
+    "utterance_content": "The idea is that I've set up {disfmarker} I've reviewed all of the um the points of discussion from the beginning , and used that as a criteria of evaluation for the um uh for the current design uh th or the plan , and uh so we can review that . Uh I think it's gonna end up being sort of elementary because we're sort we're in n we're not gonna probably use it to change anything but {disfmarker} Doesn't seem like it's going , does it ?"
+  },
+  {
+    "utterance_id": "Meeting67_398",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh there it is ."
+  },
+  {
+    "utterance_id": "Meeting67_399",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , okay great . Uh and I'm gonna write up our results on the board , so this'll be a way for us to go through and decide if we're um {disfmarker} sort of review where we stand with it . Okay , so um {disfmarker} So to sort of b bring together two things , sort of design goals and also the market research that we had , uh when we rate this , one is v high in in succeeding or fitting to our original aim and seven is low ,"
+  },
+  {
+    "utterance_id": "Meeting67_400",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm 'kay ."
+  },
+  {
+    "utterance_id": "Meeting67_401",
+    "speaker_id": "Marketing",
+    "utterance_content": "okay . So these i these i th are the {disfmarker} and um we've been asked to uh to collectively rate this , so what we can do is try and just y work on a consensus system so we just come to an agreement ."
+  },
+  {
+    "utterance_id": "Meeting67_402",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_403",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ? So the first one uh , stylish look and feel ."
+  },
+  {
+    "utterance_id": "Meeting67_404",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I rate that pretty highly ."
+  },
+  {
+    "utterance_id": "Meeting67_405",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well yeah , I mean compared to most remote controls you see that's pretty good ."
+  },
+  {
+    "utterance_id": "Meeting67_406",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_407",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_408",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I dunno like a six or something ."
+  },
+  {
+    "utterance_id": "Meeting67_409",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_410",
+    "speaker_id": "Project Manager",
+    "utterance_content": "What does anybody else think ?"
+  },
+  {
+    "utterance_id": "Meeting67_411",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah um me uh my only reservation with it was that we basically went with yellow because it's the company's colour ,"
+  },
+  {
+    "utterance_id": "Meeting67_412",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_413",
+    "speaker_id": "Marketing",
+    "utterance_content": "and I don't know if yellow's gonna really be a hit ."
+  },
+  {
+    "utterance_id": "Meeting67_414",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_415",
+    "speaker_id": "Marketing",
+    "utterance_content": "But {disfmarker} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_416",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_417",
+    "speaker_id": "User Interface",
+    "utterance_content": "I'm seeing five then ."
+  },
+  {
+    "utterance_id": "Meeting67_418",
+    "speaker_id": "Marketing",
+    "utterance_content": "What do you guys think ?"
+  },
+  {
+    "utterance_id": "Meeting67_419",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I would say five or six ."
+  },
+  {
+    "utterance_id": "Meeting67_420",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_421",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep I'm fine with that ."
+  },
+  {
+    "utterance_id": "Meeting67_422",
+    "speaker_id": "Project Manager",
+    "utterance_content": "David ?"
+  },
+  {
+    "utterance_id": "Meeting67_423",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay let's go with five then ."
+  },
+  {
+    "utterance_id": "Meeting67_424",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_425",
+    "speaker_id": "Marketing",
+    "utterance_content": "Fi oh uh just actually the opposite ."
+  },
+  {
+    "utterance_id": "Meeting67_426",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's one to seven , right ?"
+  },
+  {
+    "utterance_id": "Meeting67_427",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh yes"
+  },
+  {
+    "utterance_id": "Meeting67_428",
+    "speaker_id": "Marketing",
+    "utterance_content": "The {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_429",
+    "speaker_id": "Project Manager",
+    "utterance_content": "sorry then"
+  },
+  {
+    "utterance_id": "Meeting67_430",
+    "speaker_id": "Marketing",
+    "utterance_content": "So it meant three ,"
+  },
+  {
+    "utterance_id": "Meeting67_431",
+    "speaker_id": "Project Manager",
+    "utterance_content": ", then I would say two or three ."
+  },
+  {
+    "utterance_id": "Meeting67_432",
+    "speaker_id": "Marketing",
+    "utterance_content": "okay ."
+  },
+  {
+    "utterance_id": "Meeting67_433",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Wait , what's the scale , one to seven , right ?"
+  },
+  {
+    "utterance_id": "Meeting67_434",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_435",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , one is high ."
+  },
+  {
+    "utterance_id": "Meeting67_436",
+    "speaker_id": "User Interface",
+    "utterance_content": "One's high-ish isn't it ? Ah , okay so yeah , two or three ."
+  },
+  {
+    "utterance_id": "Meeting67_437",
+    "speaker_id": "Marketing",
+    "utterance_content": "'Kay {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_438",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay , it's upside-down ."
+  },
+  {
+    "utterance_id": "Meeting67_439",
+    "speaker_id": "Marketing",
+    "utterance_content": "Let's go with two point five then ."
+  },
+  {
+    "utterance_id": "Meeting67_440",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_441",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_442",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay , um {vocalsound} control {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_443",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_444",
+    "speaker_id": "Marketing",
+    "utterance_content": "high tech innovation ."
+  },
+  {
+    "utterance_id": "Meeting67_445",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well it has the wee jog-dial"
+  },
+  {
+    "utterance_id": "Meeting67_446",
+    "speaker_id": "Marketing",
+    "utterance_content": "We had to remove {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_447",
+    "speaker_id": "Project Manager",
+    "utterance_content": "but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_448",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , so we've had to remove a few of our features we wanted ,"
+  },
+  {
+    "utterance_id": "Meeting67_449",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_450",
+    "speaker_id": "Marketing",
+    "utterance_content": "but jog-dial"
+  },
+  {
+    "utterance_id": "Meeting67_451",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Say it's more"
+  },
+  {
+    "utterance_id": "Meeting67_452",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I'd go with three or four ,"
+  },
+  {
+    "utterance_id": "Meeting67_453",
+    "speaker_id": "Marketing",
+    "utterance_content": "'s good ."
+  },
+  {
+    "utterance_id": "Meeting67_454",
+    "speaker_id": "User Interface",
+    "utterance_content": "Eight"
+  },
+  {
+    "utterance_id": "Meeting67_455",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "medium ,"
+  },
+  {
+    "utterance_id": "Meeting67_456",
+    "speaker_id": "Project Manager",
+    "utterance_content": "maybe three ."
+  },
+  {
+    "utterance_id": "Meeting67_457",
+    "speaker_id": "User Interface",
+    "utterance_content": "three ."
+  },
+  {
+    "utterance_id": "Meeting67_458",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but going towards a little bit higher than medium kind of thing ."
+  },
+  {
+    "utterance_id": "Meeting67_459",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ,"
+  },
+  {
+    "utterance_id": "Meeting67_460",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah about three , okay ."
+  },
+  {
+    "utterance_id": "Meeting67_461",
+    "speaker_id": "Marketing",
+    "utterance_content": "three ?"
+  },
+  {
+    "utterance_id": "Meeting67_462",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_463",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay , um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_464",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_465",
+    "speaker_id": "Marketing",
+    "utterance_content": "Style reflects a fruit inspired colour , design ."
+  },
+  {
+    "utterance_id": "Meeting67_466",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Lemon ."
+  },
+  {
+    "utterance_id": "Meeting67_467",
+    "speaker_id": "Marketing",
+    "utterance_content": "I shouldn't have said colour , but just {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_468",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay , the blue the blue colours and {disfmarker} don't re don't actually represent the colour ,"
+  },
+  {
+    "utterance_id": "Meeting67_469",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well that's kind of {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_470",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sorta ."
+  },
+  {
+    "utterance_id": "Meeting67_471",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_472",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "except for the b the the red button ,"
+  },
+  {
+    "utterance_id": "Meeting67_473",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_474",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "they {disfmarker} because for want of a {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_475",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_476",
+    "speaker_id": "Project Manager",
+    "utterance_content": "But the yellow , I mean it could be a lemon yellow colour ,"
+  },
+  {
+    "utterance_id": "Meeting67_477",
+    "speaker_id": "Marketing",
+    "utterance_content": "Right . Yeah , could be . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_478",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , the the yellow is more representative of the colour ,"
+  },
+  {
+    "utterance_id": "Meeting67_479",
+    "speaker_id": "Project Manager",
+    "utterance_content": "couldn't it ?"
+  },
+  {
+    "utterance_id": "Meeting67_480",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but the button itself , the blue can be anything else ."
+  },
+  {
+    "utterance_id": "Meeting67_481",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_482",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay . Okay so we'll go two ."
+  },
+  {
+    "utterance_id": "Meeting67_483",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_484",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_485",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ? Okay , and um design is simple to use , simple in features ."
+  },
+  {
+    "utterance_id": "Meeting67_486",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well yeah , I mean it's really basic looking isn't it ?"
+  },
+  {
+    "utterance_id": "Meeting67_487",
+    "speaker_id": "Marketing",
+    "utterance_content": "F f yeah f fairly basic ,"
+  },
+  {
+    "utterance_id": "Meeting67_488",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I mean I'd give that nearly a one ."
+  },
+  {
+    "utterance_id": "Meeting67_489",
+    "speaker_id": "Marketing",
+    "utterance_content": "you guys think ?"
+  },
+  {
+    "utterance_id": "Meeting67_490",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah {gap} one ."
+  },
+  {
+    "utterance_id": "Meeting67_491",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep , that's fine ."
+  },
+  {
+    "utterance_id": "Meeting67_492",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , one ? Okay . {vocalsound} Um , {vocalsound} soft and spongy , have we achieved that ? We've used mostly plastic in the end so it's going to be quite a bit of a compromise for price ."
+  },
+  {
+    "utterance_id": "Meeting67_493",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah I think it's about five ."
+  },
+  {
+    "utterance_id": "Meeting67_494",
+    "speaker_id": "Marketing",
+    "utterance_content": "Five ?"
+  },
+  {
+    "utterance_id": "Meeting67_495",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Five ? That's really low ."
+  },
+  {
+    "utterance_id": "Meeting67_496",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Yeah well we have to use uh plastic"
+  },
+  {
+    "utterance_id": "Meeting67_497",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah I suppose mm 'kay ."
+  },
+  {
+    "utterance_id": "Meeting67_498",
+    "speaker_id": "Marketing",
+    "utterance_content": "That's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_499",
+    "speaker_id": "User Interface",
+    "utterance_content": "so it's probably gonna be {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_500",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um"
+  },
+  {
+    "utterance_id": "Meeting67_501",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , company logo ."
+  },
+  {
+    "utterance_id": "Meeting67_502",
+    "speaker_id": "Marketing",
+    "utterance_content": "could we have used an entirely rubber frame to it ? Was that an option ?"
+  },
+  {
+    "utterance_id": "Meeting67_503",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think it'll be cost prohibitive ,"
+  },
+  {
+    "utterance_id": "Meeting67_504",
+    "speaker_id": "User Interface",
+    "utterance_content": "I think I'd probably increase the cost ."
+  },
+  {
+    "utterance_id": "Meeting67_505",
+    "speaker_id": "Marketing",
+    "utterance_content": "It would cost more than plastic ."
+  },
+  {
+    "utterance_id": "Meeting67_506",
+    "speaker_id": "User Interface",
+    "utterance_content": "We've only got {vocalsound} like what , ten cents left so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_507",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_508",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay , logo , we've got it in there , haven't we ?"
+  },
+  {
+    "utterance_id": "Meeting67_509",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_510",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yep . Gonna have that on the side , aren't we , like there or something ?"
+  },
+  {
+    "utterance_id": "Meeting67_511",
+    "speaker_id": "Marketing",
+    "utterance_content": "Huh . And um it's within budget , yep . It is , isn't it ?"
+  },
+  {
+    "utterance_id": "Meeting67_512",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_513",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay , so we can say then that uh out of a possible {disfmarker} or what would be our goal here ?"
+  },
+  {
+    "utterance_id": "Meeting67_514",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Out of forty nine , I guess ."
+  },
+  {
+    "utterance_id": "Meeting67_515",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , out of forty nine with with zero being the highest . We are at uh two , seven , eight , ten , fifteen point five ."
+  },
+  {
+    "utterance_id": "Meeting67_516",
+    "speaker_id": "Project Manager",
+    "utterance_content": "'S pretty good ."
+  },
+  {
+    "utterance_id": "Meeting67_517",
+    "speaker_id": "Marketing",
+    "utterance_content": "So it's pretty good . Translates to something like about approximately seventy two percent efficacy of our original goal . Right ?"
+  },
+  {
+    "utterance_id": "Meeting67_518",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_519",
+    "speaker_id": "Marketing",
+    "utterance_content": "I think 'cause if you turn that into a hundred it would be about"
+  },
+  {
+    "utterance_id": "Meeting67_520",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Twice that ,"
+  },
+  {
+    "utterance_id": "Meeting67_521",
+    "speaker_id": "Marketing",
+    "utterance_content": "about thirty one ,"
+  },
+  {
+    "utterance_id": "Meeting67_522",
+    "speaker_id": "Project Manager",
+    "utterance_content": "about thirty one ."
+  },
+  {
+    "utterance_id": "Meeting67_523",
+    "speaker_id": "Marketing",
+    "utterance_content": "and then invert that , it's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_524",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So yeah ab well yeah about sixty nine , seventy percent yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_525",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh right , about seventy , yeah seventy percent ."
+  },
+  {
+    "utterance_id": "Meeting67_526",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It's pretty good ."
+  },
+  {
+    "utterance_id": "Meeting67_527",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay , good . That was just a little formality for us to go through ."
+  },
+  {
+    "utterance_id": "Meeting67_528",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_529",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yep , oh hundred pound pen . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_530",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_531",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_532",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sorry {vocalsound} {vocalsound} alright ."
+  },
+  {
+    "utterance_id": "Meeting67_533",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Nobody saw it , honestly . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_534",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} No ."
+  },
+  {
+    "utterance_id": "Meeting67_535",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} The cameras did . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_536",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_537",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Is that you all have all finished , or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_538",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah that's that's me . I did have one other um one other frame I thought , I mean I I d not knowing how we would deal with this information , I thought okay in theory this kind of a process would be about refining our design , revisiting our original goals ."
+  },
+  {
+    "utterance_id": "Meeting67_539",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh-huh ."
+  },
+  {
+    "utterance_id": "Meeting67_540",
+    "speaker_id": "Marketing",
+    "utterance_content": "It's not something I need to p push through , but I thought should we thinking more about the dimensions , um sort of like more of a three dimensional shapes as well as opposed to just that flat um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_541",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_542",
+    "speaker_id": "Marketing",
+    "utterance_content": "Could our design involve a series of colours so that it's more of like a line where we have like sort of the , I don't know like the harvest line or the vibrant ,"
+  },
+  {
+    "utterance_id": "Meeting67_543",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_544",
+    "speaker_id": "Marketing",
+    "utterance_content": "I dunno the {gap} {disfmarker} Whatever just some theme and then we have different tones , lime green , lemon ."
+  },
+  {
+    "utterance_id": "Meeting67_545",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_546",
+    "speaker_id": "Marketing",
+    "utterance_content": "It's just discussion . I mean obviously we can just abandon this , it's fine . I'm just thinking about what we originally set out to do ."
+  },
+  {
+    "utterance_id": "Meeting67_547",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Right ."
+  },
+  {
+    "utterance_id": "Meeting67_548",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um , yep so there . That's all ."
+  },
+  {
+    "utterance_id": "Meeting67_549",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , great um are you submitting the the um evaluation criteria or am I ? I don't know what your instructions have been ."
+  },
+  {
+    "utterance_id": "Meeting67_550",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um , I think to record it and uh I haven't been asked to submit it yet ."
+  },
+  {
+    "utterance_id": "Meeting67_551",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ,"
+  },
+  {
+    "utterance_id": "Meeting67_552",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_553",
+    "speaker_id": "Project Manager",
+    "utterance_content": "uh just wondering if I need to include it in the minutes ,"
+  },
+  {
+    "utterance_id": "Meeting67_554",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_555",
+    "speaker_id": "Project Manager",
+    "utterance_content": "because if you're submitting it anyway then {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_556",
+    "speaker_id": "Marketing",
+    "utterance_content": "I will , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_557",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay great ."
+  },
+  {
+    "utterance_id": "Meeting67_558",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It keeps getting too big ."
+  },
+  {
+    "utterance_id": "Meeting67_559",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Cool . Um right , uh well next up then , because we've done finance , is the project evaluation ."
+  },
+  {
+    "utterance_id": "Meeting67_560",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "'Kay I'm I'm listening I'm just trying to incorporate the logo into the the thing , so I'm playing with the Play-Doh as well ."
+  },
+  {
+    "utterance_id": "Meeting67_561",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh right , okay ."
+  },
+  {
+    "utterance_id": "Meeting67_562",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_563",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Just in case you're wondering {vocalsound} , why is he still playing with the Play-Doh ? {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_564",
+    "speaker_id": "Marketing",
+    "utterance_content": "Huh ."
+  },
+  {
+    "utterance_id": "Meeting67_565",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Just about right"
+  },
+  {
+    "utterance_id": "Meeting67_566",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_567",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "L_E_G_O_ Lego {vocalsound} . {gap}"
+  },
+  {
+    "utterance_id": "Meeting67_568",
+    "speaker_id": "User Interface",
+    "utterance_content": "My leg . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_569",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Right , okay . Um well do you wanna um just individually say what you think about about these four points and {vocalsound} {disfmarker} or not those four points , my four points , sorry , forgotten that . {vocalsound} You got a different uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_570",
+    "speaker_id": "Marketing",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting67_571",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_572",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting67_573",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yep . I like those printer cables that just have the two little butterfly clips like that ."
+  },
+  {
+    "utterance_id": "Meeting67_574",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh yeah , they're good aren't they , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_575",
+    "speaker_id": "Marketing",
+    "utterance_content": "It's really quick ."
+  },
+  {
+    "utterance_id": "Meeting67_576",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Right okay ,"
+  },
+  {
+    "utterance_id": "Meeting67_577",
+    "speaker_id": "Marketing",
+    "utterance_content": "To use ."
+  },
+  {
+    "utterance_id": "Meeting67_578",
+    "speaker_id": "Project Manager",
+    "utterance_content": "um yeah here we are . Uh as a note we'll do this alphabetically . {vocalsound} Um do you wanna start Andrew ?"
+  },
+  {
+    "utterance_id": "Meeting67_579",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sure , um so what is it you're asking of me now ?"
+  },
+  {
+    "utterance_id": "Meeting67_580",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I don't know , just um your opinion on those four those four points really and how we used them ."
+  },
+  {
+    "utterance_id": "Meeting67_581",
+    "speaker_id": "Marketing",
+    "utterance_content": "Or sort of our work on setting this up ."
+  },
+  {
+    "utterance_id": "Meeting67_582",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_583",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Well , is it {disfmarker} uh okay I'll just go through your system then . The the room uh is fairly institutional , but um the main thing is , I think um our use of this space is more just to report on things as opposed to be creative and constructive and it would probably help to um have l sort of a cumulative effect of we have ideas and we come back and then the ideas are still in discussion , you know ,"
+  },
+  {
+    "utterance_id": "Meeting67_584",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh-huh ."
+  },
+  {
+    "utterance_id": "Meeting67_585",
+    "speaker_id": "Marketing",
+    "utterance_content": "as in other words this this room is sort of a centre point of creativity , whereas in reality as we've gone through this , it's not really the centre point of creativity , it's more just a"
+  },
+  {
+    "utterance_id": "Meeting67_586",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well d do you feel though that that you were able to have quite a lot of creative input into the thing ?"
+  },
+  {
+    "utterance_id": "Meeting67_587",
+    "speaker_id": "Marketing",
+    "utterance_content": "d debating {disfmarker} Yeah , yeah but that's just the thing is the quest in terms of the the first point there , the room , it feels as though the creativity goes on when we leave , and then we come here and then we kind of put out our ideas and then , you know ."
+  },
+  {
+    "utterance_id": "Meeting67_588",
+    "speaker_id": "Project Manager",
+    "utterance_content": "But I don't I don't think it means the room as in this room . I think it means like you know {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_589",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh , oh right right , oh right okay room for creativ"
+  },
+  {
+    "utterance_id": "Meeting67_590",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_591",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh right I just looked up and saw okay whiteboard , digital pens , the room ."
+  },
+  {
+    "utterance_id": "Meeting67_592",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Room . Oh yeah . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_593",
+    "speaker_id": "Marketing",
+    "utterance_content": "No , of course , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_594",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well I dunno do you th I think it means um I think it means did you feel you were able to give creative input so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_595",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sorry . Huh . Yeah . Yeah I th okay on th um yeah dif answering the question uh in those terms I'd say that actually there's sort of a tease of creativity because we're asked to work through this , but actually the guidelines are fairly contrived in terms of um okay fashion trends , say fruit and vegetable colour scheme ,"
+  },
+  {
+    "utterance_id": "Meeting67_596",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_597",
+    "speaker_id": "Marketing",
+    "utterance_content": "but then i then we're told okay use the co company company colours ."
+  },
+  {
+    "utterance_id": "Meeting67_598",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_599",
+    "speaker_id": "Marketing",
+    "utterance_content": "So what do we do . We're told okay um think in terms of style and look and feel and technology , but build something for twelve and a half pounds ,"
+  },
+  {
+    "utterance_id": "Meeting67_600",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_601",
+    "speaker_id": "Marketing",
+    "utterance_content": "so actually the creativity was more more of like a um a f sort of a f formality then an actual {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_602",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You feel like you're caged within whatever y"
+  },
+  {
+    "utterance_id": "Meeting67_603",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_604",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah within the constraints"
+  },
+  {
+    "utterance_id": "Meeting67_605",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's like a balloon in a cage , it can only go so big and not hit the side ."
+  },
+  {
+    "utterance_id": "Meeting67_606",
+    "speaker_id": "Marketing",
+    "utterance_content": "the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_607",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_608",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_609",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The constraints do come in very fast ."
+  },
+  {
+    "utterance_id": "Meeting67_610",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay uh do you know what ,"
+  },
+  {
+    "utterance_id": "Meeting67_611",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_612",
+    "speaker_id": "Project Manager",
+    "utterance_content": "actually let's take each point and everybody discuss it , I think ."
+  },
+  {
+    "utterance_id": "Meeting67_613",
+    "speaker_id": "Marketing",
+    "utterance_content": "So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_614",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_615",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_616",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So still on the topic of room for creativity uh next up is Craig ."
+  },
+  {
+    "utterance_id": "Meeting67_617",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um I agree with his point it's um it is quite a lot of fun t to go and then you have sort of hit the end then go right , gotta cut everything out 'cause we don't have enough money ."
+  },
+  {
+    "utterance_id": "Meeting67_618",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_619",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_620",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_621",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think another point is that the meetings um are more brainstorming sessions than meetings ,"
+  },
+  {
+    "utterance_id": "Meeting67_622",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_623",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so time is also a very s um strong factor , and structure ."
+  },
+  {
+    "utterance_id": "Meeting67_624",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_625",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_626",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Because for a brainstorming meeting you want a structure that allows you to {disfmarker} allows ideas to get tossed , um to be evaluated , and to be reviewed , and to get feedback and come back ."
+  },
+  {
+    "utterance_id": "Meeting67_627",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_628",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm , mm-hmm . {vocalsound} Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_629",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And I guess that point about the room not being r very friendly to that , I think that's a very big thing ,"
+  },
+  {
+    "utterance_id": "Meeting67_630",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_631",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and I think the fact that we're wearing these things restricts {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_632",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , sure ."
+  },
+  {
+    "utterance_id": "Meeting67_633",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I feel it 'cause I wear m my glasses , right , and that but that irritates me right"
+  },
+  {
+    "utterance_id": "Meeting67_634",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_635",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "it it it does actually you know affect how , w whether you feel comfortable to communicate ."
+  },
+  {
+    "utterance_id": "Meeting67_636",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . New creativity ."
+  },
+  {
+    "utterance_id": "Meeting67_637",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I feel like I'm hiding behind the equipment , rather than the equipment is helping me , and you know ."
+  },
+  {
+    "utterance_id": "Meeting67_638",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_639",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So you think a more relaxed atmosphere would be more kind of conducive to creative thought or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_640",
+    "speaker_id": "Marketing",
+    "utterance_content": "Right ."
+  },
+  {
+    "utterance_id": "Meeting67_641",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Not not so much an atmosphere , the atmosphere is very relaxed , but the the gear"
+  },
+  {
+    "utterance_id": "Meeting67_642",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but actual environment ?"
+  },
+  {
+    "utterance_id": "Meeting67_643",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "yeah you know that creates boundaries to that um"
+  },
+  {
+    "utterance_id": "Meeting67_644",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_645",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and and the time the time given also restricts {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_646",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_647",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_648",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_649",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_650",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Very good . Um what about leadership ?"
+  },
+  {
+    "utterance_id": "Meeting67_651",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_652",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I don't know if that means like , if I did a good job or something ."
+  },
+  {
+    "utterance_id": "Meeting67_653",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_654",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I don't really know ."
+  },
+  {
+    "utterance_id": "Meeting67_655",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , well well I mean my sense on that is sort of what kind of guidance and direction , encouragement {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_656",
+    "speaker_id": "Project Manager",
+    "utterance_content": "From like your personal coach person and stuff like that , do you think maybe ?"
+  },
+  {
+    "utterance_id": "Meeting67_657",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah from {disfmarker} and you as well I think , just sort of acting as team leader ."
+  },
+  {
+    "utterance_id": "Meeting67_658",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_659",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um yeah I think I think it's"
+  },
+  {
+    "utterance_id": "Meeting67_660",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Excuse me ."
+  },
+  {
+    "utterance_id": "Meeting67_661",
+    "speaker_id": "Marketing",
+    "utterance_content": "I think it's good . I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation , but then to come back with something that they take great ownership and"
+  },
+  {
+    "utterance_id": "Meeting67_662",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_663",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_664",
+    "speaker_id": "Marketing",
+    "utterance_content": "you know , innovative thought with . In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your {disfmarker} the meeting agenda is actually quite a quite a {vocalsound} quite a con confining framework to work within . And so it is leadership almost to the point of sort of disempowering the the the team member , so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_665",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh-huh , okay ."
+  },
+  {
+    "utterance_id": "Meeting67_666",
+    "speaker_id": "Marketing",
+    "utterance_content": "But it's not bad leadership , it's just sort of s fairly strong , you know . It turns it turns the individual into more of like a um sort of a predetermined mechanism , as opposed to a sort of a free {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_667",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So you think maybe a little too controlling or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_668",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_669",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , oh yeah , without without a doubt ."
+  },
+  {
+    "utterance_id": "Meeting67_670",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think controlling is not the right word , I think the interactions are very structured ."
+  },
+  {
+    "utterance_id": "Meeting67_671",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah maybe not co confining ."
+  },
+  {
+    "utterance_id": "Meeting67_672",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think structure is probably what you're saying that , each individual is structured to one particular task , and one parti rather than controlling ."
+  },
+  {
+    "utterance_id": "Meeting67_673",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Yeah , yeah . Mm-hmm , mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_674",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_675",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I don't think there's a sense of control 'cause all the decisions have been made in terms of a , like a consensus right , we go around and we think about it ,"
+  },
+  {
+    "utterance_id": "Meeting67_676",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm . Mm-hmm . Mm-hmm , mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_677",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but that you know process actually says you have to do it in a certain way ."
+  },
+  {
+    "utterance_id": "Meeting67_678",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh-huh ."
+  },
+  {
+    "utterance_id": "Meeting67_679",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm , mm-hmm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_680",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It doesn't tell you , you know , some ways that you might wanna be a bit more creative in terms of the process you know , not the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_681",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_682",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm . Mm-hmm , mm-hmm . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_683",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , uh what about teamwork ?"
+  },
+  {
+    "utterance_id": "Meeting67_684",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um did , you wanna comment Craig ?"
+  },
+  {
+    "utterance_id": "Meeting67_685",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh , reckon that was a bit hard because we could only discuss things in the meeting ."
+  },
+  {
+    "utterance_id": "Meeting67_686",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_687",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_688",
+    "speaker_id": "User Interface",
+    "utterance_content": "If we could just go up to somebody outside the meeting and have a quick talk with them , that would've been a lot easier ."
+  },
+  {
+    "utterance_id": "Meeting67_689",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_690",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_691",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think you tried to use the common share folder to to to to communicate ,"
+  },
+  {
+    "utterance_id": "Meeting67_692",
+    "speaker_id": "Marketing",
+    "utterance_content": "Fully agree ."
+  },
+  {
+    "utterance_id": "Meeting67_693",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but um it just comes back to us so slow in the email"
+  },
+  {
+    "utterance_id": "Meeting67_694",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_695",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_696",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "um it it doesn't have a , you know , a messenger will go {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting67_697",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_698",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Did uh did you guys get the email I sent you ?"
+  },
+  {
+    "utterance_id": "Meeting67_699",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_700",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_701",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh that's alright ."
+  },
+  {
+    "utterance_id": "Meeting67_702",
+    "speaker_id": "User Interface",
+    "utterance_content": "Not just yet ."
+  },
+  {
+    "utterance_id": "Meeting67_703",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I was wondering if that got there okay ."
+  },
+  {
+    "utterance_id": "Meeting67_704",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , got the email ."
+  },
+  {
+    "utterance_id": "Meeting67_705",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_706",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , um so um to s to to summarize the teamwork issue , saying that if we could communicate outside the meeting , you know just like quick questions , quick thoughts , whatever , it probably would be bit easier ."
+  },
+  {
+    "utterance_id": "Meeting67_707",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_708",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think the tools that they were given , the tool set that were given to us are fancy but they don't support collaboration , I think that's the word ."
+  },
+  {
+    "utterance_id": "Meeting67_709",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , in it {disfmarker} Mm-hmm ,"
+  },
+  {
+    "utterance_id": "Meeting67_710",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "They don't support the team working together , you know ,"
+  },
+  {
+    "utterance_id": "Meeting67_711",
+    "speaker_id": "Marketing",
+    "utterance_content": "mm-hmm , mm-hmm ,"
+  },
+  {
+    "utterance_id": "Meeting67_712",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh right , okay ."
+  },
+  {
+    "utterance_id": "Meeting67_713",
+    "speaker_id": "Marketing",
+    "utterance_content": "exactly . Yeah , I mean if you {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_714",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "they're still very individual tools ."
+  },
+  {
+    "utterance_id": "Meeting67_715",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , I mean sort of taking upon that idea , w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided , and then the work went on in isolation"
+  },
+  {
+    "utterance_id": "Meeting67_716",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_717",
+    "speaker_id": "Marketing",
+    "utterance_content": "I I don't know what you guys did while you were together , maybe that was a bit different ,"
+  },
+  {
+    "utterance_id": "Meeting67_718",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "We had Play-Doh fun {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting67_719",
+    "speaker_id": "Marketing",
+    "utterance_content": "but um yeah , but um but actually if you if you imagine not entire the completely same task given to us but us said okay , first thing we have to do is come up with um let's say um a design concept , and we sit here together and do it ,"
+  },
+  {
+    "utterance_id": "Meeting67_720",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_721",
+    "speaker_id": "Marketing",
+    "utterance_content": "well that's what teamwork is . To s to say okay go off and don't talk to each other , it's actually p sort of predisposes you to quite the contrary of teamwork ."
+  },
+  {
+    "utterance_id": "Meeting67_722",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_723",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um not that we haven't done I think the best we could have done ."
+  },
+  {
+    "utterance_id": "Meeting67_724",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_725",
+    "speaker_id": "Marketing",
+    "utterance_content": "I'm not dissatisfied with it ."
+  },
+  {
+    "utterance_id": "Meeting67_726",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Right , uh anything else to say on teamwork at all ?"
+  },
+  {
+    "utterance_id": "Meeting67_727",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No , not really ."
+  },
+  {
+    "utterance_id": "Meeting67_728",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , um what about the you know how we used the whiteboard , the digital pens , the projector , stuff like that ? Um did anybody think anything was like really useful ,"
+  },
+  {
+    "utterance_id": "Meeting67_729",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_730",
+    "speaker_id": "Project Manager",
+    "utterance_content": "anything was pretty un f {vocalsound} unsupportive ?"
+  },
+  {
+    "utterance_id": "Meeting67_731",
+    "speaker_id": "Marketing",
+    "utterance_content": "I think the whiteboard , for me , is the kind of thing I would use all the time , but it's um not quite as useful as to us as it could have been , maybe just in the way that we we use it , in the sense that once we have an idea out there or while work was going on in between meetings , that could have been up on a board uh you know as opposed to in like in text ."
+  },
+  {
+    "utterance_id": "Meeting67_732",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_733",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um , and then we could then keep our ideas sort of building on that . I know that people who design cars and you know in aviation they quite often just have a simple like fibreglass prototype and it's completely you know um abs abstract from the final product , but they use it as a kind of a context to sort of walk around and puzzle and and point and discuss"
+  },
+  {
+    "utterance_id": "Meeting67_734",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm . Yeah . And point at ? Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_735",
+    "speaker_id": "Marketing",
+    "utterance_content": "and and and in a way everybody's {disfmarker} as we discuss things in the {disfmarker} in theoretically and out of our notebooks , we're just {disfmarker} we're actually just each of us discussing something that's in each of our own minds . It wasn't until we had this here , you know ,"
+  },
+  {
+    "utterance_id": "Meeting67_736",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_737",
+    "speaker_id": "Marketing",
+    "utterance_content": "like at one point I peeked across and looked at Craig's paper and I'm like , now I know what he's thinking 'cause I saw his book ."
+  },
+  {
+    "utterance_id": "Meeting67_738",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Ah ."
+  },
+  {
+    "utterance_id": "Meeting67_739",
+    "speaker_id": "Marketing",
+    "utterance_content": "But the b the b whiteboard could've actually been this kind of continuing um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_740",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So do you think producing a prototype earlier in the process woulda been a good idea ?"
+  },
+  {
+    "utterance_id": "Meeting67_741",
+    "speaker_id": "Marketing",
+    "utterance_content": "Think could be , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_742",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think um the the focus of it a lot was the PowerPoint as opposed to the to the whiteboard ,"
+  },
+  {
+    "utterance_id": "Meeting67_743",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_744",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_745",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and I think that m um is also does you know hinder us and things I think ."
+  },
+  {
+    "utterance_id": "Meeting67_746",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_747",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It will be cooler to have the whiteboard rather than the the PowerPoint ,"
+  },
+  {
+    "utterance_id": "Meeting67_748",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_749",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "or maybe the whiteboard and the PowerPoint in the same place ,"
+  },
+  {
+    "utterance_id": "Meeting67_750",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_751",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "you know in the centre of the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_752",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_753",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , because the PowerPoint was provided to us while we had time to prepare , whereas I can imagine if I'd been encouraged to use Paintbrush , for example , or whatever , I would've actually used it ,"
+  },
+  {
+    "utterance_id": "Meeting67_754",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Alright ."
+  },
+  {
+    "utterance_id": "Meeting67_755",
+    "speaker_id": "Marketing",
+    "utterance_content": "um 'ca you know , just 'cause that's sorta how we {disfmarker} what we were set up to to use while we had our time ."
+  },
+  {
+    "utterance_id": "Meeting67_756",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_757",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think that there were too many PowerPoints in the meetings {vocalsound} . 'Cause the plug-in and the plugging spent {disfmarker} we spent a lot of time doing that ."
+  },
+  {
+    "utterance_id": "Meeting67_758",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_759",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_760",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_761",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_762",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And a lot of the information on the PowerPoints , I don't think , you know , we needed to actually {disfmarker} it could have , we could have gone through it {gap} verbally ,"
+  },
+  {
+    "utterance_id": "Meeting67_763",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_764",
+    "speaker_id": "Marketing",
+    "utterance_content": "No , not quite ."
+  },
+  {
+    "utterance_id": "Meeting67_765",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "especially my slides ,"
+  },
+  {
+    "utterance_id": "Meeting67_766",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_767",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I felt that they just you know {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_768",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_769",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_770",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "as opposed to having to present them ."
+  },
+  {
+    "utterance_id": "Meeting67_771",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_772",
+    "speaker_id": "Project Manager",
+    "utterance_content": "What about the digital pens , did you find them easy enough to use ?"
+  },
+  {
+    "utterance_id": "Meeting67_773",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yep clunky ."
+  },
+  {
+    "utterance_id": "Meeting67_774",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Sure , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_775",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh they're a bit clunky ."
+  },
+  {
+    "utterance_id": "Meeting67_776",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Agreed . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_777",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_778",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . {vocalsound} Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_779",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Clunky , okay ."
+  },
+  {
+    "utterance_id": "Meeting67_780",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_781",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um {vocalsound} {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_782",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Having to tick it before you go off was a bit hindering as well , 'cause you're half way through a thought , and then you run out of paper and then you have to jump ."
+  },
+  {
+    "utterance_id": "Meeting67_783",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_784",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_785",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I know , I think at the very start of today I like wrote a whole load of stuff , didn't click note on one ,"
+  },
+  {
+    "utterance_id": "Meeting67_786",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_787",
+    "speaker_id": "Project Manager",
+    "utterance_content": "then went back and wrote one tiny wee thing on the another page , but then did click note , and so I'm quite worried that I've just written over the top of it or something ,"
+  },
+  {
+    "utterance_id": "Meeting67_788",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm . Hmm . Mm-hmm , mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_789",
+    "speaker_id": "Project Manager",
+    "utterance_content": "but they'll have my paper anyway um and haven't done that since ."
+  },
+  {
+    "utterance_id": "Meeting67_790",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_791",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But I think the pen is v is very intuitive , everybody knows how to use it , we don't {gap} have to worry ."
+  },
+  {
+    "utterance_id": "Meeting67_792",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting67_793",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ,"
+  },
+  {
+    "utterance_id": "Meeting67_794",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So I think the pen's good ."
+  },
+  {
+    "utterance_id": "Meeting67_795",
+    "speaker_id": "Project Manager",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_796",
+    "speaker_id": "Marketing",
+    "utterance_content": "mm-hmm , mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_797",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's about the best thing . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_798",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_799",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_800",
+    "speaker_id": "Marketing",
+    "utterance_content": "And o on the topic of the technology , it just occurred to me that we actually didn't need to move our computers because each computer has all of the files ."
+  },
+  {
+    "utterance_id": "Meeting67_801",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_802",
+    "speaker_id": "Marketing",
+    "utterance_content": "It just occurred to me that they all {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_803",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah we only needed one computer and {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_804",
+    "speaker_id": "Marketing",
+    "utterance_content": "We only actually needed one computer ."
+  },
+  {
+    "utterance_id": "Meeting67_805",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , that's true ."
+  },
+  {
+    "utterance_id": "Meeting67_806",
+    "speaker_id": "Marketing",
+    "utterance_content": "If there had been a fifth , that coulda just been sitting there ready to go the whole time ."
+  },
+  {
+    "utterance_id": "Meeting67_807",
+    "speaker_id": "User Interface",
+    "utterance_content": "Good point ."
+  },
+  {
+    "utterance_id": "Meeting67_808",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And the computer may not um be conducive to a meeting because um you tend to look at your computer and wanna have the urge to check something , you know ,"
+  },
+  {
+    "utterance_id": "Meeting67_809",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_810",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "it's useful but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_811",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_812",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_813",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Do you think the computers just provide distraction in a meeting ?"
+  },
+  {
+    "utterance_id": "Meeting67_814",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think too many computers are just distracting ."
+  },
+  {
+    "utterance_id": "Meeting67_815",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_816",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_817",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . I know I I like to have things written down in front of me actually , like a lot of the stuff that was emailed to me I ended up you know like writing down there or something so I could look at it really quickly and not have the distraction of all of that ,"
+  },
+  {
+    "utterance_id": "Meeting67_818",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm . Yep . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_819",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_820",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_821",
+    "speaker_id": "Project Manager",
+    "utterance_content": "um I don't know about anybody else ."
+  },
+  {
+    "utterance_id": "Meeting67_822",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_823",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um {vocalsound} what else uh any wh I do I'm not really sure what they're looking for when they say new ideas found . Um I don't know is {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_824",
+    "speaker_id": "User Interface",
+    "utterance_content": "Is this for the project or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_825",
+    "speaker_id": "Project Manager",
+    "utterance_content": "could you think of like anything else that would have been helpful today at all ?"
+  },
+  {
+    "utterance_id": "Meeting67_826",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well , the w main one for me is that uh the process na in a natural f context would not have been interrupted by this necessity to discommunicate ourselves from each other ."
+  },
+  {
+    "utterance_id": "Meeting67_827",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm . Yeah if we just had uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_828",
+    "speaker_id": "Marketing",
+    "utterance_content": "So , that's kind of a new idea for me is like just sort of that idea , well you know it's kind of s hard to keep f working forward on a team a team based project when when you're told you must now work away from your team ."
+  },
+  {
+    "utterance_id": "Meeting67_829",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Mm-hmm . {vocalsound} Yeah I I dunno I think it was quite good that we had time limits on the meetings because they really could have run on and like my experience with meetings is that they really do , and you can spend a lot of time talking about {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_830",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh yeah . Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_831",
+    "speaker_id": "Project Manager",
+    "utterance_content": "The only thing is though like when we had our meeting about the conceptual design , I thought there {disfmarker} maybe another fifteen minutes would have been useful there but um {vocalsound} yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_832",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm , mm-hmm , mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_833",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I really thi i I think maybe if we'd like all been working in the one room , and they just said you know like every hour or something everybody make sure yo you know just have a have a short meeting and then just c"
+  },
+  {
+    "utterance_id": "Meeting67_834",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_835",
+    "speaker_id": "Project Manager",
+    "utterance_content": "just to have like something written down , just like you know a a milestone if you like um rather than having meetings , but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_836",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_837",
+    "speaker_id": "Project Manager",
+    "utterance_content": "There you go . Um so in closing ,"
+  },
+  {
+    "utterance_id": "Meeting67_838",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_839",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I haven't got my five minutes to go . Thin Oh there it i Five minutes to go . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_840",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_841",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Wonderful . Okay um are the costs within the budget , yes they are . And is the project evaluated , yes it is . So now celebrate {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting67_842",
+    "speaker_id": "Marketing",
+    "utterance_content": "Great ."
+  },
+  {
+    "utterance_id": "Meeting67_843",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_844",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And we have Ninja Homer ."
+  },
+  {
+    "utterance_id": "Meeting67_845",
+    "speaker_id": "Marketing",
+    "utterance_content": "So it {disfmarker} So now we {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_846",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_847",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_848",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well apparently now I write the final report . What are you guys doing now ?"
+  },
+  {
+    "utterance_id": "Meeting67_849",
+    "speaker_id": "User Interface",
+    "utterance_content": "Do we know what the other ones are ?"
+  },
+  {
+    "utterance_id": "Meeting67_850",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_851",
+    "speaker_id": "Marketing",
+    "utterance_content": "I I don't know ."
+  },
+  {
+    "utterance_id": "Meeting67_852",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You dunno ?"
+  },
+  {
+    "utterance_id": "Meeting67_853",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh wow . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_854",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_855",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That is lovely . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_856",
+    "speaker_id": "User Interface",
+    "utterance_content": "Hey yeah , I said Ninja Homer . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_857",
+    "speaker_id": "Marketing",
+    "utterance_content": "What did you call it ?"
+  },
+  {
+    "utterance_id": "Meeting67_858",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Ninja Homer . See it looks like Homer Simpson"
+  },
+  {
+    "utterance_id": "Meeting67_859",
+    "speaker_id": "Marketing",
+    "utterance_content": "Huh , huh ."
+  },
+  {
+    "utterance_id": "Meeting67_860",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but it's electronic so it's made in Japan ."
+  },
+  {
+    "utterance_id": "Meeting67_861",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So is that j is that just is that just a logo or does it do anything ?"
+  },
+  {
+    "utterance_id": "Meeting67_862",
+    "speaker_id": "Marketing",
+    "utterance_content": "Logo ."
+  },
+  {
+    "utterance_id": "Meeting67_863",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_864",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah it's just a logo ."
+  },
+  {
+    "utterance_id": "Meeting67_865",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Just a logo and then like Ninja Homer ,"
+  },
+  {
+    "utterance_id": "Meeting67_866",
+    "speaker_id": "Marketing",
+    "utterance_content": "Huh ."
+  },
+  {
+    "utterance_id": "Meeting67_867",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Ninja Homer . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_868",
+    "speaker_id": "Project Manager",
+    "utterance_content": "right okay . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_869",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting67_870",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The the red is supposed to represent the whatever else you wanna print on the side of it ."
+  },
+  {
+    "utterance_id": "Meeting67_871",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_872",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I think it's quite nice ."
+  },
+  {
+    "utterance_id": "Meeting67_873",
+    "speaker_id": "Marketing",
+    "utterance_content": "Fashion technology or something ."
+  },
+  {
+    "utterance_id": "Meeting67_874",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You can wear Homer ,"
+  },
+  {
+    "utterance_id": "Meeting67_875",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting67_876",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "you can throw Homer when you're frustrated , doh . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_877",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm , hmm , hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_878",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_879",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh no , that's cool , it's got {disfmarker} I'm kind of {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_880",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's clunky ."
+  },
+  {
+    "utterance_id": "Meeting67_881",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_882",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I'm slightly gutted that we couldn't get plastic and rubber , I think that would have been nice ."
+  },
+  {
+    "utterance_id": "Meeting67_883",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_884",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Ah well , maybe from now on real reaction should give us more money ."
+  },
+  {
+    "utterance_id": "Meeting67_885",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_886",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh , I did learn something new , Play-Doh is useful ."
+  },
+  {
+    "utterance_id": "Meeting67_887",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_888",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No it is it is ."
+  },
+  {
+    "utterance_id": "Meeting67_889",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Play-Doh s"
+  },
+  {
+    "utterance_id": "Meeting67_890",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_891",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It is useful and in in in in in in in um conceptualizing , in being creative ."
+  },
+  {
+    "utterance_id": "Meeting67_892",
+    "speaker_id": "Marketing",
+    "utterance_content": "Huh . Huh ."
+  },
+  {
+    "utterance_id": "Meeting67_893",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "'Cause like you say , it's something you can put your hands on and feel and touch and get a sense for ."
+  },
+  {
+    "utterance_id": "Meeting67_894",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Really ?"
+  },
+  {
+    "utterance_id": "Meeting67_895",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_896",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_897",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Like we were playing with the Play-Doh and the ideas came with the Play-Doh rather than with everything else ."
+  },
+  {
+    "utterance_id": "Meeting67_898",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Did they ?"
+  },
+  {
+    "utterance_id": "Meeting67_899",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You might wanna write that down . It's just , I'm just fiddling with the Play-Doh , and I'm going yeah yeah it's kinda cool ."
+  },
+  {
+    "utterance_id": "Meeting67_900",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_901",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Play-Doh ."
+  },
+  {
+    "utterance_id": "Meeting67_902",
+    "speaker_id": "Marketing",
+    "utterance_content": "No , it's true , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_903",
+    "speaker_id": "User Interface",
+    "utterance_content": "Guess I'd forgot how good s Play-Doh smells ."
+  },
+  {
+    "utterance_id": "Meeting67_904",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , it smells funny doesn't it . Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_905",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm . And some Play-Dohs are actually I think edible aren't they ?"
+  },
+  {
+    "utterance_id": "Meeting67_906",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No , all Play-Doh is edible ."
+  },
+  {
+    "utterance_id": "Meeting67_907",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah like the stuff for {gap} {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_908",
+    "speaker_id": "User Interface",
+    "utterance_content": "I think they're all non-toxic 'cause it's aimed for like two-year-olds ."
+  },
+  {
+    "utterance_id": "Meeting67_909",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I think it has to be , yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_910",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's just wheat , it's the stuff that your mom could make with preservatives and uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_911",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah um so to"
+  },
+  {
+    "utterance_id": "Meeting67_912",
+    "speaker_id": "Marketing",
+    "utterance_content": "Wow , hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_913",
+    "speaker_id": "Project Manager",
+    "utterance_content": "wha what are your summarising words about Play-Doh ?"
+  },
+  {
+    "utterance_id": "Meeting67_914",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's helpful to the creative process ."
+  },
+  {
+    "utterance_id": "Meeting67_915",
+    "speaker_id": "Marketing",
+    "utterance_content": "Huh ."
+  },
+  {
+    "utterance_id": "Meeting67_916",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um it engages all your senses not just your sight , but your sense of feel your sense of touch ."
+  },
+  {
+    "utterance_id": "Meeting67_917",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting67_918",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting67_919",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And it helps you to understand"
+  },
+  {
+    "utterance_id": "Meeting67_920",
+    "speaker_id": "Marketing",
+    "utterance_content": "Taste . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_921",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_922",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_923",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} dimension as well . I think that that's very helpful because it it starts to pop up ,"
+  },
+  {
+    "utterance_id": "Meeting67_924",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_925",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_926",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "whereas on a piece of paper , on a computer , on a board , um even with a three D_ graphic thing it still , it requires a lot of"
+  },
+  {
+    "utterance_id": "Meeting67_927",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_928",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm , yep . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_929",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah"
+  },
+  {
+    "utterance_id": "Meeting67_930",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting67_931",
+    "speaker_id": "User Interface",
+    "utterance_content": "it's not very tangible ."
+  },
+  {
+    "utterance_id": "Meeting67_932",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "yeah {disfmarker} tangible , that's a nice word ."
+  },
+  {
+    "utterance_id": "Meeting67_933",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_934",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm , mm-hmm ,"
+  },
+  {
+    "utterance_id": "Meeting67_935",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It becomes tangible ."
+  },
+  {
+    "utterance_id": "Meeting67_936",
+    "speaker_id": "Marketing",
+    "utterance_content": "mm-hmm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting67_937",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Tangible . Okay uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_938",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_939",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm . I don't know if there's anything else we needed to discuss ."
+  },
+  {
+    "utterance_id": "Meeting67_940",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Nope ."
+  },
+  {
+    "utterance_id": "Meeting67_941",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That that's about it really . Just sit still I guess for a little while ."
+  },
+  {
+    "utterance_id": "Meeting67_942",
+    "speaker_id": "Marketing",
+    "utterance_content": "Do we retreat to our , to continue our"
+  },
+  {
+    "utterance_id": "Meeting67_943",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think we could probably do it here as long as we don't collaborate ."
+  },
+  {
+    "utterance_id": "Meeting67_944",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting67_945",
+    "speaker_id": "Marketing",
+    "utterance_content": "r reporting or what i"
+  },
+  {
+    "utterance_id": "Meeting67_946",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well I dunno . Um I'm sure the little uh the little thing'll pop up any minute now ."
+  },
+  {
+    "utterance_id": "Meeting67_947",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting67_948",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Can we turn off the microphones ?"
+  },
+  {
+    "utterance_id": "Meeting67_949",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , yeah if the meeting's over then yeah I guess so ."
+  },
+  {
+    "utterance_id": "Meeting67_950",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  }
+]

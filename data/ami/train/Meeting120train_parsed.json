@@ -1,0 +1,2007 @@
+[
+  {
+    "utterance_id": "Meeting120_001",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay everybody is ready ? {vocalsound} Good morning again . So , today we are going to have a f second meeting . Oh Michael , hi ."
+  },
+  {
+    "utterance_id": "Meeting120_002",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting120_003",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You're late . You have a good reason for that ?"
+  },
+  {
+    "utterance_id": "Meeting120_004",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Yes ."
+  },
+  {
+    "utterance_id": "Meeting120_005",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_006",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Very good {vocalsound} . {vocalsound} Okay , let's have a look to the agenda today . {vocalsound} So , we are going to have a meeting about the functional design . Um so first before starting I w just going to uh to go quickly to {disfmarker} through the minutes of previous meeting . So uh {vocalsound} basically we we are not decided if w we should go for a universal or specific uh uh remote control , but I have new um new i inputs for {disfmarker} about that topics . I goin I'm going to share with you . {vocalsound} And uh basically we decided to um to uh go to individual actions for each of you uh so um Industrial Designer should wor was supposed to work on th on th on the working design . You showed us {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_007",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting120_008",
+    "speaker_id": "Project Manager",
+    "utterance_content": "you ar you you prepare something for us ?"
+  },
+  {
+    "utterance_id": "Meeting120_009",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah . Yep ."
+  },
+  {
+    "utterance_id": "Meeting120_010",
+    "speaker_id": "Project Manager",
+    "utterance_content": "The U_I_ guy also uh work on that , yeah , and for the mar our Marketing Expert should deliver some specs ."
+  },
+  {
+    "utterance_id": "Meeting120_011",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting120_012",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Alright {vocalsound} so {vocalsound} so we are going to go through three of your individual presentations . But first I would like quickly to uh to decide of {disfmarker} to give a name to the project . So , I just put d quickly Remo , but if you have any o other names that we co could decide for just to to keep something fun for our project we we should {disfmarker} we could discuss quickly . Any ideas ?"
+  },
+  {
+    "utterance_id": "Meeting120_013",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh the Powerstick ."
+  },
+  {
+    "utterance_id": "Meeting120_014",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_015",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Powerstick , yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_016",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_017",
+    "speaker_id": "Project Manager",
+    "utterance_content": "What else ? What else ?"
+  },
+  {
+    "utterance_id": "Meeting120_018",
+    "speaker_id": "Marketing",
+    "utterance_content": "Uh . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_019",
+    "speaker_id": "User Interface",
+    "utterance_content": "Maybe a Spanish name would work well ."
+  },
+  {
+    "utterance_id": "Meeting120_020",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm I was thinking of the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_021",
+    "speaker_id": "User Interface",
+    "utterance_content": "Especially if we're selling into the U_S_ market becasue there's a lot of Spanish speakers there . Maybe something that sounds cool in English but sounds funny in Spanish ."
+  },
+  {
+    "utterance_id": "Meeting120_022",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mando ."
+  },
+  {
+    "utterance_id": "Meeting120_023",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mando ."
+  },
+  {
+    "utterance_id": "Meeting120_024",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mango ? Mango ?"
+  },
+  {
+    "utterance_id": "Meeting120_025",
+    "speaker_id": "User Interface",
+    "utterance_content": "What is that ?"
+  },
+  {
+    "utterance_id": "Meeting120_026",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mando ."
+  },
+  {
+    "utterance_id": "Meeting120_027",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mando . M_A_ ? M_A_ ?"
+  },
+  {
+    "utterance_id": "Meeting120_028",
+    "speaker_id": "Marketing",
+    "utterance_content": "A*_N_ yeah D_O ."
+  },
+  {
+    "utterance_id": "Meeting120_029",
+    "speaker_id": "Project Manager",
+    "utterance_content": "M_ D_O_ . Mm , okay ."
+  },
+  {
+    "utterance_id": "Meeting120_030",
+    "speaker_id": "Marketing",
+    "utterance_content": "It doesn't it doesn't sound cool for me ,"
+  },
+  {
+    "utterance_id": "Meeting120_031",
+    "speaker_id": "Project Manager",
+    "utterance_content": "What does it mean ? Oh ."
+  },
+  {
+    "utterance_id": "Meeting120_032",
+    "speaker_id": "Marketing",
+    "utterance_content": "but maybe for a Spanish {disfmarker} for I {disfmarker} for {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_033",
+    "speaker_id": "User Interface",
+    "utterance_content": "What does it mean in Spanish ?"
+  },
+  {
+    "utterance_id": "Meeting120_034",
+    "speaker_id": "Marketing",
+    "utterance_content": "Control ."
+  },
+  {
+    "utterance_id": "Meeting120_035",
+    "speaker_id": "User Interface",
+    "utterance_content": "Control ."
+  },
+  {
+    "utterance_id": "Meeting120_036",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Hmm . Nice ."
+  },
+  {
+    "utterance_id": "Meeting120_037",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay . 'Cause it also {disfmarker} like in English it sounds like you know the man's tool you know because you know men like to have control of the remote"
+  },
+  {
+    "utterance_id": "Meeting120_038",
+    "speaker_id": "Marketing",
+    "utterance_content": "But {disfmarker} mm , yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_039",
+    "speaker_id": "User Interface",
+    "utterance_content": "so it might {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_040",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mando sounds Latino . {vocalsound} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_041",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_042",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_043",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_044",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_045",
+    "speaker_id": "User Interface",
+    "utterance_content": "The Mando ."
+  },
+  {
+    "utterance_id": "Meeting120_046",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} So , let's go for Mando ? Yeah ? No objection ?"
+  },
+  {
+    "utterance_id": "Meeting120_047",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_048",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah that's {gap} ."
+  },
+  {
+    "utterance_id": "Meeting120_049",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Great . So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_050",
+    "speaker_id": "User Interface",
+    "utterance_content": "And we could have some like you d you could have the fonts you know special , so you have man in like in in uh in one o in one font and then the O_ as like {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_051",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , I think this is {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_052",
+    "speaker_id": "User Interface",
+    "utterance_content": "Although you don't wanna cut uh cut women out of the uh potential buyers though ,"
+  },
+  {
+    "utterance_id": "Meeting120_053",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_054",
+    "speaker_id": "User Interface",
+    "utterance_content": "do you ? So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_055",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah they are the most T_V_ watcher . So we should be careful ."
+  },
+  {
+    "utterance_id": "Meeting120_056",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_057",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , I think this is more a question of of {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_058",
+    "speaker_id": "User Interface",
+    "utterance_content": "Marketing ."
+  },
+  {
+    "utterance_id": "Meeting120_059",
+    "speaker_id": "Marketing",
+    "utterance_content": "But {disfmarker} yeah"
+  },
+  {
+    "utterance_id": "Meeting120_060",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I I think this is more a question of of look and feel ."
+  },
+  {
+    "utterance_id": "Meeting120_061",
+    "speaker_id": "Marketing",
+    "utterance_content": "it uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_062",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Something that should be addressed later We should we should go to other {disfmarker} for the other topics ."
+  },
+  {
+    "utterance_id": "Meeting120_063",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah because if the product will be international {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_064",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well that's the thing . We need to know who we're selling it to before we can really decide on a {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_065",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah okay , so let's stick f to Man Mando for the name"
+  },
+  {
+    "utterance_id": "Meeting120_066",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um ."
+  },
+  {
+    "utterance_id": "Meeting120_067",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and we'll see for the for the look and feel later . So let's go for the three presentations right now . So , who want to start ?"
+  },
+  {
+    "utterance_id": "Meeting120_068",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_069",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So maybe we could start with the market , yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_070",
+    "speaker_id": "Marketing",
+    "utterance_content": "Maybe maybe I should uh start . Yeah . Mm . Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_071",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay so I have your slides somewhere ?"
+  },
+  {
+    "utterance_id": "Meeting120_072",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Should be in participant four ."
+  },
+  {
+    "utterance_id": "Meeting120_073",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Participant four . {vocalsound} This one ?"
+  },
+  {
+    "utterance_id": "Meeting120_074",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , yeah . {vocalsound} Uh ."
+  },
+  {
+    "utterance_id": "Meeting120_075",
+    "speaker_id": "Project Manager",
+    "utterance_content": "S that's coming . Uh {gap}"
+  },
+  {
+    "utterance_id": "Meeting120_076",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_077",
+    "speaker_id": "Project Manager",
+    "utterance_content": "okay . Great ."
+  },
+  {
+    "utterance_id": "Meeting120_078",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting120_079",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay so yeah I will I will give a brief outline about what I what I prepared for this meeting ."
+  },
+  {
+    "utterance_id": "Meeting120_080",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_081",
+    "speaker_id": "Marketing",
+    "utterance_content": "For the functional requirements and especially for the for the user requirements . I prepare a marketing report and we have to find the weaknesses and and the the improvements we could do to the current remote controls . And also I di I did a study with {disfmarker} for the incorporation of new technologies it seems that the remote controls have been {disfmarker} have remained the same for the last five , ten years . There is no no significant difference between the the b the first new controls and {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_082",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Sh next slide ?"
+  },
+  {
+    "utterance_id": "Meeting120_083",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_084",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_085",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well {vocalsound} {vocalsound} more {disfmarker} most of the people think that remote controls are ugly , thoroughly . So and they they admit that the the they should uh s they would uh spend more money in a fancier remote control , which is which is good and it's interesting point . Also the people are worried about about the R*_S_I_ disease , which is if you repeat the sa the same movement , which is not a {disfmarker} with a not very appropriate device , you you will have problems whe when you will get old . So s people are uh are worried about the the shape of the of the remote control . They are also {vocalsound} {disfmarker} they get angry very often because they lost the remote control very often , so I think it would be a good point to to l to to find a a solution to {disfmarker} any beep any alarm or something incorporated to {disfmarker} with the remote control every time it it get lost ."
+  },
+  {
+    "utterance_id": "Meeting120_086",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_087",
+    "speaker_id": "Marketing",
+    "utterance_content": "And also I found that young people {disfmarker} the the younger people are the more interested they are in incorporating new technologies in the in the remote control ."
+  },
+  {
+    "utterance_id": "Meeting120_088",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_089",
+    "speaker_id": "Marketing",
+    "utterance_content": "So {vocalsound} {vocalsound} in my opinion the Mando {disfmarker} this Mando shouldn't be very small because the smaller it is , the more like {disfmarker} the the liklier it is to get lost . Liklier or more likely ?"
+  },
+  {
+    "utterance_id": "Meeting120_090",
+    "speaker_id": "User Interface",
+    "utterance_content": "More likely . {gap}"
+  },
+  {
+    "utterance_id": "Meeting120_091",
+    "speaker_id": "Marketing",
+    "utterance_content": "{gap} likely . Okay . Uh {vocalsound} people also complain because they they they all have the same size of the buttons for buttons who w which are not very use like f uh memorising channels or or this kind of actions which are not very often but {vocalsound} they they shouldn't they shouldn't have the same importance in the in the uh in the remote cont in the remote control . Also the z the design should fit the hand shape . So it may be interesting to to think in a {disfmarker} in both prototypes , for right and left handed people ."
+  },
+  {
+    "utterance_id": "Meeting120_092",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well th the on the thing is though , most remote controls are used by more than one person . So unless you're kind of targeting single people you know you're gonna maybe"
+  },
+  {
+    "utterance_id": "Meeting120_093",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_094",
+    "speaker_id": "User Interface",
+    "utterance_content": "cut out some {disfmarker} a lot of your market ."
+  },
+  {
+    "utterance_id": "Meeting120_095",
+    "speaker_id": "Marketing",
+    "utterance_content": "I dunno I th Anyway I think it could be int interesting to to release some {disfmarker} a a small fraction of of this remote controls ."
+  },
+  {
+    "utterance_id": "Meeting120_096",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Well maybe it could be a universal design ."
+  },
+  {
+    "utterance_id": "Meeting120_097",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sorry ?"
+  },
+  {
+    "utterance_id": "Meeting120_098",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "A universal design , which is which is good for both the hands ."
+  },
+  {
+    "utterance_id": "Meeting120_099",
+    "speaker_id": "User Interface",
+    "utterance_content": "Still shaped for yeah for your hand but not for a particular hand , right ?"
+  },
+  {
+    "utterance_id": "Meeting120_100",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_101",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ? That's right , whether it's left hand or right hand ,"
+  },
+  {
+    "utterance_id": "Meeting120_102",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_103",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but but {vocalsound} don't you think that the two points are clashing , one thing you are saying design should fit the hand shape and it should not be very small ?"
+  },
+  {
+    "utterance_id": "Meeting120_104",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sorry ?"
+  },
+  {
+    "utterance_id": "Meeting120_105",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The first and the third point , they are clashing ."
+  },
+  {
+    "utterance_id": "Meeting120_106",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well it can still be a {gap} , you can still extend past the hand ."
+  },
+  {
+    "utterance_id": "Meeting120_107",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_108",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_109",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_110",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh ."
+  },
+  {
+    "utterance_id": "Meeting120_111",
+    "speaker_id": "Marketing",
+    "utterance_content": "Like uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_112",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So fitting the hand doesn't mean much then ."
+  },
+  {
+    "utterance_id": "Meeting120_113",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well it means {disfmarker} like , this remote here is kind of {disfmarker} is very thin and long so instead of having {disfmarker} you know you might have it kind of {disfmarker} a bit bigger"
+  },
+  {
+    "utterance_id": "Meeting120_114",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_115",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , like {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_116",
+    "speaker_id": "User Interface",
+    "utterance_content": "or , you know , with maybe some some finger molds or something ."
+  },
+  {
+    "utterance_id": "Meeting120_117",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm mm-hmm mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_118",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_119",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So it means design should be similar to the traditional ones ?"
+  },
+  {
+    "utterance_id": "Meeting120_120",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting120_121",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Little sleek , longer ?"
+  },
+  {
+    "utterance_id": "Meeting120_122",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting120_123",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And it should fit the hand ."
+  },
+  {
+    "utterance_id": "Meeting120_124",
+    "speaker_id": "Marketing",
+    "utterance_content": "No no I was thinking of so like something {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_125",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Something with the shape of the palm ?"
+  },
+  {
+    "utterance_id": "Meeting120_126",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm mm-hmm mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_127",
+    "speaker_id": "Marketing",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_128",
+    "speaker_id": "User Interface",
+    "utterance_content": "Some finger grips maybe ."
+  },
+  {
+    "utterance_id": "Meeting120_129",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_130",
+    "speaker_id": "User Interface",
+    "utterance_content": "You could even have some buttons like you know on the sides and everything ,"
+  },
+  {
+    "utterance_id": "Meeting120_131",
+    "speaker_id": "Project Manager",
+    "utterance_content": "On the sides ."
+  },
+  {
+    "utterance_id": "Meeting120_132",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah yeah . It sh it shouldn't it shouldn't be symmetric symmetrical ."
+  },
+  {
+    "utterance_id": "Meeting120_133",
+    "speaker_id": "User Interface",
+    "utterance_content": "but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_134",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hm mm-hmm mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_135",
+    "speaker_id": "Marketing",
+    "utterance_content": "Not anymore . That's what {disfmarker} yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_136",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And then finally {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_137",
+    "speaker_id": "Marketing",
+    "utterance_content": "And finally , the incorporation of a L_C_D_ or a speech recognition system in the remote control could also be interesting , but I don't know if the budget would be large enough ."
+  },
+  {
+    "utterance_id": "Meeting120_138",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_139",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . First I'm just wondering about the L_C_D_ stuff because uh because {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_140",
+    "speaker_id": "Marketing",
+    "utterance_content": "But most of {disfmarker} yeah most of the young people to thirty to thirty years old were really interested in this kind of technology ."
+  },
+  {
+    "utterance_id": "Meeting120_141",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , so maybe it's a good time for me to uh {vocalsound} to bring you to some new uh new informations . We had the new requirements from the {disfmarker} so uh from the head offices of the company , and so they wanted {disfmarker} so they want to um {disfmarker} they would like to be restricted to T_V_ ."
+  },
+  {
+    "utterance_id": "Meeting120_142",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_143",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , I dunno if you had this information already . No ,"
+  },
+  {
+    "utterance_id": "Meeting120_144",
+    "speaker_id": "User Interface",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting120_145",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so they want us to restrict the remote control to T_V_ only because of time limitations . Um they want also uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_146",
+    "speaker_id": "Marketing",
+    "utterance_content": "Actually this marketing report is restricted to T_V_ remote controls ."
+  },
+  {
+    "utterance_id": "Meeting120_147",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Excellent . So we have also to focus more on the internet aspects because well well te teletext is outdated now and uh finally , {vocalsound} it should be clear that the corporate image , that means colours and logos of the co our company should be clearly inde identified in the product . So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_148",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} I was still uh I was still working on this uh twenty five Euro price point because I think actually having looked at some of the remotes out there , this is quite a low uh price if if we're {disfmarker} maybe I can get to this in my presentation though ,"
+  },
+  {
+    "utterance_id": "Meeting120_149",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah yeah . Sure sure ."
+  },
+  {
+    "utterance_id": "Meeting120_150",
+    "speaker_id": "User Interface",
+    "utterance_content": "but um yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_151",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So maybe we can jump to your presentations , right now ."
+  },
+  {
+    "utterance_id": "Meeting120_152",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yep . Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_153",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay so let's keep in mind about tha that that {disfmarker} this last point about L_C_D_ and speech uh reco"
+  },
+  {
+    "utterance_id": "Meeting120_154",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . I think even even if it was within budget do a speech reco rec system it might be a bit difficult because if you think {disfmarker} if you're watching T_V_ you're gonna have a lot of this uh background noise from the T_V_ which might interfere with the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_155",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Sorry , what is your {gap} ?"
+  },
+  {
+    "utterance_id": "Meeting120_156",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh participant three . You might have some background noise from the T_V_ which will make the speech recognition much uh harder , so ."
+  },
+  {
+    "utterance_id": "Meeting120_157",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah but you should be able to activate or disactivate , so {disfmarker} yeah yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_158",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Oh you press a press a button to talk , and the the T_V_ the T_V_ {vocalsound} sound turns off . {gap}"
+  },
+  {
+    "utterance_id": "Meeting120_159",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah uh channel fifty ."
+  },
+  {
+    "utterance_id": "Meeting120_160",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No it could be command control kind of thing ."
+  },
+  {
+    "utterance_id": "Meeting120_161",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_162",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It requir recognises particular sequence and then it gets activated . Means you say {disfmarker} you should say like does that , remote control being on or be on kind of thing , and then remote control comes in the picture for the speech recognition ."
+  },
+  {
+    "utterance_id": "Meeting120_163",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_164",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Because this kind of thing means speech is there from the T_V_ also ."
+  },
+  {
+    "utterance_id": "Meeting120_165",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_166",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So there should be something command controlled , you start and then you stop ."
+  },
+  {
+    "utterance_id": "Meeting120_167",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_168",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's like V_I_ editor , you are having two modes similarly ."
+  },
+  {
+    "utterance_id": "Meeting120_169",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_170",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Otherwise it's just lying idle ."
+  },
+  {
+    "utterance_id": "Meeting120_171",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay Michael ."
+  },
+  {
+    "utterance_id": "Meeting120_172",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay , so , could I describe the mouse maybe {gap} be easier to {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_173",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Sorry ?"
+  },
+  {
+    "utterance_id": "Meeting120_174",
+    "speaker_id": "User Interface",
+    "utterance_content": "could I use the mouse , or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_175",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_176",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm . Thanks . Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_177",
+    "speaker_id": "Project Manager",
+    "utterance_content": "The wheel doesn't work ."
+  },
+  {
+    "utterance_id": "Meeting120_178",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Great {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting120_179",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_180",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_181",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay so um while uh researching this this topic I first of all just thought of a couple of things that I would like to see in a remote , and just uh looked to see if they're actually available in any current remotes , and then also searched for which are the top-rated uh remote controls on Epinions dot com , which is a a you know a a customer um written basically review site . So um there's a pretty wide range of uh remote controls these days and and uh this remote control on the right here is is one of the more extravagant , but it's not really {disfmarker} it's by no means uh mm you know {vocalsound} on it's own in being so expensive . There are a lot of expensive remote controls out there ."
+  },
+  {
+    "utterance_id": "Meeting120_182",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{gap} Looks like a P_D_A_ {gap} ?"
+  },
+  {
+    "utterance_id": "Meeting120_183",
+    "speaker_id": "User Interface",
+    "utterance_content": "So {disfmarker} {vocalsound} yeah it doe it's {disfmarker} well basically all the functions uh are controlled through through the L_C_D_ screen except for the really really kind of main functions , which have a couple of of their own buttons . Um and if you look at a lot of the universal remotes out um on the market , I know we're working on television remote , but a lot of the universal remotes out there have uh have these L_C_D_ screens which kind of helps when you're using multiple uh devices I suppose because you can have multiple kind of functions {disfmarker} d different functions on the screen at different times . But um the thing that I find most interesting about this remote control , and it's kind of difficult to uh to see in the slide , but it has a scroll wheel on it , which is kind of like uh a mouse scroll wheel , which I think is {disfmarker} it's a really kind of important design aspect um is {disfmarker} it's {disfmarker} 'Cause the thing is what a {vocalsound} what we {disfmarker} the presen this presentation we had is what we want the remote control to actually do . And obviously the the simplest thing that a remote control does is it just change the change the channel ."
+  },
+  {
+    "utterance_id": "Meeting120_184",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Change the channels ."
+  },
+  {
+    "utterance_id": "Meeting120_185",
+    "speaker_id": "User Interface",
+    "utterance_content": "Now um"
+  },
+  {
+    "utterance_id": "Meeting120_186",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_187",
+    "speaker_id": "User Interface",
+    "utterance_content": "uh the {disfmarker} I think that a scroll wheel is actually pretty a pretty handy way of of changing the channel . 'Cause I know when I um when I use the remote to change the channel I very rarely use the numbers on the on the pad . I usually use the up and down"
+  },
+  {
+    "utterance_id": "Meeting120_188",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mmm-hmm mm-hmm . Yeah yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_189",
+    "speaker_id": "User Interface",
+    "utterance_content": "because most channels are you know two digit numbers and you have to press you know a special button to enter a two-digit number , and then two numbers , so that's just uh {disfmarker} it's annoying . So I think a scroll wheel is is quite handy . Now um the the scroll wheel is is much more useful if you have an L_C_D_ screen , and this brings us to the the point you were mentioning before about the internet uh capability ."
+  },
+  {
+    "utterance_id": "Meeting120_190",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_191",
+    "speaker_id": "User Interface",
+    "utterance_content": "One possibility , if we {disfmarker} now we need to still talk about the price point because obviously a lot of this stuff can't be done for twenty five Eu uh Euro , but one possibility is to download program information into the L_C_D_ screen so that instead of actually saying I want to I want to go to channel thirty seven because I know this programme's on , you know , often you don't know what ch what channel it's on , or you don't know what's on . If you have a list of of programs on your L_C_D_ screen you just scroll to that program rather than to a channel . So if you think about {disfmarker} it's kind of like a {disfmarker} you know in mobile phones now you don't use {disfmarker} you don't remember people's phone number , you remember their name and you go find that name and ring it ."
+  },
+  {
+    "utterance_id": "Meeting120_192",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_193",
+    "speaker_id": "User Interface",
+    "utterance_content": "So this would be pretty {disfmarker} kind of a handy thing to have , but um we we really need t to discuss the price . So , I mean there are {vocalsound} there are uh cheaper {disfmarker} this is another multi kinda purpose remote control where it's it's it's very simple , there's only a few buttons , but al each of those buttons does something different in a different context . So this is something else we might wanna consider , is really kind of limiting the number of buttons , because this is the top rating uh universal remote control on on Epinions . It it's really uh maybe worth thinking about limiting the number of buttons as much as as possible um because really I think people want to be able to find the button they're looking for without even looking at the remote control . And {gap} was saying before about having different size buttons for different you know frequently used uh tasks , but I think also you know the location and and shape of the buttons is important , but also the number of buttons . So if you have too many buttons it it it increases the the difficulty of finding the one you want ."
+  },
+  {
+    "utterance_id": "Meeting120_194",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But there is one problem {gap} then the user has to understand each of that functionality ."
+  },
+  {
+    "utterance_id": "Meeting120_195",
+    "speaker_id": "User Interface",
+    "utterance_content": "So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_196",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_197",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah well we w"
+  },
+  {
+    "utterance_id": "Meeting120_198",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Because the same button is doing too many things ."
+  },
+  {
+    "utterance_id": "Meeting120_199",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah well we will have a bit of a simpler uh task in that we're only doing uh a television remote control . Um I think maybe one option is to have you know a little flip-open um door that uh that you have hidden most of the time , but contains the extra buttons like , say , the number buttons for instance . Um"
+  },
+  {
+    "utterance_id": "Meeting120_200",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_201",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} I I would {disfmarker} if I had my perfect remote control , I'd probably just have no numbers at all on it because they're just in the way ."
+  },
+  {
+    "utterance_id": "Meeting120_202",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_203",
+    "speaker_id": "User Interface",
+    "utterance_content": "They don't really do anything . Maybe you know I {disfmarker} although I do also find flip-open doors a bit of a pain because sometimes they can break off or or whatever , but maybe a door that you can you can permanantly remove or permanantly have on would be good ."
+  },
+  {
+    "utterance_id": "Meeting120_204",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_205",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um {vocalsound} but I think definitely you need to to keep the buttons down to a minimum , but not not let that kind of interfere with the functionality of of the device . Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_206",
+    "speaker_id": "Marketing",
+    "utterance_content": "H I think I think that the tr the transition to this to this new remote control shouldn't be very very abrupt very hard because w if people see a remo see the {disfmarker} see a remote control without numbers mm they will think it's very difficult to learn very difficult to {disfmarker} very different build {disfmarker} very different to the traditional {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_207",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It does sampling out of the {gap} ."
+  },
+  {
+    "utterance_id": "Meeting120_208",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_209",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Well I guess that depends on how you market it . If you {vocalsound} if you have the right advertisement showing how how how easy it is and how you can , you know , navigate to a program without the numbers , then people might say that looks pretty easy ."
+  },
+  {
+    "utterance_id": "Meeting120_210",
+    "speaker_id": "Marketing",
+    "utterance_content": "If y"
+  },
+  {
+    "utterance_id": "Meeting120_211",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , can you continue , please Mi ?"
+  },
+  {
+    "utterance_id": "Meeting120_212",
+    "speaker_id": "User Interface",
+    "utterance_content": "So , but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_213",
+    "speaker_id": "Marketing",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting120_214",
+    "speaker_id": "User Interface",
+    "utterance_content": "yep . Um okay , so , I think um one of the really kind of useful things you can do with with internet connectivity would be to have this {disfmarker} a programme driven interface rather than the channel number . So if we can have a higher priced uh remote control I think that would really be worth uh {disfmarker} something that would be worth implementing . Um mm there's the L_C_D_ screen , um which maybe maybe is too expensive , um but I think also at the scroll wheel , I haven't mentioned it here , the scroll wheel could be used without an L_C_D_ screen , just for changing channel numbers easily . I think even that ,"
+  },
+  {
+    "utterance_id": "Meeting120_215",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_216",
+    "speaker_id": "User Interface",
+    "utterance_content": "I mean , that would be a fairly cheap thing , compared to an L_C_D_ screen , to implement ,"
+  },
+  {
+    "utterance_id": "Meeting120_217",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_218",
+    "speaker_id": "User Interface",
+    "utterance_content": "um but I think that would be quite useful as well . And the other thing , you say we need to we need to keep it just television , but I think one {disfmarker} maybe one option , since this is supposed to be a kind of a fashionable device , is you know there's a certain kind of cool or wow factor that you can kind of {disfmarker} you can have with technology , and maybe we wanna make it something that's {vocalsound} extensible to do other tasks . Say you have like um {vocalsound} a little another little kind of base unit that can also receive signals as well as the television where you can , say uh , change the lighting in the room . You know that would be something maybe you could sell as an extra , so that it doesn't have to be part of the initial development , but , you know , later on you could you can you know you {disfmarker} also , selling the potential of the device . Then you say potentially you can then do other cool stuff like change the lights , I dunno , close the windows , whatever , turn the heating on , and um , I think that's something we may need to have as as {disfmarker} at least as an optional extra to to kinda make our product cool , since we say we're putting the fashion in electronics ."
+  },
+  {
+    "utterance_id": "Meeting120_219",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . {vocalsound} Okay . Okay , thanks . {vocalsound} {gap} you want to go ?"
+  },
+  {
+    "utterance_id": "Meeting120_220",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep . So {disfmarker} yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_221",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting120_222",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting120_223",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So most of the things which we are discussing about is speech recognition uh , that means on my own I {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_224",
+    "speaker_id": "Project Manager",
+    "utterance_content": "This one ?"
+  },
+  {
+    "utterance_id": "Meeting120_225",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "yeah , it should be ."
+  },
+  {
+    "utterance_id": "Meeting120_226",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Great . No , not that one . {gap} you are two ."
+  },
+  {
+    "utterance_id": "Meeting120_227",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Two ."
+  },
+  {
+    "utterance_id": "Meeting120_228",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Alright . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_229",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay so the working design is uh user i interface could be of two types , one is the usual press buttons which are there so that the user feels that he is knoing {disfmarker} doing some he is knowing about that technology . So he is pretty comfortable if he wants to get this , and on top of that there there could be a speech recognition technology also being {disfmarker} sitting on the on the remote . So the old kind of users who don't want to have any changes , it can it can be useful for them , and the new users , as uh our Marketing Expert was saying , they can use the new gizmo which is speech recognition kind of thing ."
+  },
+  {
+    "utterance_id": "Meeting120_230",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , sorry to interrupt you , but we have seen before that there is a new way of interacting that use wheel ."
+  },
+  {
+    "utterance_id": "Meeting120_231",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "That's right . So anyway , that didn't come into my mind ,"
+  },
+  {
+    "utterance_id": "Meeting120_232",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_233",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so th that is a possibility . These could be other kind of interfaces ."
+  },
+  {
+    "utterance_id": "Meeting120_234",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_235",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Means we can have , depending on the cost , how much we can afford , we can have different kind of interfaces . So spe buttons are something which is very {disfmarker} everybody is familiar with . So if you go to the market and you say that buttons are there the people know what it is ,"
+  },
+  {
+    "utterance_id": "Meeting120_236",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_237",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and on top of that if we are having extra functionality people are willing to shell that twenty-five Euros money which we are thinking . Otherwise we are just like others in the market . So anyway that is the first , user interface could be of more than one type , and uh yeah that means we can do the on-line changes which which cannot be done now actually . So apart from the speech , we can have the scroll kind of thing with the buttons . Now for buttons , normal requirements like bit coding and all those things are required . And for voice , limited vocabulary automatic speech recognition system is required and we require a microphone also to be sitting there on the remote ."
+  },
+  {
+    "utterance_id": "Meeting120_238",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . That increases the the cost also ."
+  },
+  {
+    "utterance_id": "Meeting120_239",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Uh that's right . But uh means we have to see how much {disfmarker} what kind of microphones and stuff like that ."
+  },
+  {
+    "utterance_id": "Meeting120_240",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Do you think that performance of such systems are enough to to target well {disfmarker} of such technologies is enough ?"
+  },
+  {
+    "utterance_id": "Meeting120_241",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Uh yes , if it is limited vocabulary usually it's enough ."
+  },
+  {
+    "utterance_id": "Meeting120_242",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_243",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah we we can uh target , means we can target ninety five percent accuracy or somewhere ninety seven perc"
+  },
+  {
+    "utterance_id": "Meeting120_244",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well wh uh I imagine also that the microphone will be an ambiance um a um an ambience microphones"
+  },
+  {
+    "utterance_id": "Meeting120_245",
+    "speaker_id": "User Interface",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_246",
+    "speaker_id": "Project Manager",
+    "utterance_content": "because you are not going to speak into into th into the remote control ."
+  },
+  {
+    "utterance_id": "Meeting120_247",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "That's right . No it it could be little d yeah it could be {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_248",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So it could be s a few centimetres ."
+  },
+  {
+    "utterance_id": "Meeting120_249",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Well one one other thing that that speech recognition could really blow out the price for is uh when you want to sell into other markets , though ,"
+  },
+  {
+    "utterance_id": "Meeting120_250",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "That's right . That's right ."
+  },
+  {
+    "utterance_id": "Meeting120_251",
+    "speaker_id": "User Interface",
+    "utterance_content": "because , I'm not sure exactly where we're gonna sell this , but I presume it's not gonna just be English speaking countries ."
+  },
+  {
+    "utterance_id": "Meeting120_252",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_253",
+    "speaker_id": "User Interface",
+    "utterance_content": "So then you have to s you know , you have to train models for {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_254",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm mm-hmm . Uh it's more like , means there are different speech technologies which are existing so D_T_W_ could be kind of which is the easiest . So you have to store some templates on the on the on the chip itself , and {vocalsound} it's just dynamic time warping where you try to find out what it is , instead of having a model which has to be trained and being a micro-controller ."
+  },
+  {
+    "utterance_id": "Meeting120_255",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_256",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Okay we shou we should discuss this la later after after after this this uh slide ."
+  },
+  {
+    "utterance_id": "Meeting120_257",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , that's right . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_258",
+    "speaker_id": "Project Manager",
+    "utterance_content": "This is a this is a this is a a very important uh issue in discussion ."
+  },
+  {
+    "utterance_id": "Meeting120_259",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So we can That's right . Yep ."
+  },
+  {
+    "utterance_id": "Meeting120_260",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , next . Uh that finished ?"
+  },
+  {
+    "utterance_id": "Meeting120_261",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting120_262",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No ?"
+  },
+  {
+    "utterance_id": "Meeting120_263",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No no . Components ."
+  },
+  {
+    "utterance_id": "Meeting120_264",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Components ?"
+  },
+  {
+    "utterance_id": "Meeting120_265",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah . So , will you go to the next slide ?"
+  },
+  {
+    "utterance_id": "Meeting120_266",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Yes sure ."
+  },
+  {
+    "utterance_id": "Meeting120_267",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_268",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah so this is the design which we are thinking so . We are having a power button and the switch {vocalsound} , which is not much ,"
+  },
+  {
+    "utterance_id": "Meeting120_269",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_270",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and then we are having the {gap} which is to indicate whether the power is on or not . And then there are two kind of things which can be {disfmarker} so one is the button interface which has not been shown because because of lack of time {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting120_271",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_272",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So we could not put that . So now where the A_S_R_ decoder is sitting , similarly there are different kind of interfaces which could be there . So there is A_S_R_ decoder which could be there , and then there could be another scroll button scroll scroller , and then there could be buttons , and all of them they will just do the decoding and put it in the math put it in the proper message format . And then there is there is the chip which is sitting , the green one , and it converts it into bit codes , and that bit codes are sent by the infrared device to the receiver ."
+  },
+  {
+    "utterance_id": "Meeting120_273",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_274",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So this is the easiest design the there could be . So th an A_S_R_ decoder we can have things in {gap} . To have different technologies . So this was the {disfmarker} my personal preference was that we can have A_S_R_ sitting there on the remote control ."
+  },
+  {
+    "utterance_id": "Meeting120_275",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_276",
+    "speaker_id": "User Interface",
+    "utterance_content": "You know I guess you could actually train the remote control as you're using it by saying you know {vocalsound} turn volume up , and you press the uh press the button"
+  },
+  {
+    "utterance_id": "Meeting120_277",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_278",
+    "speaker_id": "User Interface",
+    "utterance_content": "like uh s people teach sign language to kids f well , by speaking and doing {disfmarker} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_279",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah but uh as soon as you try to put the microchip kind of thing or something the price will go up ."
+  },
+  {
+    "utterance_id": "Meeting120_280",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} {vocalsound} Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_281",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_282",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So these are the slight problems ."
+  },
+  {
+    "utterance_id": "Meeting120_283",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So your your opinion is that we should go for special condition technologies ?"
+  },
+  {
+    "utterance_id": "Meeting120_284",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Because {disfmarker} yeah the reason is that if we go into the market means {disfmarker} though I don't have much idea , but as he {disfmarker} the uh Marketing Expert presentation was {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_285",
+    "speaker_id": "Marketing",
+    "utterance_content": "I'm sure if you can sell a a speech recognition remote control for twenty five Euros everyo {vocalsound} everyone will s will buy it ."
+  },
+  {
+    "utterance_id": "Meeting120_286",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} {vocalsound} Actually I'm not so sure"
+  },
+  {
+    "utterance_id": "Meeting120_287",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} So if we go with just the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_288",
+    "speaker_id": "User Interface",
+    "utterance_content": "because I'm the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_289",
+    "speaker_id": "Marketing",
+    "utterance_content": "I'm sure ."
+  },
+  {
+    "utterance_id": "Meeting120_290",
+    "speaker_id": "User Interface",
+    "utterance_content": "you know if I was using a remote control to , say , turn the volume up because I can't hear it very well , I don't really want to you know drown out what people are saying by talking you know when I'm when I'm {disfmarker} instead of pressing up on on a remote control . You know if there's some there's some dialogue all of a sudden that I can't hear , I'm trying to actually find out what's being said ,"
+  },
+  {
+    "utterance_id": "Meeting120_291",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_292",
+    "speaker_id": "User Interface",
+    "utterance_content": "so maybe speech recognition gets in the way more than it helps ."
+  },
+  {
+    "utterance_id": "Meeting120_293",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Okay so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_294",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah but you know the the average frequency of pushing buttons , it's about {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_295",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Well it depends if it's a remote control th"
+  },
+  {
+    "utterance_id": "Meeting120_296",
+    "speaker_id": "Marketing",
+    "utterance_content": "it's about eighty eighty eighty pushes per hour , or something like that ."
+  },
+  {
+    "utterance_id": "Meeting120_297",
+    "speaker_id": "User Interface",
+    "utterance_content": "Maybe if the remote control is something that y you don't actually have to pick up anymore , that would be a a useful feature of the speech recogntion ."
+  },
+  {
+    "utterance_id": "Meeting120_298",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_299",
+    "speaker_id": "User Interface",
+    "utterance_content": "If you can leave it sitting on the table and you don't actually have to find it , then that could be {gap} ."
+  },
+  {
+    "utterance_id": "Meeting120_300",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm . Mm-hmm . Mm-hmm . Mm-hmm . Mm-hmm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_301",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Okay gentlemens , we have to take some deci decisions right now ."
+  },
+  {
+    "utterance_id": "Meeting120_302",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Alright ."
+  },
+  {
+    "utterance_id": "Meeting120_303",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um so if I if I kind of summarise everything we've de we we said . We are targeting T_V_ . {vocalsound} We need {vocalsound} we need to have um um remote control which is fanc fancy , which is uh which is easy to to hand not too small , not too big . Um we have {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_304",
+    "speaker_id": "Marketing",
+    "utterance_content": "With a good shape for the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_305",
+    "speaker_id": "Project Manager",
+    "utterance_content": "or good shape , yes . We should bring new technologies for young peoples , and uh as we have uh also requirements to to use uh to to push thr toward the internet . Maybe this is something we can stick to it . And um {vocalsound} also , a very interesting things I I I've seen on on on the {disfmarker} one of the comp o our competitor is this wheel that we can use to navigate . So so my feeling is that re regarding costs budget we have an an an target price , it's not possible to go s to go to L_C_D_ {vocalsound} and also to go to automatic speech recognition technologies . Uh first m m why not to go to L_C_D_ . Because um in fact as we are targeting uh T_V_ {disfmarker} in fact we can use T_V_ screen as a screen to feedback {disfmarker} to to give some feedback informations about what we could have ."
+  },
+  {
+    "utterance_id": "Meeting120_306",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well it depends though {disfmarker} well it depends . If we we don't {disfmarker} unless we have some input some video input to the T_V_ or we have control over the T_V_ then we can't actually display that . Like if we if we produce the T_V_s then then yeah we can put you know menus up up there , but otherwise we need to actually have some kind of {disfmarker} something sitting in between the video signal and the and the T_V_ to superimpose those those menus . So that's an extra"
+  },
+  {
+    "utterance_id": "Meeting120_307",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Yeah that's right . Don don't you ha"
+  },
+  {
+    "utterance_id": "Meeting120_308",
+    "speaker_id": "User Interface",
+    "utterance_content": "cost ."
+  },
+  {
+    "utterance_id": "Meeting120_309",
+    "speaker_id": "Project Manager",
+    "utterance_content": "don't we have contacts with uh people on T_V_ or or {gap} well systems that exist that we can use ?"
+  },
+  {
+    "utterance_id": "Meeting120_310",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well this is this is another que we still haven't really defined the remote . Are we still {disfmarker} you say we're focusing on T_V_ , but is it still a kind of like a universal remote in that it's a replacement remote control , or is this something for our own line of of televisions ?"
+  },
+  {
+    "utterance_id": "Meeting120_311",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_312",
+    "speaker_id": "User Interface",
+    "utterance_content": "'Cause that really makes a big difference . 'Cause {vocalsound} even if we have contacts we can't really produce a remote control that can bring up menus on other other companies' T_V_s . It's just there are too many T_V_s out there . It's it's not really gonna {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_313",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . That's good point . What's what cou what could be the cost of uh {disfmarker} well , could we fit the the targets uh in terms of cost uh if we go s to L_C_D_ on the remote control ?"
+  },
+  {
+    "utterance_id": "Meeting120_314",
+    "speaker_id": "User Interface",
+    "utterance_content": "For twenty five Euro ? {vocalsound} I think it's impossible ."
+  },
+  {
+    "utterance_id": "Meeting120_315",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_316",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's not possible . It's impossible ."
+  },
+  {
+    "utterance_id": "Meeting120_317",
+    "speaker_id": "User Interface",
+    "utterance_content": "But but I dunno ,"
+  },
+  {
+    "utterance_id": "Meeting120_318",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_319",
+    "speaker_id": "User Interface",
+    "utterance_content": "I think um it would be good to know if there is any leverage in that {disfmarker} any leeway in that um that twenty five Euro because for twenty five Euro I think all we can really do is provide a very basic remote control , and that seems to be kind of against the philosophy of our company which is you know putting the fashion into electronics . So I would I would like to know if there's any chance of of increasing the uh"
+  },
+  {
+    "utterance_id": "Meeting120_320",
+    "speaker_id": "Marketing",
+    "utterance_content": "Uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_321",
+    "speaker_id": "User Interface",
+    "utterance_content": "of increasing the unit price ."
+  },
+  {
+    "utterance_id": "Meeting120_322",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} So you mean yo you mean we we should target something maybe which is {disfmarker} which would be more expensive but re really fancy in terms to um {disfmarker} in terms to had {disfmarker} to have really an added value ?"
+  },
+  {
+    "utterance_id": "Meeting120_323",
+    "speaker_id": "Marketing",
+    "utterance_content": "What would be {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_324",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Yeah . Yeah"
+  },
+  {
+    "utterance_id": "Meeting120_325",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ,"
+  },
+  {
+    "utterance_id": "Meeting120_326",
+    "speaker_id": "User Interface",
+    "utterance_content": "because {disfmarker} yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_327",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so regarding the automatic speech recognition , I think this is {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_328",
+    "speaker_id": "Marketing",
+    "utterance_content": "Wha but what would be {disfmarker} one question , what would be the goal of putting an L_C_D_ in a remote control ?"
+  },
+  {
+    "utterance_id": "Meeting120_329",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well th"
+  },
+  {
+    "utterance_id": "Meeting120_330",
+    "speaker_id": "Marketing",
+    "utterance_content": "What what kind of information ?"
+  },
+  {
+    "utterance_id": "Meeting120_331",
+    "speaker_id": "User Interface",
+    "utterance_content": "'Cause you can have things like the programme name instead of the channel numbers , like an interactive programme guide ."
+  },
+  {
+    "utterance_id": "Meeting120_332",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah but mo most of the T_V_s nowadays show the show the"
+  },
+  {
+    "utterance_id": "Meeting120_333",
+    "speaker_id": "Project Manager",
+    "utterance_content": "They have tele teletext . Well , because they have teletext on it ."
+  },
+  {
+    "utterance_id": "Meeting120_334",
+    "speaker_id": "Marketing",
+    "utterance_content": "the n"
+  },
+  {
+    "utterance_id": "Meeting120_335",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel ."
+  },
+  {
+    "utterance_id": "Meeting120_336",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah but yeah most of the T_V_s have teletext nowadays ."
+  },
+  {
+    "utterance_id": "Meeting120_337",
+    "speaker_id": "Project Manager",
+    "utterance_content": "They have t most of them have teletext , but we want to get rid {disfmarker} well one of our requirements is to uh to move to teletext to uh to the use of internet ."
+  },
+  {
+    "utterance_id": "Meeting120_338",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_339",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So to to uh"
+  },
+  {
+    "utterance_id": "Meeting120_340",
+    "speaker_id": "User Interface",
+    "utterance_content": "You can get a lot more information on it ."
+  },
+  {
+    "utterance_id": "Meeting120_341",
+    "speaker_id": "Project Manager",
+    "utterance_content": "to browse more easily the teletext . For instance through uh through your remote control ."
+  },
+  {
+    "utterance_id": "Meeting120_342",
+    "speaker_id": "Marketing",
+    "utterance_content": "So what would what would appear in the in the L_C_D_ ?"
+  },
+  {
+    "utterance_id": "Meeting120_343",
+    "speaker_id": "User Interface",
+    "utterance_content": "So you could have the name of the programme , you could have um the start time you know where it's up to ."
+  },
+  {
+    "utterance_id": "Meeting120_344",
+    "speaker_id": "Project Manager",
+    "utterance_content": "The ti the start time , all the p all the programmes you could have uh {disfmarker} o"
+  },
+  {
+    "utterance_id": "Meeting120_345",
+    "speaker_id": "User Interface",
+    "utterance_content": "You could have a l even a little image of you know the c you know the the m the main actors or something"
+  },
+  {
+    "utterance_id": "Meeting120_346",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_347",
+    "speaker_id": "User Interface",
+    "utterance_content": "so you can quickly just kind of {disfmarker} even without reading {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_348",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well I don't know if this information is available from teletext , also ."
+  },
+  {
+    "utterance_id": "Meeting120_349",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well no , but there are the electronic programme guides out there . They may not have pictures , but maybe they do ."
+  },
+  {
+    "utterance_id": "Meeting120_350",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Are {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_351",
+    "speaker_id": "User Interface",
+    "utterance_content": "There's {disfmarker} dependi it also depends on the country ."
+  },
+  {
+    "utterance_id": "Meeting120_352",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well because {disfmarker} {vocalsound} for the same reason that we cannot uh {gap} informations on the T_V_ {gap} . We c we couldn't grab information information which is not there ."
+  },
+  {
+    "utterance_id": "Meeting120_353",
+    "speaker_id": "User Interface",
+    "utterance_content": "No but I mean with the internet you have flexibility of where you get your information from . So it may be possible that there are people out there providing that . Uh ."
+  },
+  {
+    "utterance_id": "Meeting120_354",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So {disfmarker} so that mean w w we need an in an extra internet connection to use the remote control , if you want to browse , in addition to the T_V_ , or uh or it should be a special T_V_ connected to {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_355",
+    "speaker_id": "Marketing",
+    "utterance_content": "But {disfmarker} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting120_356",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well I I think if we're gonna {disfmarker} I think we would definitely need the internet connection because even with y I don't think you could even get teletext information from the T_V_ onto the remote control , especially if we don't control the T_V_ ."
+  },
+  {
+    "utterance_id": "Meeting120_357",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_358",
+    "speaker_id": "User Interface",
+    "utterance_content": "I dunno . We need to find that out ."
+  },
+  {
+    "utterance_id": "Meeting120_359",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . {vocalsound} We need to close the meeting . Um {vocalsound} so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_360",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But {vocalsound} just a small thing ,"
+  },
+  {
+    "utterance_id": "Meeting120_361",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Very quickly ."
+  },
+  {
+    "utterance_id": "Meeting120_362",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "what kind of market we are targeting ? Is it that we are targeting the replacement remote market , or what ? So the remote has gone bad and the person wants to buy a new remote or {disfmarker} because the cost of L_C_D_ thing could be as high as the T_V_ itself ."
+  },
+  {
+    "utterance_id": "Meeting120_363",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting120_364",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "That is very important ."
+  },
+  {
+    "utterance_id": "Meeting120_365",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting120_366",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , well people go to buy another remote control when they broke n broke their {gap} ,"
+  },
+  {
+    "utterance_id": "Meeting120_367",
+    "speaker_id": "User Interface",
+    "utterance_content": "If it's a really small T_V_ maybe {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting120_368",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Broke . Okay . Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_369",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and they want to go t for universal one , and they take the fanciest they can have ."
+  },
+  {
+    "utterance_id": "Meeting120_370",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay . Okay . Okay . Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_371",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So this is {disfmarker} that we z that that we should target . So the com the um {vocalsound} the uh {vocalsound} the committment is the following , we don't go for speech recognition technology . The L_C_D_ is still on disc is still open to discussion ."
+  },
+  {
+    "utterance_id": "Meeting120_372",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting120_373",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It is up to you to go through this um {vocalsound} uh this way and to to report report me back next meeting . So"
+  },
+  {
+    "utterance_id": "Meeting120_374",
+    "speaker_id": "Marketing",
+    "utterance_content": "I think that the speech recognition technology would be cheaper the {disfmarker} than the L_C_D_ ."
+  },
+  {
+    "utterance_id": "Meeting120_375",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's it's cheaper as compared to the L_C_D_ ."
+  },
+  {
+    "utterance_id": "Meeting120_376",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but not sure . Maybe it's cheaper , but we have no {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_377",
+    "speaker_id": "Marketing",
+    "utterance_content": "Because with the L_C_D_ you need more requirements . You need a internet connection . You need m more things ."
+  },
+  {
+    "utterance_id": "Meeting120_378",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_379",
+    "speaker_id": "Marketing",
+    "utterance_content": "But"
+  },
+  {
+    "utterance_id": "Meeting120_380",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well the thing is I think I think the type of peop"
+  },
+  {
+    "utterance_id": "Meeting120_381",
+    "speaker_id": "Marketing",
+    "utterance_content": "for the speech recognition you you don't need anything . You just say channel fifty , and that's it ."
+  },
+  {
+    "utterance_id": "Meeting120_382",
+    "speaker_id": "User Interface",
+    "utterance_content": "I think the type of people that are gonna want to buy a very stylish rem r remote control with lots of new technologies are the kinda people that are gonna have you know a wireless internet connection maybe , or a {disfmarker} you know ."
+  },
+  {
+    "utterance_id": "Meeting120_383",
+    "speaker_id": "Marketing",
+    "utterance_content": "But then we should move to another target b because at twenty five Dollars ,"
+  },
+  {
+    "utterance_id": "Meeting120_384",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Means th yeah twenty five Euros is {disfmarker} yeah , that's right ."
+  },
+  {
+    "utterance_id": "Meeting120_385",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well this is what we need to find out ."
+  },
+  {
+    "utterance_id": "Meeting120_386",
+    "speaker_id": "Marketing",
+    "utterance_content": "it's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_387",
+    "speaker_id": "User Interface",
+    "utterance_content": "Can we can we increase the the price point of this remote control ? 'Cause otherwise we need {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_388",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay this is {gap} {disfmarker} this is an open question for you . Yeah . This is uh up to you to tell us . But I'm definitely not keen on to to {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_389",
+    "speaker_id": "Marketing",
+    "utterance_content": "To move to another target ?"
+  },
+  {
+    "utterance_id": "Meeting120_390",
+    "speaker_id": "Project Manager",
+    "utterance_content": "no no no , I'm no I'm definit definitely not keen on going to speech recognition technologies . I'm not confident enough . I'm not sure that that we'll have a product really that work . I uh that work {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_391",
+    "speaker_id": "User Interface",
+    "utterance_content": "It's kind of hard to guarantee that you're gonna {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting120_392",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It's real yeah . How to guarantee such performances is really hard ."
+  },
+  {
+    "utterance_id": "Meeting120_393",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting120_394",
+    "speaker_id": "Marketing",
+    "utterance_content": "{gap} the expert uh said ninety five percent {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting120_395",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting120_396",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Well this is still {disfmarker} is is very bad ."
+  },
+  {
+    "utterance_id": "Meeting120_397",
+    "speaker_id": "User Interface",
+    "utterance_content": "Ninety five percent is not good enough though . {gap}"
+  },
+  {
+    "utterance_id": "Meeting120_398",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So , this is the end of this discussion . Next meeting uh here are the task you have to work on . Um {vocalsound} so you have to work on the component uh concept ."
+  },
+  {
+    "utterance_id": "Meeting120_399",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting120_400",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh you have to work on user interface , and you have to go through a trend watching . Okay . So the question is still open about the L_C_D_ thing . Um uh we {disfmarker} I hope that next meeting we will uh we'll take some um decision that direction . Thanks . Bye ."
+  },
+  {
+    "utterance_id": "Meeting120_401",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yep ."
+  }
+]

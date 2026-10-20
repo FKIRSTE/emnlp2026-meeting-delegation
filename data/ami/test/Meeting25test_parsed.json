@@ -1,0 +1,2347 @@
+[
+  {
+    "utterance_id": "Meeting25_001",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} So let's start our second me meeting on {vocalsound} conceptual design ."
+  },
+  {
+    "utterance_id": "Meeting25_002",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_003",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So ,"
+  },
+  {
+    "utterance_id": "Meeting25_004",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_005",
+    "speaker_id": "Project Manager",
+    "utterance_content": "as the previous meeting I will be the secretary"
+  },
+  {
+    "utterance_id": "Meeting25_006",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_007",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and we will have three presentations and we'll have to decide on the remote control concept and finally we'll close the decision . So I will first uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_008",
+    "speaker_id": "Marketing",
+    "utterance_content": "No y you do the minutes first , or ?"
+  },
+  {
+    "utterance_id": "Meeting25_009",
+    "speaker_id": "Project Manager",
+    "utterance_content": "What ?"
+  },
+  {
+    "utterance_id": "Meeting25_010",
+    "speaker_id": "Marketing",
+    "utterance_content": "No ?"
+  },
+  {
+    "utterance_id": "Meeting25_011",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I I think I will let uh our User Interface Designer speak first , Mister David Jordan ."
+  },
+  {
+    "utterance_id": "Meeting25_012",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_013",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting25_014",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So , we'll {disfmarker} S"
+  },
+  {
+    "utterance_id": "Meeting25_015",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_016",
+    "speaker_id": "Project Manager",
+    "utterance_content": "technical accessoire ?"
+  },
+  {
+    "utterance_id": "Meeting25_017",
+    "speaker_id": "User Interface",
+    "utterance_content": "No no no ."
+  },
+  {
+    "utterance_id": "Meeting25_018",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Interface ?"
+  },
+  {
+    "utterance_id": "Meeting25_019",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_020",
+    "speaker_id": "Project Manager",
+    "utterance_content": "This ."
+  },
+  {
+    "utterance_id": "Meeting25_021",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm . So uh first I will present the concept of user interface . Um there's three concepts in the user interface . So first one it's a Google controller . The second is a fancy controller . The last one is uh intelligent controller . So there are three concepts in our controller . Um n next I will explain one by one , the first is Google controller . Um , so I want the controller to be easy to use , but with sophisticated functions . So it's a combination of easy to use and um sophisticated functions . Uh this is a first concept of our controller . The second concept is a fancy controller , um so we want give the customers the impression that our controller is very attractive , um they can easy recognise our controller among a lot of products , so so the u the user f the the u user interface should be very very cute , very very g um"
+  },
+  {
+    "utterance_id": "Meeting25_022",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_023",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_024",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "A nice one ."
+  },
+  {
+    "utterance_id": "Meeting25_025",
+    "speaker_id": "User Interface",
+    "utterance_content": "attractive . Such like this , there are several uh examples in the slides ."
+  },
+  {
+    "utterance_id": "Meeting25_026",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} I'm not sure the one in the middle {vocalsound} is very attractive ."
+  },
+  {
+    "utterance_id": "Meeting25_027",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_028",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_029",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Yeah , it's very , you know"
+  },
+  {
+    "utterance_id": "Meeting25_030",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} It's very big ,"
+  },
+  {
+    "utterance_id": "Meeting25_031",
+    "speaker_id": "User Interface",
+    "utterance_content": "if you're {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_032",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_033",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_034",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_035",
+    "speaker_id": "User Interface",
+    "utterance_content": "It's hard f i it's easy for you to remember it . {vocalsound} Or to recognise it ,"
+  },
+  {
+    "utterance_id": "Meeting25_036",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_037",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} {vocalsound} Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_038",
+    "speaker_id": "User Interface",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_039",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , why not . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_040",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_041",
+    "speaker_id": "Project Manager",
+    "utterance_content": "We'll have big discussion I suppose after that ,"
+  },
+  {
+    "utterance_id": "Meeting25_042",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah . {vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_043",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so ."
+  },
+  {
+    "utterance_id": "Meeting25_044",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_045",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_046",
+    "speaker_id": "User Interface",
+    "utterance_content": "So the last uh concept is intelligent . We want uh we want our controller to be smart ,"
+  },
+  {
+    "utterance_id": "Meeting25_047",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_048",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_049",
+    "speaker_id": "User Interface",
+    "utterance_content": "so maybe we should uh use um uh technology , such as speech recognition technology and gesture recognition technology , so we need to have coop some cooperation with some research institute on speech recognition and um gesture recognition . Um With this advanced features we {disfmarker} I think we can attract a lot of user ."
+  },
+  {
+    "utterance_id": "Meeting25_050",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Something else ?"
+  },
+  {
+    "utterance_id": "Meeting25_051",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay . No . There {disfmarker} this is the three concepts of our controller ."
+  },
+  {
+    "utterance_id": "Meeting25_052",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_053",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I just have one question , because for the intelligent controller , {vocalsound} you said that we can use the voice recognition or the gesture recognition ,"
+  },
+  {
+    "utterance_id": "Meeting25_054",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_055",
+    "speaker_id": "Project Manager",
+    "utterance_content": "but as the um expert told us , most of the people want to use the remote control to zap t to zap between channels . Do you think they will be able to use gestures ?"
+  },
+  {
+    "utterance_id": "Meeting25_056",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_057",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ?"
+  },
+  {
+    "utterance_id": "Meeting25_058",
+    "speaker_id": "User Interface",
+    "utterance_content": "Y"
+  },
+  {
+    "utterance_id": "Meeting25_059",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_060",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah . Maybe ."
+  },
+  {
+    "utterance_id": "Meeting25_061",
+    "speaker_id": "Project Manager",
+    "utterance_content": "or if you say channel three channel three two three four six five , I think they will be bored after a while . You don't think so ?"
+  },
+  {
+    "utterance_id": "Meeting25_062",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh I think some time it's very uh convenient to use voice interface and gesture interface than use button ."
+  },
+  {
+    "utterance_id": "Meeting25_063",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , sure ."
+  },
+  {
+    "utterance_id": "Meeting25_064",
+    "speaker_id": "User Interface",
+    "utterance_content": "For example , if you cannot find your uh {vocalsound} controller , you can just uh {vocalsound} just just uh speak something such as , yeah , one two ."
+  },
+  {
+    "utterance_id": "Meeting25_065",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I"
+  },
+  {
+    "utterance_id": "Meeting25_066",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh yeah , {vocalsound} that's a good {disfmarker} that's a good point , so ."
+  },
+  {
+    "utterance_id": "Meeting25_067",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That's true . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_068",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "One and {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_069",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but suppose you got a cold . You have a mute remote controller ."
+  },
+  {
+    "utterance_id": "Meeting25_070",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_071",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_072",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_073",
+    "speaker_id": "User Interface",
+    "utterance_content": "So you can use your gesture . That's no problem . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_074",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_075",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah but how how is {disfmarker} how risky is it to trust like speech recognition or gesture recognition ?"
+  },
+  {
+    "utterance_id": "Meeting25_076",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Broken arm ?"
+  },
+  {
+    "utterance_id": "Meeting25_077",
+    "speaker_id": "User Interface",
+    "utterance_content": "For limited vocabulary speech recognition is very reliable and for s limited vocabulary gesture recognition is also very {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_078",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay . Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_079",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but suppose you have a family watching T_V_ , and if they want to use their private remote control in the same time , do you think it will work ? Everybody wanting to change channel in the same time ?"
+  },
+  {
+    "utterance_id": "Meeting25_080",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_081",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yep . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_082",
+    "speaker_id": "Marketing",
+    "utterance_content": "But this this {disfmarker} but this would never happen anyway ."
+  },
+  {
+    "utterance_id": "Meeting25_083",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Why ?"
+  },
+  {
+    "utterance_id": "Meeting25_084",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , they cannot speak at the same time ."
+  },
+  {
+    "utterance_id": "Meeting25_085",
+    "speaker_id": "Project Manager",
+    "utterance_content": "If you have one brother and one sister"
+  },
+  {
+    "utterance_id": "Meeting25_086",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_087",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and they want to watch their favourite uh T_V_ programme ,"
+  },
+  {
+    "utterance_id": "Meeting25_088",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , but the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_089",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so they say oh channel four channel three channel four channel three all the time ,"
+  },
+  {
+    "utterance_id": "Meeting25_090",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah but {vocalsound} Yeah"
+  },
+  {
+    "utterance_id": "Meeting25_091",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , it's very interesting . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_092",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah but this {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_093",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so ."
+  },
+  {
+    "utterance_id": "Meeting25_094",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but the same can happen even with it you know this kind of remote control"
+  },
+  {
+    "utterance_id": "Meeting25_095",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_096",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "because the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_097",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_098",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting25_099",
+    "speaker_id": "Marketing",
+    "utterance_content": "I don't think it {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_100",
+    "speaker_id": "Project Manager",
+    "utterance_content": "but you have the remote control , so maybe you can keep it f with you ."
+  },
+  {
+    "utterance_id": "Meeting25_101",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} That's right ."
+  },
+  {
+    "utterance_id": "Meeting25_102",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You're not you're not obliged to share it ."
+  },
+  {
+    "utterance_id": "Meeting25_103",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh , okay , okay , you mean it could be a problem for this kind of stuff ."
+  },
+  {
+    "utterance_id": "Meeting25_104",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , we can {disfmarker} yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_105",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , that's that's the advantage of intelligent controller . Even you h you have the controller , I can {vocalsound} I can say channel three ,"
+  },
+  {
+    "utterance_id": "Meeting25_106",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} It's {disfmarker} it's {gap} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_107",
+    "speaker_id": "Marketing",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting25_108",
+    "speaker_id": "User Interface",
+    "utterance_content": "so it's c come to channel three ,"
+  },
+  {
+    "utterance_id": "Meeting25_109",
+    "speaker_id": "Marketing",
+    "utterance_content": "No , but this is disadvant disadvantage ."
+  },
+  {
+    "utterance_id": "Meeting25_110",
+    "speaker_id": "User Interface",
+    "utterance_content": "I don't have to {vocalsound} {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_111",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , I think it's a disadvantage ."
+  },
+  {
+    "utterance_id": "Meeting25_112",
+    "speaker_id": "User Interface",
+    "utterance_content": "It's advantage ."
+  },
+  {
+    "utterance_id": "Meeting25_113",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_114",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And mayb maybe we can have the switching mode to pass from you know voice controller to"
+  },
+  {
+    "utterance_id": "Meeting25_115",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but one other question ."
+  },
+  {
+    "utterance_id": "Meeting25_116",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "manual controllers , eh ."
+  },
+  {
+    "utterance_id": "Meeting25_117",
+    "speaker_id": "Project Manager",
+    "utterance_content": "How how much will it cost ?"
+  },
+  {
+    "utterance_id": "Meeting25_118",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "No , more expensive maybe ."
+  },
+  {
+    "utterance_id": "Meeting25_119",
+    "speaker_id": "User Interface",
+    "utterance_content": "How much ?"
+  },
+  {
+    "utterance_id": "Meeting25_120",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . Because I suppose we need to do research to have something working ."
+  },
+  {
+    "utterance_id": "Meeting25_121",
+    "speaker_id": "User Interface",
+    "utterance_content": "No no we we d we we just are use um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_122",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Some some efficient ."
+  },
+  {
+    "utterance_id": "Meeting25_123",
+    "speaker_id": "Marketing",
+    "utterance_content": "Uh if you if if you use the basic {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_124",
+    "speaker_id": "User Interface",
+    "utterance_content": "No no we just um have some cooperation with some research institute , we don't have to do some basic research on this field ."
+  },
+  {
+    "utterance_id": "Meeting25_125",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So you think it won't cost an {disfmarker} Not a lot for us ? Or ?"
+  },
+  {
+    "utterance_id": "Meeting25_126",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , I think it's uh {disfmarker} because uh this technology is uh um for limited wor or limited wor uh lexical recognition , it's very {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_127",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but uh uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_128",
+    "speaker_id": "User Interface",
+    "utterance_content": "it's uh {disfmarker} yeah . It's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_129",
+    "speaker_id": "Marketing",
+    "utterance_content": "But it's it's changing how the remote control is gonna be built . Because then you need uh {disfmarker} I mean this doesn't have uh the power to do recognition , for example ."
+  },
+  {
+    "utterance_id": "Meeting25_130",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Well y y you have also the language problem ,"
+  },
+  {
+    "utterance_id": "Meeting25_131",
+    "speaker_id": "User Interface",
+    "utterance_content": "No it's uh {disfmarker} Even for the f um because the the vocabulary {disfmarker} the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_132",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "you know when you {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_133",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-mm ."
+  },
+  {
+    "utterance_id": "Meeting25_134",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "'Cause it it have to be universal ,"
+  },
+  {
+    "utterance_id": "Meeting25_135",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . I agree with uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_136",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so ."
+  },
+  {
+    "utterance_id": "Meeting25_137",
+    "speaker_id": "User Interface",
+    "utterance_content": "The vocabulary is very small , so that's not a problem ."
+  },
+  {
+    "utterance_id": "Meeting25_138",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_139",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but there is one problem that uh Baba talked about is the international"
+  },
+  {
+    "utterance_id": "Meeting25_140",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_141",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_142",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_143",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_144",
+    "speaker_id": "Project Manager",
+    "utterance_content": "remote control . We need something that is international . Suppose we're {disfmarker} we want to sell it in France ."
+  },
+  {
+    "utterance_id": "Meeting25_145",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_146",
+    "speaker_id": "Project Manager",
+    "utterance_content": "The recognition system will be able to understand French . If you want to go to England , it will be able to understand English ,"
+  },
+  {
+    "utterance_id": "Meeting25_147",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_148",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so ."
+  },
+  {
+    "utterance_id": "Meeting25_149",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , the key , the key um the key of our {disfmarker} the key feature of our controller is that it's it has some some um adaptation"
+  },
+  {
+    "utterance_id": "Meeting25_150",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , this could be downloaded by the web maybe , or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_151",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah but you know . The product {disfmarker} The pro"
+  },
+  {
+    "utterance_id": "Meeting25_152",
+    "speaker_id": "User Interface",
+    "utterance_content": "mechanism . It's It's it means when you when you sell this controller in China it's can recognise Chinese . It's r if you sell this controller in France it can recognise French ."
+  },
+  {
+    "utterance_id": "Meeting25_153",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} It's a very smart , it's a very smart controller maybe {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_154",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm , okay ."
+  },
+  {
+    "utterance_id": "Meeting25_155",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_156",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting25_157",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And with no increase in the pri production price of the remote control ?"
+  },
+  {
+    "utterance_id": "Meeting25_158",
+    "speaker_id": "User Interface",
+    "utterance_content": "it's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_159",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh yeah yeah yeah yeah . But {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_160",
+    "speaker_id": "User Interface",
+    "utterance_content": "Because of this product uh this technology has already been developed ."
+  },
+  {
+    "utterance_id": "Meeting25_161",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but how will you {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_162",
+    "speaker_id": "User Interface",
+    "utterance_content": "So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_163",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah but the problem is how to s you know if this is a push button controller , you can send this con this remote control everywhere in the world , the same one ."
+  },
+  {
+    "utterance_id": "Meeting25_164",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_165",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "If you have the language , you have to develop for each country ."
+  },
+  {
+    "utterance_id": "Meeting25_166",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_167",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh n Yeah , yeah tha that's why we have to do language adaptation ."
+  },
+  {
+    "utterance_id": "Meeting25_168",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , but for each country you have to do one ,"
+  },
+  {
+    "utterance_id": "Meeting25_169",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_170",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "because uh the for example for Se {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_171",
+    "speaker_id": "User Interface",
+    "utterance_content": "Even for each f for even for different family we have to do d yeah we would we have to do adaptation to {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_172",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh really ? {vocalsound} That's {disfmarker} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_173",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh ."
+  },
+  {
+    "utterance_id": "Meeting25_174",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting25_175",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Seems to be quite complex ."
+  },
+  {
+    "utterance_id": "Meeting25_176",
+    "speaker_id": "Marketing",
+    "utterance_content": "but then w Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting25_177",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Comple"
+  },
+  {
+    "utterance_id": "Meeting25_178",
+    "speaker_id": "User Interface",
+    "utterance_content": "No , it's not so complex {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting25_179",
+    "speaker_id": "Marketing",
+    "utterance_content": "we have to take care of the twelve Euros"
+  },
+  {
+    "utterance_id": "Meeting25_180",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And what about voice recognition , do we have microphones ?"
+  },
+  {
+    "utterance_id": "Meeting25_181",
+    "speaker_id": "Marketing",
+    "utterance_content": "problem ."
+  },
+  {
+    "utterance_id": "Meeting25_182",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And where will be they ? Do you think if we're far from television it will work ?"
+  },
+  {
+    "utterance_id": "Meeting25_183",
+    "speaker_id": "User Interface",
+    "utterance_content": "No no no it's not {disfmarker} I think that's n that's not a problem because you you don't have to wear a microphone . It it just {disfmarker} the microphone is embedded in the controller ."
+  },
+  {
+    "utterance_id": "Meeting25_184",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but where is the controller ?"
+  },
+  {
+    "utterance_id": "Meeting25_185",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_186",
+    "speaker_id": "User Interface",
+    "utterance_content": "Where is the controller ?"
+  },
+  {
+    "utterance_id": "Meeting25_187",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_188",
+    "speaker_id": "User Interface",
+    "utterance_content": "It's in your family , in your home . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_189",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_190",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but we're {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_191",
+    "speaker_id": "Marketing",
+    "utterance_content": "No , but then it's it's like this uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_192",
+    "speaker_id": "Project Manager",
+    "utterance_content": "here it's uh an object . But here you say you want to use i uh s technology ."
+  },
+  {
+    "utterance_id": "Meeting25_193",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Yeah you can you can embed it uh microphone here ."
+  },
+  {
+    "utterance_id": "Meeting25_194",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "A microphone maybe ."
+  },
+  {
+    "utterance_id": "Meeting25_195",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object . If you want to use voice or gesture you need to be free , without any object ."
+  },
+  {
+    "utterance_id": "Meeting25_196",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "To talk to the to the T_V_ maybe ."
+  },
+  {
+    "utterance_id": "Meeting25_197",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You just want to interact with television ."
+  },
+  {
+    "utterance_id": "Meeting25_198",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah yeah just {disfmarker} you just put the controller here , then you"
+  },
+  {
+    "utterance_id": "Meeting25_199",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I if you say one , he switch to channel ,"
+  },
+  {
+    "utterance_id": "Meeting25_200",
+    "speaker_id": "User Interface",
+    "utterance_content": "you use your command"
+  },
+  {
+    "utterance_id": "Meeting25_201",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting25_202",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_203",
+    "speaker_id": "User Interface",
+    "utterance_content": "and you do s your gesture ."
+  },
+  {
+    "utterance_id": "Meeting25_204",
+    "speaker_id": "Project Manager",
+    "utterance_content": "but you can lose it . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_205",
+    "speaker_id": "User Interface",
+    "utterance_content": "No no it's n y {vocalsound} {disfmarker} if you lose it {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_206",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So well for example if it is somewhere in the room if i maybe if it is in the table there you can always say s channel one and the t the remote control gives the order to the T_V_ to switch to channel one ."
+  },
+  {
+    "utterance_id": "Meeting25_207",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_208",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_209",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay you {disfmarker} so you can build a kind of black box"
+  },
+  {
+    "utterance_id": "Meeting25_210",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Devic"
+  },
+  {
+    "utterance_id": "Meeting25_211",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and put it on T_V_ and just to recognize gestures and voice ."
+  },
+  {
+    "utterance_id": "Meeting25_212",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_213",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah . Yeah . Yeah but so you need a camera and you know a microphone {vocalsound} inside your remote control ."
+  },
+  {
+    "utterance_id": "Meeting25_214",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Ah ."
+  },
+  {
+    "utterance_id": "Meeting25_215",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_216",
+    "speaker_id": "Marketing",
+    "utterance_content": "But you would still have the buttons . Or is it {disfmarker} do you think it should be only voice recognition and gesture recognition ? Or you you still have the possibility to use buttons ?"
+  },
+  {
+    "utterance_id": "Meeting25_217",
+    "speaker_id": "User Interface",
+    "utterance_content": "think it {disfmarker} we should give the uh flexibility to the user and we think {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_218",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay , so you {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_219",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting25_220",
+    "speaker_id": "User Interface",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_221",
+    "speaker_id": "Marketing",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_222",
+    "speaker_id": "User Interface",
+    "utterance_content": "You can see {disfmarker} they can switch form one modality to another ."
+  },
+  {
+    "utterance_id": "Meeting25_223",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_224",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , I dunno . It's a bit risky risky ."
+  },
+  {
+    "utterance_id": "Meeting25_225",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I think so ."
+  },
+  {
+    "utterance_id": "Meeting25_226",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_227",
+    "speaker_id": "User Interface",
+    "utterance_content": "No ,"
+  },
+  {
+    "utterance_id": "Meeting25_228",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And maybe it will be quite {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_229",
+    "speaker_id": "User Interface",
+    "utterance_content": "that's quite inter quite attractive ."
+  },
+  {
+    "utterance_id": "Meeting25_230",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But I think that , you know , switching from one country to to another will be a problem , so {disfmarker} although y y"
+  },
+  {
+    "utterance_id": "Meeting25_231",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well , if you do language adaptation , there should be no problem . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_232",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting25_233",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah but i i {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_234",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Okay . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_235",
+    "speaker_id": "Marketing",
+    "utterance_content": "I dunno ."
+  },
+  {
+    "utterance_id": "Meeting25_236",
+    "speaker_id": "User Interface",
+    "utterance_content": "We should have confidence in technology . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_237",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah , we should . {vocalsound} Uh ."
+  },
+  {
+    "utterance_id": "Meeting25_238",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Hmm . So , what do you think ? We'll try the controllers you'd prefer ."
+  },
+  {
+    "utterance_id": "Meeting25_239",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_240",
+    "speaker_id": "Marketing",
+    "utterance_content": "What ?"
+  },
+  {
+    "utterance_id": "Meeting25_241",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Which kind of controller would you prefer to use , you as a remote control user ?"
+  },
+  {
+    "utterance_id": "Meeting25_242",
+    "speaker_id": "Marketing",
+    "utterance_content": "If if {disfmarker} I mean , uh I'm sure if the user pays the same price , he's happy to have recognition ."
+  },
+  {
+    "utterance_id": "Meeting25_243",
+    "speaker_id": "User Interface",
+    "utterance_content": "More features , yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_244",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_245",
+    "speaker_id": "Marketing",
+    "utterance_content": "But if if if it like doubles uh"
+  },
+  {
+    "utterance_id": "Meeting25_246",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think he need a control that is very reliable ,"
+  },
+  {
+    "utterance_id": "Meeting25_247",
+    "speaker_id": "Marketing",
+    "utterance_content": "no one would would be interested ."
+  },
+  {
+    "utterance_id": "Meeting25_248",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so ."
+  },
+  {
+    "utterance_id": "Meeting25_249",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So I think it would be better not to do any intelligent controller and to stay with the Google controller or a fancy controller . Maybe try to mix the Google controller and the fancy controller ? Hmm ?"
+  },
+  {
+    "utterance_id": "Meeting25_250",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_251",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_252",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Just want to have something {disfmarker} controller which is in a kind of intelligent controller , easy to use , sophisticated and fancy . You think it's possible ?"
+  },
+  {
+    "utterance_id": "Meeting25_253",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah but if if you stick to um {disfmarker} stick to the first two parts . So what's the difference between our controller with other products in the market ? There's no k features of our controller , so is there is there any necessary to design new controller without any breakthrough features ?"
+  },
+  {
+    "utterance_id": "Meeting25_254",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_255",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . No ,"
+  },
+  {
+    "utterance_id": "Meeting25_256",
+    "speaker_id": "User Interface",
+    "utterance_content": "Would y would you replace your controller with a controller with similar function if you do not have some some function inside it that {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_257",
+    "speaker_id": "Marketing",
+    "utterance_content": "I mean {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_258",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's not really the {disfmarker} we"
+  },
+  {
+    "utterance_id": "Meeting25_259",
+    "speaker_id": "Marketing",
+    "utterance_content": "Y"
+  },
+  {
+    "utterance_id": "Meeting25_260",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "we can add for example some function like for browsing in internet , so {disfmarker} or something like that . But uh I think a user need {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_261",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Yeah , you y that's a fun that's not the function of the controller , that's a function of T_V_ . You can replace your T_V_ with a new T_V_ with internet browsing function ,"
+  },
+  {
+    "utterance_id": "Meeting25_262",
+    "speaker_id": "Marketing",
+    "utterance_content": "No ,"
+  },
+  {
+    "utterance_id": "Meeting25_263",
+    "speaker_id": "User Interface",
+    "utterance_content": "but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_264",
+    "speaker_id": "Marketing",
+    "utterance_content": "but you need you need new remote controller then . Because if you wanna browse internet or , I don't know , if you wanna type something ,"
+  },
+  {
+    "utterance_id": "Meeting25_265",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Don't have a {disfmarker} the the {disfmarker} Yeah"
+  },
+  {
+    "utterance_id": "Meeting25_266",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_267",
+    "speaker_id": "Marketing",
+    "utterance_content": "or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_268",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "if we can send email from it ."
+  },
+  {
+    "utterance_id": "Meeting25_269",
+    "speaker_id": "User Interface",
+    "utterance_content": "But it's not the {disfmarker} only the problem {disfmarker} only the issue of controller , it's it's also the issue of the T_V_ ."
+  },
+  {
+    "utterance_id": "Meeting25_270",
+    "speaker_id": "Marketing",
+    "utterance_content": "No . No ."
+  },
+  {
+    "utterance_id": "Meeting25_271",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Because the p the problem I can see with with the voice or the gesture itself wh what can happen in a family i i for example if {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_272",
+    "speaker_id": "Marketing",
+    "utterance_content": "Cause for example {disfmarker} yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_273",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , but we do we do we we we cannot rely one hundred percent on these features to u to use the controller ,"
+  },
+  {
+    "utterance_id": "Meeting25_274",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_275",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but uh we want so"
+  },
+  {
+    "utterance_id": "Meeting25_276",
+    "speaker_id": "User Interface",
+    "utterance_content": "but with the features of our controller such as you have the feature of voice recognition in your mobile but you seldom use it , your mobile , but you when you choose a new mobile , you choose the one with voice recognition ."
+  },
+  {
+    "utterance_id": "Meeting25_277",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , you wou you would {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_278",
+    "speaker_id": "User Interface",
+    "utterance_content": "That's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_279",
+    "speaker_id": "Marketing",
+    "utterance_content": "True ."
+  },
+  {
+    "utterance_id": "Meeting25_280",
+    "speaker_id": "User Interface",
+    "utterance_content": "the feature is not one hundred percent reliable , but it's a feature to distinguish our product from our {disfmarker} from other products ."
+  },
+  {
+    "utterance_id": "Meeting25_281",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but w we we want something th that works all the time , every day , every hour , for everyone ."
+  },
+  {
+    "utterance_id": "Meeting25_282",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_283",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_284",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} And for all the person of the family maybe ,"
+  },
+  {
+    "utterance_id": "Meeting25_285",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_286",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You don't need to tune it ."
+  },
+  {
+    "utterance_id": "Meeting25_287",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so , yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_288",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , if if if if you're if you ar if you already have a product it works one hundred percent reliable , would you replace it with another one ?"
+  },
+  {
+    "utterance_id": "Meeting25_289",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , why not ? If it's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_290",
+    "speaker_id": "Marketing",
+    "utterance_content": "I mean , for example the goo y"
+  },
+  {
+    "utterance_id": "Meeting25_291",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Because you have new {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_292",
+    "speaker_id": "Marketing",
+    "utterance_content": "you say we would we would to have a Google-like controller ."
+  },
+  {
+    "utterance_id": "Meeting25_293",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_294",
+    "speaker_id": "Marketing",
+    "utterance_content": "I don't see how adding speech or gesture recognition would make the remote control look more like Google . Google is {vocalsound} is simple , works fine ,"
+  },
+  {
+    "utterance_id": "Meeting25_295",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_296",
+    "speaker_id": "Marketing",
+    "utterance_content": "so I I guess if can have a remote control that is really basic , simple and works fine , it's already a lot ."
+  },
+  {
+    "utterance_id": "Meeting25_297",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Oh yes , but there's no big difference between the traditional controller ."
+  },
+  {
+    "utterance_id": "Meeting25_298",
+    "speaker_id": "Marketing",
+    "utterance_content": "Uh thi this {disfmarker} I mean , the user is not only interested in having speech or gesture recognition"
+  },
+  {
+    "utterance_id": "Meeting25_299",
+    "speaker_id": "User Interface",
+    "utterance_content": "The {disfmarker} then nn"
+  },
+  {
+    "utterance_id": "Meeting25_300",
+    "speaker_id": "Marketing",
+    "utterance_content": "or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_301",
+    "speaker_id": "User Interface",
+    "utterance_content": "no ."
+  },
+  {
+    "utterance_id": "Meeting25_302",
+    "speaker_id": "Marketing",
+    "utterance_content": "if he has something that works fine and is really {vocalsound} fancy , looks nice and it's easy easy to use , easy to use ."
+  },
+  {
+    "utterance_id": "Meeting25_303",
+    "speaker_id": "User Interface",
+    "utterance_content": "Tha"
+  },
+  {
+    "utterance_id": "Meeting25_304",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Not too expensive too ."
+  },
+  {
+    "utterance_id": "Meeting25_305",
+    "speaker_id": "User Interface",
+    "utterance_content": "But the there's there's n there's n not enough motivation for them to replace their old controller with a new one if there's no key feature in the new controller ."
+  },
+  {
+    "utterance_id": "Meeting25_306",
+    "speaker_id": "Marketing",
+    "utterance_content": "See {vocalsound} {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_307",
+    "speaker_id": "User Interface",
+    "utterance_content": "That's the same {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_308",
+    "speaker_id": "Marketing",
+    "utterance_content": "That's the problem ,"
+  },
+  {
+    "utterance_id": "Meeting25_309",
+    "speaker_id": "User Interface",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_310",
+    "speaker_id": "Marketing",
+    "utterance_content": "yeah . I mean , I I know it's more interesting to develop a remote controller with speech and gesture and whatever ."
+  },
+  {
+    "utterance_id": "Meeting25_311",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Ye {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_312",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_313",
+    "speaker_id": "Marketing",
+    "utterance_content": "But you have to think , the user is the one who gonna buy the product"
+  },
+  {
+    "utterance_id": "Meeting25_314",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_315",
+    "speaker_id": "Marketing",
+    "utterance_content": "and so ."
+  },
+  {
+    "utterance_id": "Meeting25_316",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . So"
+  },
+  {
+    "utterance_id": "Meeting25_317",
+    "speaker_id": "Marketing",
+    "utterance_content": "I mean , that's the point ."
+  },
+  {
+    "utterance_id": "Meeting25_318",
+    "speaker_id": "Project Manager",
+    "utterance_content": "let's go to the Industrial Designer ."
+  },
+  {
+    "utterance_id": "Meeting25_319",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_320",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_321",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_322",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Maybe we'll be able to take a decision after that , so ."
+  },
+  {
+    "utterance_id": "Meeting25_323",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_324",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_325",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Two ?"
+  },
+  {
+    "utterance_id": "Meeting25_326",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , participant two um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_327",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Working ?"
+  },
+  {
+    "utterance_id": "Meeting25_328",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , working design ,"
+  },
+  {
+    "utterance_id": "Meeting25_329",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_330",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so ."
+  },
+  {
+    "utterance_id": "Meeting25_331",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_332",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So I think {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_333",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I can {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_334",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Can you go to the {vocalsound} next one ? I uh {disfmarker} it's not this one ."
+  },
+  {
+    "utterance_id": "Meeting25_335",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_336",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's uh oth the oth {vocalsound} so I {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_337",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_338",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's the working design . Sorry . {vocalsound} Component design ."
+  },
+  {
+    "utterance_id": "Meeting25_339",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It's okay {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_340",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So this yeah {disfmarker} so this is the described use {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_341",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_342",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "What ? Are you inst"
+  },
+  {
+    "utterance_id": "Meeting25_343",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh I think there's something wrong with your {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_344",
+    "speaker_id": "User Interface",
+    "utterance_content": "It did didn't r receive it . Didn't receive it ."
+  },
+  {
+    "utterance_id": "Meeting25_345",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Maybe you you record it somewhere else ."
+  },
+  {
+    "utterance_id": "Meeting25_346",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I don't think so ."
+  },
+  {
+    "utterance_id": "Meeting25_347",
+    "speaker_id": "User Interface",
+    "utterance_content": "Participant one . Participant one ."
+  },
+  {
+    "utterance_id": "Meeting25_348",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Interface concept . No ."
+  },
+  {
+    "utterance_id": "Meeting25_349",
+    "speaker_id": "Marketing",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_350",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm mm ."
+  },
+  {
+    "utterance_id": "Meeting25_351",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh . Maybe I record recorded directly on the {disfmarker} Computer ."
+  },
+  {
+    "utterance_id": "Meeting25_352",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_353",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh . {vocalsound} Nope . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_354",
+    "speaker_id": "Marketing",
+    "utterance_content": "Dunno ."
+  },
+  {
+    "utterance_id": "Meeting25_355",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay , okay . Yes ."
+  },
+  {
+    "utterance_id": "Meeting25_356",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It seems that we have a problem with the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_357",
+    "speaker_id": "Marketing",
+    "utterance_content": "I dunno if you remember what you had to say or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_358",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I can say it to you without ."
+  },
+  {
+    "utterance_id": "Meeting25_359",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_360",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , maybe we can first come to"
+  },
+  {
+    "utterance_id": "Meeting25_361",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No , I think it will be more interesting to start with uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_362",
+    "speaker_id": "User Interface",
+    "utterance_content": "uh to Frahan . With Frahan , then you can prepare your slides ,"
+  },
+  {
+    "utterance_id": "Meeting25_363",
+    "speaker_id": "Marketing",
+    "utterance_content": "I think it's more interesting what he says ,"
+  },
+  {
+    "utterance_id": "Meeting25_364",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_365",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah ,"
+  },
+  {
+    "utterance_id": "Meeting25_366",
+    "speaker_id": "User Interface",
+    "utterance_content": "then present it later ."
+  },
+  {
+    "utterance_id": "Meeting25_367",
+    "speaker_id": "Marketing",
+    "utterance_content": "okay ."
+  },
+  {
+    "utterance_id": "Meeting25_368",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "exac"
+  },
+  {
+    "utterance_id": "Meeting25_369",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_370",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You will had s some more information in {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_371",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_372",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I think it will be interesting after your presentation to have um Baba's presentation ."
+  },
+  {
+    "utterance_id": "Meeting25_373",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_374",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , true ."
+  },
+  {
+    "utterance_id": "Meeting25_375",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_376",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_377",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "In fact , I don't know ,"
+  },
+  {
+    "utterance_id": "Meeting25_378",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So . Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_379",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I s because i in my presentation I don't have here with {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_380",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_381",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , never mind ."
+  },
+  {
+    "utterance_id": "Meeting25_382",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so {disfmarker} It was in fact the design use to show you the design of what is inside a what is inside and what are the different component of the r"
+  },
+  {
+    "utterance_id": "Meeting25_383",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_384",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_385",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "of the remote control . So it will be interesting so I could show you some some picture of what is inside"
+  },
+  {
+    "utterance_id": "Meeting25_386",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay . Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_387",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and {disfmarker} so . So I {disfmarker} in fact the the {disfmarker} f something I want to discuss is which kind of material are we going to use ,"
+  },
+  {
+    "utterance_id": "Meeting25_388",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_389",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so will {disfmarker} it will be wooden wooden di wooden remote control or a a plastic remote control like this one . So and {vocalsound} in which which which kind will be the the different bu button ,"
+  },
+  {
+    "utterance_id": "Meeting25_390",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_391",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so it can be some , you know , classic pushbutton like this one , or you have also some button like L_C_D_ where you know , the button the buttons are unlighted during the night ,"
+  },
+  {
+    "utterance_id": "Meeting25_392",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_393",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_394",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "or , you know , you can see them in the darkness ."
+  },
+  {
+    "utterance_id": "Meeting25_395",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_396",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_397",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And the other thing I want to discuss also is which kind of alimentation , electric alimentation do you want to have , so will it be for example uh d uh solar energy alimentation"
+  },
+  {
+    "utterance_id": "Meeting25_398",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh-huh ."
+  },
+  {
+    "utterance_id": "Meeting25_399",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "or will it be a battery like the classical battery so . And I think that for example for the alimentation it would be good to have uh both of them , so so for example in some country where you are in the the countryside and you are far from , you know , the cities uh for example in some place in in S Senegal , so if you have electric if you have solar alimentation , you just , when you want to have recharger or remote control power you just put it on the sun and after one hour you can come"
+  },
+  {
+    "utterance_id": "Meeting25_400",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_401",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and {disfmarker} so it can be interesting for people to have this kind of remote con It can be something interesting to make people buy it , for example ."
+  },
+  {
+    "utterance_id": "Meeting25_402",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , I think it's an added value to the remote control"
+  },
+  {
+    "utterance_id": "Meeting25_403",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah . Yeah , yeah mm ."
+  },
+  {
+    "utterance_id": "Meeting25_404",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and maybe it can attract all the ecological k yeah consumers"
+  },
+  {
+    "utterance_id": "Meeting25_405",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Ecologists , yeah , yeah , yeah , yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_406",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_407",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and but about the the price of adding this solar battery , would it be something really that will increase the price of production more ,"
+  },
+  {
+    "utterance_id": "Meeting25_408",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_409",
+    "speaker_id": "Project Manager",
+    "utterance_content": "no ?"
+  },
+  {
+    "utterance_id": "Meeting25_410",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Alrigh In fact , having them both will {disfmarker} if we want to have battery , regular battery and and {vocalsound} the solar energy battery it could be {disfmarker} it'll it will add a little bit of the price ,"
+  },
+  {
+    "utterance_id": "Meeting25_411",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So ."
+  },
+  {
+    "utterance_id": "Meeting25_412",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "but it will be an added value also that will be compensated ,"
+  },
+  {
+    "utterance_id": "Meeting25_413",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_414",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_415",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_416",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And what tha what about the uh materials ?"
+  },
+  {
+    "utterance_id": "Meeting25_417",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And the materials , it depends for example you {disfmarker} if you have a wooden material it can be more {disfmarker} the plastic material is more common"
+  },
+  {
+    "utterance_id": "Meeting25_418",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Impersonal , mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_419",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "it's very resistant but , you know , something wooden will be like , I don't know high cl so a special high class ,"
+  },
+  {
+    "utterance_id": "Meeting25_420",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_421",
+    "speaker_id": "Marketing",
+    "utterance_content": "Special for {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_422",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "or you know , you can have some {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_423",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , and i if you {disfmarker} we want to put fashion in electronics maybe we can try to do something with wood ."
+  },
+  {
+    "utterance_id": "Meeting25_424",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_425",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , even if it is not completely wood , but just a part of the , you know , will be wooden , in wood"
+  },
+  {
+    "utterance_id": "Meeting25_426",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting25_427",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_428",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm . Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_429",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and it can be interesting ."
+  },
+  {
+    "utterance_id": "Meeting25_430",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm okay , seems to be interesting , mm ."
+  },
+  {
+    "utterance_id": "Meeting25_431",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And so the last point is y also would do you want to have some very cheap integrated cir circuits , chips , or do you have low level or or very very expensive , it depends , but I think that low level will be , you know , it is an interim module ."
+  },
+  {
+    "utterance_id": "Meeting25_432",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , we want something easy to use and {disfmarker} so I think maybe something very low level wou would be enough ."
+  },
+  {
+    "utterance_id": "Meeting25_433",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah . Yeah . Yeah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_434",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And you think that we will be {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_435",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , I think it will fit on the price we want , twel twelve Euros ,"
+  },
+  {
+    "utterance_id": "Meeting25_436",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_437",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so ."
+  },
+  {
+    "utterance_id": "Meeting25_438",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So wood ."
+  },
+  {
+    "utterance_id": "Meeting25_439",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting25_440",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And what about the buttons ?"
+  },
+  {
+    "utterance_id": "Meeting25_441",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think the buttons I pr I prefer , you know , the L_C_D_ you know {vocalsound} lighted buttons because , you know , it's {disfmarker} I don't know {vocalsound} um yeah , in the dark , it's fashion"
+  },
+  {
+    "utterance_id": "Meeting25_442",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No it's fashion , yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_443",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and it's related to how beautiful it is or uh if you want to watch T_V_ in the darkness or if you want to lo find your find your your remote control that is lost , you know in the darkness it's very easy so , right ."
+  },
+  {
+    "utterance_id": "Meeting25_444",
+    "speaker_id": "Marketing",
+    "utterance_content": "What about the touch scr touch screen ? For example . It's it's expensive I I guess ."
+  },
+  {
+    "utterance_id": "Meeting25_445",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} I think a touch screen {vocalsound} will be t as expensive as the L_C_D_ buttons so ."
+  },
+  {
+    "utterance_id": "Meeting25_446",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_447",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But {disfmarker} And it is a kind of other design , I mean . It can also be interesting to have this kind of {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting25_448",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_449",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_450",
+    "speaker_id": "User Interface",
+    "utterance_content": "So you got email ?"
+  },
+  {
+    "utterance_id": "Meeting25_451",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I dunno . {vocalsound} I think we have only {vocalsound} {vocalsound} uh five minutes left ."
+  },
+  {
+    "utterance_id": "Meeting25_452",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_453",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Participant four ? Functional requirements ?"
+  },
+  {
+    "utterance_id": "Meeting25_454",
+    "speaker_id": "Marketing",
+    "utterance_content": "Uh no , trend watching . {vocalsound} The other one . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_455",
+    "speaker_id": "Project Manager",
+    "utterance_content": "This one ?"
+  },
+  {
+    "utterance_id": "Meeting25_456",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Uh , I think so , just {disfmarker} Yeah , so just to meet the user requirements I would just do a s short anal analysis of the remote control market and to kind of um have a better overview of what's the fashion in general I've checked more than only the remote control market , so next ."
+  },
+  {
+    "utterance_id": "Meeting25_457",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting25_458",
+    "speaker_id": "Marketing",
+    "utterance_content": "So again , it's pretty much similar to what I've said in the previous meeting . Um user really really want a fancy look and feel . They're not so so interested in uh functional look and feel , okay . Like the one you've shown , David , with all the buttons and {disfmarker} I mean {vocalsound} i i it sounds good technically"
+  },
+  {
+    "utterance_id": "Meeting25_459",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_460",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting25_461",
+    "speaker_id": "Marketing",
+    "utterance_content": "but it's it's not what they want and uh {disfmarker} So , second point is they still want it it to be technologically innovative , so maybe it's sort of related to what you've said with the speech recognition and so on ."
+  },
+  {
+    "utterance_id": "Meeting25_462",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting25_463",
+    "speaker_id": "Marketing",
+    "utterance_content": "At the same time , it's important that it's easy to use . So that were the three first points from the remote control uh analysis ."
+  },
+  {
+    "utterance_id": "Meeting25_464",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting25_465",
+    "speaker_id": "Marketing",
+    "utterance_content": "Now i if we look at fashion in general um {disfmarker} Okay . Wha what we really see this year is that uh everything from clothes to shoes and furniture is is inspired by fruits and vegetables ,"
+  },
+  {
+    "utterance_id": "Meeting25_466",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Ah yes ."
+  },
+  {
+    "utterance_id": "Meeting25_467",
+    "speaker_id": "Marketing",
+    "utterance_content": "okay , so I think we really have to take this into account for the design of the the thing ."
+  },
+  {
+    "utterance_id": "Meeting25_468",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , yeah . Okay , yeah ."
+  },
+  {
+    "utterance_id": "Meeting25_469",
+    "speaker_id": "Marketing",
+    "utterance_content": "'Cause it's it's really what people want . Even if it's in general fashion , we want it to be in the remote control . And then uh if if we take the ordering or the ranking of all the points , fancy look and feel has , on a score of seven would have six as importance . Uh the remote control has to be technologically innovative , it's three . Then easy to use uh it's not so important"
+  }
+]

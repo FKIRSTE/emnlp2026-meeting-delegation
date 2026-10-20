@@ -1,0 +1,1852 @@
+[
+  {
+    "utterance_id": "Meeting140_001",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Uh good afternoon . This is our third meeting already ."
+  },
+  {
+    "utterance_id": "Meeting140_002",
+    "speaker_id": "Marketing",
+    "utterance_content": "Good afternoon ."
+  },
+  {
+    "utterance_id": "Meeting140_003",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I hope you enjoyed your lunch . {vocalsound} I did anyway . {vocalsound} Um let's see . Presentation three . Okay this is um the second phase uh we're going to discuss today . It's the conceptual design meeting . And a few points of interest in this meeting um are the conceptual specification of components . Uh conceptual specification of design . And also trend-watching . Um these are hopefully the points you addressed in uh your pre uh presentations you're going to show me in a few minutes . Um but first I'll show you the agenda . Uh first the opening . Then we have three presentations . Uh after that we have to come to a decision on remote control concepts . How we're going to make it . And then we're closing . We have about forty minutes . Uh so I suggest let's get started . Uh did someone encounter any problems during the preparation ? No ?"
+  },
+  {
+    "utterance_id": "Meeting140_004",
+    "speaker_id": "User Interface",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting140_005",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Everything fine ?"
+  },
+  {
+    "utterance_id": "Meeting140_006",
+    "speaker_id": "Marketing",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting140_007",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That's nice . Then a little uh thing about the last meeting . Uh these are the points um we agreed on . The requirements and the target market . Uh requirements are uh teletext , docking station , audio signal , small screen , with some extras that uh button information . And we are going to use default materials . Um does somebody have any comments on these requirements ? Maybe ? No ? These are just the the things we thought of , so maybe if you figured something else or thought of something else , just let me know . And maybe we can uh work it out . And we're going to target uh sixty to to eighty year old customers . So now everybody knows what we're do we're doing , um I suggest let's get started with the presentations . So shall we keep the same uh line-up as uh last time ?"
+  },
+  {
+    "utterance_id": "Meeting140_008",
+    "speaker_id": "Marketing",
+    "utterance_content": "Sure ."
+  },
+  {
+    "utterance_id": "Meeting140_009",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_010",
+    "speaker_id": "Marketing",
+    "utterance_content": "I'll start off then ."
+  },
+  {
+    "utterance_id": "Meeting140_011",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Good luck . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_012",
+    "speaker_id": "Marketing",
+    "utterance_content": "Doh . 'Kay I'm uh gonna inform you about the trend-watching I've done over the past few days . Um we've done some market research . We distributed some more enquetes , questionnaires . And um besides that um I deployed some trend-watchers to Milan and Paris to well get all of the newest trends . And I've consulted some additional trend-watch trend-watchers , after the original trend-watchers return , about what the the best design would be . Um okay these are some overall findings . Um most important thing is the fancy design . Um the research indicated that that was by far the most important factor . Um innovativeness was about half as important as the fancy design . By innovativeness this means um functions which are not featured in other remote controls . Um about half of , half as important as the innovativeness was the was easy to use . Um for our um group , we're focusing on the people of sixty to eighty y years old , this is um , these factors are slightly more equal . 'Kay these are some more group specific findings . Uh the older people prefer dark colours . Uh they like recognisable shapes , and familiar material . And our surveys have indicated that especially wood is pretty much the material for older people . Um this is , this image will give you a little bit of an impression about um the look-and-feel that um the remote should have . Um this leads us to some personal preferences . Uh the remote control and the docking station should uh blend in in the in the room . Um so this would mean no uh eye-catching designs . Just keep it simple and {disfmarker} Well the docking station and small screen would be our main points of interest , because this would be the {disfmarker} These would uh be the innovativeness in the remote control . So this would be very important that we {vocalsound} at least include these features . Um well the trend-watchers I consulted advised that it b should be , the remote control and the docking station should be telephone-shaped . So you could imagine that uh the remote control will be standing up straight in the docking station . This is not really {disfmarker} This is pretty much a new shape to uh older people . So they would prefer uh a design where the remote control just lies flat in the docking station . So it would be kinda more telephone-shaped . Um besides that we would advise um to bring two editions , one with a wood-like colour and maybe feel , and one with a grey-black colour . The wood-like for the more uh exclusive people . People with more money . Uh the grey-black colour for well people with less means . That would be all ."
+  },
+  {
+    "utterance_id": "Meeting140_013",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Thank you . Any questions about the the trends ?"
+  },
+  {
+    "utterance_id": "Meeting140_014",
+    "speaker_id": "Marketing",
+    "utterance_content": "Any questions ?"
+  },
+  {
+    "utterance_id": "Meeting140_015",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mayb"
+  },
+  {
+    "utterance_id": "Meeting140_016",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm no ."
+  },
+  {
+    "utterance_id": "Meeting140_017",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No ? Okay , we go on to the next one ."
+  },
+  {
+    "utterance_id": "Meeting140_018",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting140_019",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_020",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um {vocalsound} 'kay um yeah . {gap} uh some uh research uh a about um designing of an interface . Um the uh last meeting uh we had a about um uh using a f few buttons . So uh um uh that's w what I what I want to uh uh to do in uh our design . So um finding an attractive uh way to control uh the remote control . Um the uh {disfmarker} I found some uh something about uh speech uh recognition . So maybe uh we can uh use uh that . Um {disfmarker} Uh and uh using a little uh display . So um findings . Um yeah just um we have just to focus on the primary um functions . So uh only uh buttons uh for uh sound , um for uh on-off , um uh shifting u up uh sa uh ca channel or uh down shifting down . Um uh let's see . Um yeah and {disfmarker} Uh {gap} we uh need some uh new a attractive functions uh uh which attract uh uh people for using it . So uh it's uh like a speak uh speech uh recognition and um a special button for selecting uh subtitles . Just uh what we uh mentioned uh last uh meeting . Um and yeah overall um user-friendly . So uh using uh large large buttons . Um {disfmarker} It's uh possible to uh uh to make um quite cheap uh system for uh speech uh recognition . Um you can think about um uh when you lost your um remote control , you can uh call it and um it gives an um sig signal . So uh uh yeah . And and uh for uh shifting up a sen uh c ch channel or uh for um uh putting out uh sound or something , you can uh just give a sign uh say um sound off or {disfmarker} A and uh yeah . Television uh put the sound off uh put the sound off uh . Um {disfmarker} Let's see . Uh yeah . I was thinking about the special uh button for uh subtitles , um just one button to keep it uh simple . Uh one push on the button uh you get uh uh small uh subtitles . Um double push push um , if double click , um so uh you get uh big uh subtitles , for uh people uh um uh which c f uh who can't uh read small uh subtitles . So uh {disfmarker} Um {disfmarker} Yeah and w we have to keep uh in general buttons uh so um we've got um the buttons we have to use . The on-off , sound on-off , sound higher or lower , um the numbers , uh zero to uh uh nine . Um the general buttons m more general b one button for shifting up and shifting down uh channel . Um also we want to uh use a little d display uh for um for displaying the uh the functions of the buttons . And um we can uh build in a function f which uh shows the channel or some uh which the t television is on . So um made a little uh picture of uh it . Um {disfmarker} See . Um yeah . Just um we can put uh the on-off button uh over in this uh corner , um almost uh e all uh remote controls uh are using a on-off button on that place . Um so uh people uh will uh recognise uh um the button ."
+  },
+  {
+    "utterance_id": "Meeting140_021",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_022",
+    "speaker_id": "User Interface",
+    "utterance_content": "So um {disfmarker} D display uh of it , it's uh just a small display . Uh um you can put it uh on top . Um it's uh most uh uh place where people uh , most of {gap} looks at . So uh um and a special uh button for shifting up uh and uh shifting down uh channel , um it's uh on place where um the thumb of of the {disfmarker} So you you can uh easily uh shift up or shift down . Um it's uh quite uh handy place . So um and uh all the f functions for subtitle uh one button , uh for sound uh {disfmarker} Uh and uh for our design , um uh we have to discuss about it uh I think uh so uh the form of it so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_023",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_024",
+    "speaker_id": "User Interface",
+    "utterance_content": "And that's it ."
+  },
+  {
+    "utterance_id": "Meeting140_025",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh thank you . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_026",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay . About the components design . Um for the energy source we can use a basic battery or , a as an optional thing , a kinetic energy , like in a watch , which you just shake and it produces energy . But if we choose for that option , the docking station would c become obsolete . So I don't think it's really an option . Uh for the casing , uh the uh manufacturing department can deliver uh a flat casing , single or double curved casing . It's really up the the design that we're gonna use . It's uh doesn't uh imply any technical restrictions . Uh as a case supplement , we could um , I thought of that l later , uh a rubber uh belt , like a anti-slip . Uh for the b buttons , we can use plastic or rubber . And the chip-set , um it says simple here , but it should be advanced , because we're using an L_C_D_ uh screen . And as uh the trend-watcher presentation showed , um people like wood , but it raises the price and it doesn't really fit the image , unless we would start two product lines . Form should follow function overall . Um well the kinetic energy source is rather fancy . But depends on what we want . I think we should disc discuss that . Um for the case , uh the supplement and the buttons , it really depends on the designer . And the chip-set uh really should be advanced because otherwise uh it would really be a simple uh remote control . And that's it ."
+  },
+  {
+    "utterance_id": "Meeting140_027",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . Thank you . So that brings us to the discussion about our concepts . Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_028",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_029",
+    "speaker_id": "Project Manager",
+    "utterance_content": "'Kay . So these are the points we have to discuss . Um first I think we can talk about the energy source , since that's um has a pretty big influence on production price , uh and image ."
+  },
+  {
+    "utterance_id": "Meeting140_030",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting140_031",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh so uh f I think first of all we have to see uh it is possible to introduce kinetic energy in our budget , I think ."
+  },
+  {
+    "utterance_id": "Meeting140_032",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yes w there there are four options . We could use the basic normal battery ."
+  },
+  {
+    "utterance_id": "Meeting140_033",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_034",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Uh a hand dynamo ."
+  },
+  {
+    "utterance_id": "Meeting140_035",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Okay {gap} . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_036",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But I don't think that's {vocalsound} really an option ."
+  },
+  {
+    "utterance_id": "Meeting140_037",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_038",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You don't wanna swing before you can watch television ."
+  },
+  {
+    "utterance_id": "Meeting140_039",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_040",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_041",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Uh solar cells . But not every room is very light"
+  },
+  {
+    "utterance_id": "Meeting140_042",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_043",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so it's not a very good option ."
+  },
+  {
+    "utterance_id": "Meeting140_044",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting140_045",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Or the kinetic energy ."
+  },
+  {
+    "utterance_id": "Meeting140_046",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_047",
+    "speaker_id": "Marketing",
+    "utterance_content": "And how exactly does the kinetic energy work ?"
+  },
+  {
+    "utterance_id": "Meeting140_048",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Well y you basically shake your remote , and then it powers up ."
+  },
+  {
+    "utterance_id": "Meeting140_049",
+    "speaker_id": "Marketing",
+    "utterance_content": "You just {disfmarker} You use it and it works ."
+  },
+  {
+    "utterance_id": "Meeting140_050",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_051",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_052",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_053",
+    "speaker_id": "User Interface",
+    "utterance_content": "Nah ."
+  },
+  {
+    "utterance_id": "Meeting140_054",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay . Well personally I don't think that older people like to shake their remote control before they use it ."
+  },
+  {
+    "utterance_id": "Meeting140_055",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_056",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah . That's true ."
+  },
+  {
+    "utterance_id": "Meeting140_057",
+    "speaker_id": "Marketing",
+    "utterance_content": "And besides that you mentioned it would make the docking station obsolete ."
+  },
+  {
+    "utterance_id": "Meeting140_058",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh ."
+  },
+  {
+    "utterance_id": "Meeting140_059",
+    "speaker_id": "Marketing",
+    "utterance_content": "And I think our docking station could be one of the marketing issues with which we can um get great popularity for our product ."
+  },
+  {
+    "utterance_id": "Meeting140_060",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_061",
+    "speaker_id": "User Interface",
+    "utterance_content": "But"
+  },
+  {
+    "utterance_id": "Meeting140_062",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um wel"
+  },
+  {
+    "utterance_id": "Meeting140_063",
+    "speaker_id": "User Interface",
+    "utterance_content": "what's the function ? Yeah f for loading up uh the batteries {gap} ."
+  },
+  {
+    "utterance_id": "Meeting140_064",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah you could load up the batteries ,"
+  },
+  {
+    "utterance_id": "Meeting140_065",
+    "speaker_id": "User Interface",
+    "utterance_content": "B b"
+  },
+  {
+    "utterance_id": "Meeting140_066",
+    "speaker_id": "Marketing",
+    "utterance_content": "you could um insert the find the lost remote control function in there ."
+  },
+  {
+    "utterance_id": "Meeting140_067",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay but uh it won't use uh much e energy uh I I believe . Uh it's uh just a small display so I believe uh it will run on one battery for um six months or f or or more . So I believe one battery uh is just enough ."
+  },
+  {
+    "utterance_id": "Meeting140_068",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_069",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_070",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh well I think uh elderly people just like to have everything in place ."
+  },
+  {
+    "utterance_id": "Meeting140_071",
+    "speaker_id": "Marketing",
+    "utterance_content": "That's true . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_072",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And I don't think they they like uh remotes just laying everywhere in their rooms ."
+  },
+  {
+    "utterance_id": "Meeting140_073",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_074",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So maybe a docking station will help them give the remote a place ."
+  },
+  {
+    "utterance_id": "Meeting140_075",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . That's true . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_076",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And also what you said . Um you can introduce voice recognition by uh finding back your remote ."
+  },
+  {
+    "utterance_id": "Meeting140_077",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_078",
+    "speaker_id": "Project Manager",
+    "utterance_content": "But I think it's um more efficient and cheaper to put it in the docking station ."
+  },
+  {
+    "utterance_id": "Meeting140_079",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_080",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So you have a but button on your docking station which you can push , and then it starts beeping ."
+  },
+  {
+    "utterance_id": "Meeting140_081",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_082",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And then we can we can still use the voice recognition , but maybe then for only the the channels ."
+  },
+  {
+    "utterance_id": "Meeting140_083",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Uh ."
+  },
+  {
+    "utterance_id": "Meeting140_084",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That's safe ."
+  },
+  {
+    "utterance_id": "Meeting140_085",
+    "speaker_id": "Marketing",
+    "utterance_content": "I'm wondering um what will the voice recognition mean for the production price ?"
+  },
+  {
+    "utterance_id": "Meeting140_086",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . That's a good point ."
+  },
+  {
+    "utterance_id": "Meeting140_087",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm I don't have any information on pricing . So I'll have to ask the manufacturing department ."
+  },
+  {
+    "utterance_id": "Meeting140_088",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_089",
+    "speaker_id": "Marketing",
+    "utterance_content": "'Cause in our earlier um market research , if you'd allow me to go to the flat board , SMARTboard ."
+  },
+  {
+    "utterance_id": "Meeting140_090",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , sure . Go ahead ."
+  },
+  {
+    "utterance_id": "Meeting140_091",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um so it was open here . Um we also um asked if w they would , if people would pay more for speech recognition in a remote control . Well you can see here , our target group would not do that ."
+  },
+  {
+    "utterance_id": "Meeting140_092",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting140_093",
+    "speaker_id": "Marketing",
+    "utterance_content": "So if that would increase the price for which we're selling our remote control"
+  },
+  {
+    "utterance_id": "Meeting140_094",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_095",
+    "speaker_id": "Marketing",
+    "utterance_content": "I would greatly advise not to do it ."
+  },
+  {
+    "utterance_id": "Meeting140_096",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_097",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting140_098",
+    "speaker_id": "Marketing",
+    "utterance_content": "I think that would be better to uh insert in our other product , that is meant for the"
+  },
+  {
+    "utterance_id": "Meeting140_099",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_100",
+    "speaker_id": "Marketing",
+    "utterance_content": "younger people ."
+  },
+  {
+    "utterance_id": "Meeting140_101",
+    "speaker_id": "User Interface",
+    "utterance_content": "'Kay ."
+  },
+  {
+    "utterance_id": "Meeting140_102",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But that would also go for the L_C_D_ screen then I guess . It's a bit higher percentage , but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_103",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um well this is Yeah but this is here the question was , would you prefer it . So that doesn't really mean they wouldn't pay extra for it . And on top of that the L_C_D_ screen would um help in making the remote control easier to use ."
+  },
+  {
+    "utterance_id": "Meeting140_104",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_105",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_106",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_107",
+    "speaker_id": "Marketing",
+    "utterance_content": "And I think a voice recognition function would not make the remote control much easier to use ."
+  },
+  {
+    "utterance_id": "Meeting140_108",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Easier to use ? No , I think that's a good point ."
+  },
+  {
+    "utterance_id": "Meeting140_109",
+    "speaker_id": "User Interface",
+    "utterance_content": "But uh is uh our uh research um about um bi large uh L_C_D_ sh uh display , or uh just a small one uh we want to uh use ?"
+  },
+  {
+    "utterance_id": "Meeting140_110",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um well this was for like an L_C_D_ screen like you would have on a on the the most advanced mobile phones ."
+  },
+  {
+    "utterance_id": "Meeting140_111",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_112",
+    "speaker_id": "Marketing",
+    "utterance_content": "So pretty large ."
+  },
+  {
+    "utterance_id": "Meeting140_113",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_114",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_115",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I personally think the L_C_D_ screen we wanna use , with the extra information , I think nobody has anything against it . Because it's just uh some extra information ,"
+  },
+  {
+    "utterance_id": "Meeting140_116",
+    "speaker_id": "User Interface",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting140_117",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and it's easy to ignore as well . So if you don't wanna use it you just don't use it ."
+  },
+  {
+    "utterance_id": "Meeting140_118",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_119",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And um yeah I think the um {disfmarker} Maybe we have to uh discard the voice recognition . Because it will increase cost uh signifi uh significantly . And I don't think the {disfmarker} I don't think it will be a lot easier to use , as well ."
+  },
+  {
+    "utterance_id": "Meeting140_120",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_121",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So that brings us back to the energy . If we don't have the voice recognition , it will it won't use a lot of energy to use . Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_122",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_123",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So in that case we could use kinetic uh energy , but I think just a simple battery which you can reload on a docking station is just as good . And much cheaper as well ."
+  },
+  {
+    "utterance_id": "Meeting140_124",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_125",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_126",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And that's the best choice ."
+  },
+  {
+    "utterance_id": "Meeting140_127",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay let me just choose for the battery . That brings us to the chip ."
+  },
+  {
+    "utterance_id": "Meeting140_128",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Well there isn't any choice there because we're using the the the the display ."
+  },
+  {
+    "utterance_id": "Meeting140_129",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Just the advanced ."
+  },
+  {
+    "utterance_id": "Meeting140_130",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So it's gotta be advanced ."
+  },
+  {
+    "utterance_id": "Meeting140_131",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay"
+  },
+  {
+    "utterance_id": "Meeting140_132",
+    "speaker_id": "Marketing",
+    "utterance_content": "'Kay ."
+  },
+  {
+    "utterance_id": "Meeting140_133",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{gap} , advanced chip . And then we get to the point of the case . Um which brings us a little bit back to marketing as well . Uh if we wanna choose for wood or the black and grey . Or both ? Um as we saw there is not {disfmarker} Yeah wood is a lot more expensive to produce ."
+  },
+  {
+    "utterance_id": "Meeting140_134",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_135",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um but I think it will attract elderly people who wanna have something exclusive , which they can show off to their grandkids ."
+  },
+  {
+    "utterance_id": "Meeting140_136",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_137",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Look I've got a new remote control , and uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_138",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_139",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh I dunno ."
+  },
+  {
+    "utterance_id": "Meeting140_140",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well {disfmarker} {vocalsound} And I think most important factor there is the wooden colour . So it wouldn't actually have to be wood ,"
+  },
+  {
+    "utterance_id": "Meeting140_141",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . That's right ."
+  },
+  {
+    "utterance_id": "Meeting140_142",
+    "speaker_id": "Marketing",
+    "utterance_content": "if it's just"
+  },
+  {
+    "utterance_id": "Meeting140_143",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_144",
+    "speaker_id": "Marketing",
+    "utterance_content": "wood-coloured ."
+  },
+  {
+    "utterance_id": "Meeting140_145",
+    "speaker_id": "Project Manager",
+    "utterance_content": "But with colour was a lot more expensive ? Or ?"
+  },
+  {
+    "utterance_id": "Meeting140_146",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm I dunno ."
+  },
+  {
+    "utterance_id": "Meeting140_147",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You don't know ?"
+  },
+  {
+    "utterance_id": "Meeting140_148",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I'll have to uh research ."
+  },
+  {
+    "utterance_id": "Meeting140_149",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I think so because {disfmarker} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_150",
+    "speaker_id": "Marketing",
+    "utterance_content": "Probably ."
+  },
+  {
+    "utterance_id": "Meeting140_151",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It's a lot more difficult to to handle and to to get in the right shape ."
+  },
+  {
+    "utterance_id": "Meeting140_152",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm . Uh is it possible uh to make um changeable uh case . So um uh you 'cause uh {disfmarker} Yeah with uh mobile phones uh uh so uh like the Nokia mobile phones , uh when you can change the case of it ."
+  },
+  {
+    "utterance_id": "Meeting140_153",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_154",
+    "speaker_id": "User Interface",
+    "utterance_content": "So"
+  },
+  {
+    "utterance_id": "Meeting140_155",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Change the cases . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_156",
+    "speaker_id": "User Interface",
+    "utterance_content": "maybe it's possible uh possibility . So um um you have just to make one um standard um remote control , and um yeah you can sell uh few uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_157",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You can sell the cases ."
+  },
+  {
+    "utterance_id": "Meeting140_158",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_159",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . I think that's a very good option . Because um then you can advertise as well with the {disfmarker} Give your grandfather a new case for his remote control , or whatever . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_160",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_161",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_162",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_163",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Because that's a {disfmarker} it's something extra , it's something other remotes don't have ,"
+  },
+  {
+    "utterance_id": "Meeting140_164",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_165",
+    "speaker_id": "Project Manager",
+    "utterance_content": "which we can get a great advantage point ."
+  },
+  {
+    "utterance_id": "Meeting140_166",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah that is true ."
+  },
+  {
+    "utterance_id": "Meeting140_167",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So and then you can make them with colour . Black and grey , other colours as well ."
+  },
+  {
+    "utterance_id": "Meeting140_168",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_169",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . We would have to look carefully into the design though ."
+  },
+  {
+    "utterance_id": "Meeting140_170",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Costs ."
+  },
+  {
+    "utterance_id": "Meeting140_171",
+    "speaker_id": "Marketing",
+    "utterance_content": "'Cause we would have to make one w uh control which would fit in with a wooden cover and a plastic cover . The more original one , or the more standard one ."
+  },
+  {
+    "utterance_id": "Meeting140_172",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . Yeah . So"
+  },
+  {
+    "utterance_id": "Meeting140_173",
+    "speaker_id": "Marketing",
+    "utterance_content": "So that would {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_174",
+    "speaker_id": "Project Manager",
+    "utterance_content": "you suggest we should design two different telephones on which you can apply , yeah {vocalsound} remote controls , on which you can apply different case covers , for example ."
+  },
+  {
+    "utterance_id": "Meeting140_175",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well I wouldn't design a telephone"
+  },
+  {
+    "utterance_id": "Meeting140_176",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_177",
+    "speaker_id": "Marketing",
+    "utterance_content": "but {disfmarker} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_178",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_179",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well no I think w we should just , we should then just design one um"
+  },
+  {
+    "utterance_id": "Meeting140_180",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Remote ."
+  },
+  {
+    "utterance_id": "Meeting140_181",
+    "speaker_id": "Marketing",
+    "utterance_content": "one remote , but it would have to be fancy with either the wood cover or the plastic one ."
+  },
+  {
+    "utterance_id": "Meeting140_182",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_183",
+    "speaker_id": "Marketing",
+    "utterance_content": "So , but that shouldn't be too much of a problem ."
+  },
+  {
+    "utterance_id": "Meeting140_184",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So everybody's okay with the changing covers ? I think that's a good uh good option ."
+  },
+  {
+    "utterance_id": "Meeting140_185",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_186",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yes ."
+  },
+  {
+    "utterance_id": "Meeting140_187",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Changing case covers ."
+  },
+  {
+    "utterance_id": "Meeting140_188",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um I heard our Industrial Designer talk about uh flat , single and double curved ."
+  },
+  {
+    "utterance_id": "Meeting140_189",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_190",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yes ."
+  },
+  {
+    "utterance_id": "Meeting140_191",
+    "speaker_id": "Marketing",
+    "utterance_content": "Could you explain that a little more ?"
+  },
+  {
+    "utterance_id": "Meeting140_192",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Well the the general like most older remotes are flat , just straight ."
+  },
+  {
+    "utterance_id": "Meeting140_193",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_194",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And uh our d manufacturing department can also deliver single curved or double curved ca curved cases ."
+  },
+  {
+    "utterance_id": "Meeting140_195",
+    "speaker_id": "Marketing",
+    "utterance_content": "And what would single curved and double curved mean ?"
+  },
+  {
+    "utterance_id": "Meeting140_196",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um it would just only affect the form , for as far as I know . So it's j really just up to the design department what we're gonna use . It doesn't really matter for the price or the functionality ."
+  },
+  {
+    "utterance_id": "Meeting140_197",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay . So we can pretty much just do whatever we want ."
+  },
+  {
+    "utterance_id": "Meeting140_198",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Pick one you like , yes ."
+  },
+  {
+    "utterance_id": "Meeting140_199",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm . Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_200",
+    "speaker_id": "Marketing",
+    "utterance_content": "'Kay . That's good ."
+  },
+  {
+    "utterance_id": "Meeting140_201",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh but the form has to be um {disfmarker} It has to {disfmarker} It's has to be possible to stand up ? Or just only to lie down ?"
+  },
+  {
+    "utterance_id": "Meeting140_202",
+    "speaker_id": "Marketing",
+    "utterance_content": "No just to lie down ."
+  },
+  {
+    "utterance_id": "Meeting140_203",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap} okay ."
+  },
+  {
+    "utterance_id": "Meeting140_204",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And the the cover of the the docking station is also"
+  },
+  {
+    "utterance_id": "Meeting140_205",
+    "speaker_id": "Marketing",
+    "utterance_content": "We'll go for that ."
+  },
+  {
+    "utterance_id": "Meeting140_206",
+    "speaker_id": "Project Manager",
+    "utterance_content": "on top of the television then ? Or not ?"
+  },
+  {
+    "utterance_id": "Meeting140_207",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well or besides it ."
+  },
+  {
+    "utterance_id": "Meeting140_208",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And you can just yeah then click it in . That's okay . Um so the interface . What type of interface do we want to use ? Um maybe you can make a little drawing of it on the"
+  },
+  {
+    "utterance_id": "Meeting140_209",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_210",
+    "speaker_id": "Project Manager",
+    "utterance_content": "on the the board ."
+  },
+  {
+    "utterance_id": "Meeting140_211",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_212",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Does somebody have ideas for a form or"
+  },
+  {
+    "utterance_id": "Meeting140_213",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh we can just use the regular form of it , but it's um not quite uh fancy . So um {disfmarker} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_214",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um you uh said you wanted to put the um changing channels button on the right side ,"
+  },
+  {
+    "utterance_id": "Meeting140_215",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_216",
+    "speaker_id": "Marketing",
+    "utterance_content": "so you could , so your thumb would be easily {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_217",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_218",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well uh I think that was a very good point 'cause I pointed out earlier that a lot of remotes cause R_S_I_ ."
+  },
+  {
+    "utterance_id": "Meeting140_219",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting140_220",
+    "speaker_id": "Marketing",
+    "utterance_content": "So that would be great for that . Um I thought maybe we could just make one of those buttons on both the left and the right side ."
+  },
+  {
+    "utterance_id": "Meeting140_221",
+    "speaker_id": "User Interface",
+    "utterance_content": "For uh {disfmarker} Uh for {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_222",
+    "speaker_id": "Marketing",
+    "utterance_content": "For left-handed users also ."
+  },
+  {
+    "utterance_id": "Meeting140_223",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_224",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting140_225",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm . Yeah we Is it possible to um program it s so uh you got on the left side uh or on the right side uh buttons for for shifting u up and shifting up ? And on the uh other uh {vocalsound} uh o other side uh buttons for uh shifting , uh for for the sound ? Or {disfmarker} Or isn't it ?"
+  },
+  {
+    "utterance_id": "Meeting140_226",
+    "speaker_id": "Marketing",
+    "utterance_content": "For the volume . Um well"
+  },
+  {
+    "utterance_id": "Meeting140_227",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_228",
+    "speaker_id": "Marketing",
+    "utterance_content": "that could {gap} Yeah we could do that but I'm not sure if that would be very good for the easy , ease of use ."
+  },
+  {
+    "utterance_id": "Meeting140_229",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Usabili Yeah ease of use will be a lot more difficult ,"
+  },
+  {
+    "utterance_id": "Meeting140_230",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah okay ."
+  },
+  {
+    "utterance_id": "Meeting140_231",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and then it's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_232",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh ."
+  },
+  {
+    "utterance_id": "Meeting140_233",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_234",
+    "speaker_id": "Marketing",
+    "utterance_content": "But if we would make um a changing channels and changing volume button on both sides , that would certainly yield great options for the design of the remote ."
+  },
+  {
+    "utterance_id": "Meeting140_235",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_236",
+    "speaker_id": "Marketing",
+    "utterance_content": "'Cause it could be made all symmetrical and stuff ."
+  },
+  {
+    "utterance_id": "Meeting140_237",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah"
+  },
+  {
+    "utterance_id": "Meeting140_238",
+    "speaker_id": "Project Manager",
+    "utterance_content": "But you have extra buttons ."
+  },
+  {
+    "utterance_id": "Meeting140_239",
+    "speaker_id": "User Interface",
+    "utterance_content": "but {disfmarker} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_240",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So people can get confused ."
+  },
+  {
+    "utterance_id": "Meeting140_241",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_242",
+    "speaker_id": "Marketing",
+    "utterance_content": "That is true ."
+  },
+  {
+    "utterance_id": "Meeting140_243",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_244",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Especially if they have the same writings on it ."
+  },
+  {
+    "utterance_id": "Meeting140_245",
+    "speaker_id": "User Interface",
+    "utterance_content": "See um yeah . Or we have to make a left uh {disfmarker} For lefties"
+  },
+  {
+    "utterance_id": "Meeting140_246",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Can't we make uh {disfmarker} Can't we make a remote which you can flip over and use on the same"
+  },
+  {
+    "utterance_id": "Meeting140_247",
+    "speaker_id": "User Interface",
+    "utterance_content": "and {disfmarker} {vocalsound} Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_248",
+    "speaker_id": "Project Manager",
+    "utterance_content": "functions as the normal one ?"
+  },
+  {
+    "utterance_id": "Meeting140_249",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} You mean um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_250",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Then you have to {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_251",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah if {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_252",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Let's see if I ca A blank one . And then you get {disfmarker} Here's a little L_C_D_ screen . Uh now I have to think . It's a plus and a min . No it's not very handy I think . Because the plus and the min will be opposite"
+  },
+  {
+    "utterance_id": "Meeting140_253",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm no ."
+  },
+  {
+    "utterance_id": "Meeting140_254",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and all kinds of {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_255",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_256",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_257",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No that's not gonna work . I guess . Maybe we should {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_258",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_259",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . But is it a problem that left-handed persons use a different hand ? I think the functions are that basic that nobody should have any problems with uh choosing a channel"
+  },
+  {
+    "utterance_id": "Meeting140_260",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . That is true ."
+  },
+  {
+    "utterance_id": "Meeting140_261",
+    "speaker_id": "Project Manager",
+    "utterance_content": "or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_262",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . It's just uh u using uh your thumb ."
+  },
+  {
+    "utterance_id": "Meeting140_263",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Y yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_264",
+    "speaker_id": "User Interface",
+    "utterance_content": "So um it's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_265",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I think we could just uh leave it a normal shape ."
+  },
+  {
+    "utterance_id": "Meeting140_266",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_267",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_268",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh but maybe we have to make it a l a bit more fancy . In one or ano another way ."
+  },
+  {
+    "utterance_id": "Meeting140_269",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_270",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I think we should start by by choosing a case . Because that's the basis you're building on ."
+  },
+  {
+    "utterance_id": "Meeting140_271",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_272",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_273",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_274",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Um yeah"
+  },
+  {
+    "utterance_id": "Meeting140_275",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So I could draw them out ."
+  },
+  {
+    "utterance_id": "Meeting140_276",
+    "speaker_id": "Project Manager",
+    "utterance_content": "just {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_277",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Let's look at the flat case . Oh . It's from the side so it's rather normal ."
+  },
+  {
+    "utterance_id": "Meeting140_278",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_279",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_280",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_281",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "The the single curved so I'm not really sure what they're gonna look like , but I think it's something like this . So this type should be better for you or better {disfmarker} Should prevent repetitive strain injury a bit ."
+  },
+  {
+    "utterance_id": "Meeting140_282",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Easier ?"
+  },
+  {
+    "utterance_id": "Meeting140_283",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And the double curved s looks something like this I guess ."
+  },
+  {
+    "utterance_id": "Meeting140_284",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_285",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So th those are the three options we have ."
+  },
+  {
+    "utterance_id": "Meeting140_286",
+    "speaker_id": "Project Manager",
+    "utterance_content": "'Kay ."
+  },
+  {
+    "utterance_id": "Meeting140_287",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting140_288",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I suggest um the single curved , because maybe the curve is pretty good to put the the screen in ."
+  },
+  {
+    "utterance_id": "Meeting140_289",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting140_290",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh so that elderly people can uh use the remote control and at the same time look easily at the screen , because it's a bit , it has a bit of a angle ."
+  },
+  {
+    "utterance_id": "Meeting140_291",
+    "speaker_id": "User Interface",
+    "utterance_content": "So um {disfmarker} Do you say this um {disfmarker} S uh {disfmarker} Uh you got like uh sort of a {disfmarker} I believe {disfmarker} {gap} There ?"
+  },
+  {
+    "utterance_id": "Meeting140_292",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_293",
+    "speaker_id": "User Interface",
+    "utterance_content": "So um you want to put a display over here ? Or not ?"
+  },
+  {
+    "utterance_id": "Meeting140_294",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . I think so . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_295",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Um {disfmarker} Yeah . Uh"
+  },
+  {
+    "utterance_id": "Meeting140_296",
+    "speaker_id": "Project Manager",
+    "utterance_content": "But now it's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_297",
+    "speaker_id": "User Interface",
+    "utterance_content": "we can make it um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_298",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Do you have it upside down or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_299",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ?"
+  },
+  {
+    "utterance_id": "Meeting140_300",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Do you have it"
+  },
+  {
+    "utterance_id": "Meeting140_301",
+    "speaker_id": "User Interface",
+    "utterance_content": "That's the top ."
+  },
+  {
+    "utterance_id": "Meeting140_302",
+    "speaker_id": "Project Manager",
+    "utterance_content": "this that's top ? Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_303",
+    "speaker_id": "User Interface",
+    "utterance_content": "So uh this top . This down . Um maybe it's possible to uh make this side like um {disfmarker} Let's see . Um {disfmarker} Colour uh okay . Uh to make this side um like mm the right colour ."
+  },
+  {
+    "utterance_id": "Meeting140_304",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_305",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um bit like so uh um in the form of your hand . So um {disfmarker} Uh it's an {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_306",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_307",
+    "speaker_id": "User Interface",
+    "utterance_content": "So so the remote control have to um lay in your hand . So uh it's possib um yeah for s so and"
+  },
+  {
+    "utterance_id": "Meeting140_308",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So get your mouse . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_309",
+    "speaker_id": "User Interface",
+    "utterance_content": "And to put uh the the buttons for um changing uh the channel uh over here uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_310",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . That's a good one . But I think it's better to put the screen uh on top ."
+  },
+  {
+    "utterance_id": "Meeting140_311",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_312",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_313",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Uh rem"
+  },
+  {
+    "utterance_id": "Meeting140_314",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So just flip it a hundred and eighty degrees around then you get {disfmarker} {gap} here ."
+  },
+  {
+    "utterance_id": "Meeting140_315",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah but this place um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_316",
+    "speaker_id": "Project Manager",
+    "utterance_content": "If you can have this one , you turn it like this . And then flip it upside down ."
+  },
+  {
+    "utterance_id": "Meeting140_317",
+    "speaker_id": "User Interface",
+    "utterance_content": "Uh it's {disfmarker} Yeah I dunno um {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_318",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Because uh maybe your hand is in the way , if you have the display here ."
+  },
+  {
+    "utterance_id": "Meeting140_319",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_320",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_321",
+    "speaker_id": "User Interface",
+    "utterance_content": "{gap}"
+  },
+  {
+    "utterance_id": "Meeting140_322",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's more logical to have it on top as well"
+  },
+  {
+    "utterance_id": "Meeting140_323",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I think i"
+  },
+  {
+    "utterance_id": "Meeting140_324",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "because , like on your mobile phone , it's always above ."
+  },
+  {
+    "utterance_id": "Meeting140_325",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_326",
+    "speaker_id": "Project Manager",
+    "utterance_content": "On top ."
+  },
+  {
+    "utterance_id": "Meeting140_327",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_328",
+    "speaker_id": "User Interface",
+    "utterance_content": "So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_329",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_330",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_331",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh maybe you should just s start on a blank page ."
+  },
+  {
+    "utterance_id": "Meeting140_332",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{gap} . So"
+  },
+  {
+    "utterance_id": "Meeting140_333",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_334",
+    "speaker_id": "Project Manager",
+    "utterance_content": "then we get {disfmarker} Here's {disfmarker} That's the curve ."
+  },
+  {
+    "utterance_id": "Meeting140_335",
+    "speaker_id": "User Interface",
+    "utterance_content": "Five minutes . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_336",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Here the display , and then buttons . Yeah and then we can have a little bit off here and here maybe . Just that's for left hand and right hand users ."
+  },
+  {
+    "utterance_id": "Meeting140_337",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_338",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting140_339",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And then h the rest of the buttons over here ."
+  },
+  {
+    "utterance_id": "Meeting140_340",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . But um the on-off button , um still on the top uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_341",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah still here"
+  },
+  {
+    "utterance_id": "Meeting140_342",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_343",
+    "speaker_id": "Project Manager",
+    "utterance_content": "jus"
+  },
+  {
+    "utterance_id": "Meeting140_344",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_345",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting140_346",
+    "speaker_id": "Marketing",
+    "utterance_content": "And I'd prefer the corners to be round ."
+  },
+  {
+    "utterance_id": "Meeting140_347",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_348",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . 'Kay ."
+  },
+  {
+    "utterance_id": "Meeting140_349",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Should be more bit more friendly ,"
+  },
+  {
+    "utterance_id": "Meeting140_350",
+    "speaker_id": "Marketing",
+    "utterance_content": "Think that would be better ."
+  },
+  {
+    "utterance_id": "Meeting140_351",
+    "speaker_id": "Project Manager",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_352",
+    "speaker_id": "Marketing",
+    "utterance_content": "Friendly on the eye ."
+  },
+  {
+    "utterance_id": "Meeting140_353",
+    "speaker_id": "Project Manager",
+    "utterance_content": "'Kay . Supplements . That's okay . Where's my mouse ? Then {disfmarker} We've got a general idea of the concepts and the materials we're going to use . So now for the next meeting uh we'll have to look at the look-and-feel design . It's important that the corporate design image uh is going to be in the remote . So check out the corporate website maybe . The user interface design , it's the same story . And product evaluation . So the Industrial Designer and User Interface Designer are going to work together on this one . But you're going to get your instructions I think sended by the coach . So just um I will put these um minutes on the in the folder ."
+  },
+  {
+    "utterance_id": "Meeting140_354",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting140_355",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And then we're going to uh try to finish our project , and uh make a good design for all the grandfathers and grandmothers , I think ."
+  },
+  {
+    "utterance_id": "Meeting140_356",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_357",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_358",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting140_359",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Which are {disfmarker} Uh let's see . I'm not sure if you're going to start right away to work together or {disfmarker} I think you're going to fill in the questionnaires first ."
+  },
+  {
+    "utterance_id": "Meeting140_360",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_361",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And then you'll get a message ."
+  },
+  {
+    "utterance_id": "Meeting140_362",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_363",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_364",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So that's uh basically it . Maybe this one ? Then we can save this one in the folders group . Uh yes , it's here ."
+  },
+  {
+    "utterance_id": "Meeting140_365",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_366",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} SMARTboard , there it it . So if you wanna have a look at it , it's over there in the projects folder ."
+  },
+  {
+    "utterance_id": "Meeting140_367",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting140_368",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And then I guess we'll start in thirty minutes again . Thank you ."
+  },
+  {
+    "utterance_id": "Meeting140_369",
+    "speaker_id": "Marketing",
+    "utterance_content": "Very good ."
+  },
+  {
+    "utterance_id": "Meeting140_370",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  }
+]

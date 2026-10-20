@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets: provider credentials live in .env (see .env.example)
+.env
+.env.*
+!.env.example
+
+# Experiment outputs (all runs write below results/ by convention)
+results/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp

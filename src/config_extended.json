@@ -1,0 +1,90 @@
+{
+    "active_model": "gpt-4o",
+    "models": {
+        "gpt-4o": {
+            "provider": "azure_openai",
+            "api_key": "",
+            "api_version": "",
+            "endpoint": "",
+            "model": "gpt-4o",
+            "api_key_env": "AZURE_OPENAI_API_KEY",
+            "api_version_env": "AZURE_OPENAI_API_VERSION",
+            "endpoint_env": "AZURE_OPENAI_ENDPOINT"
+        },
+        "gpt-5-mini": {
+            "provider": "azure_openai",
+            "api_key": "",
+            "api_version": "",
+            "endpoint": "",
+            "model": "gpt-5-mini",
+            "api_key_env": "AZURE_OPENAI_API_KEY",
+            "api_version_env": "AZURE_OPENAI_API_VERSION",
+            "endpoint_env": "AZURE_OPENAI_ENDPOINT"
+        },
+        "gemini": {
+            "provider": "google_genai",
+            "api_key": "",
+            "base_url": "",
+            "model": "gemini-2.5-pro",
+            "thinking_budget": 128,
+            "api_key_env": "GEMINI_API_KEY",
+            "base_url_env": "GEMINI_BASE_URL"
+        },
+        "gpt-4o-openai": {
+            "provider": "openai",
+            "api_key_env": "OPENAI_API_KEY",
+            "api_key": "",
+            "api_mode": "chat_completions",
+            "model": "gpt-4o",
+            "base_url_env": "OPENAI_BASE_URL",
+            "base_url": ""
+        },
+        "gpt-5-mini-openai": {
+            "provider": "openai",
+            "api_key_env": "OPENAI_API_KEY",
+            "api_key": "",
+            "api_mode": "chat_completions",
+            "model": "gpt-5-mini",
+            "base_url_env": "OPENAI_BASE_URL",
+            "base_url": ""
+        },
+        "gpt-5-openai": {
+            "provider": "openai",
+            "api_key_env": "OPENAI_API_KEY",
+            "api_key": "",
+            "api_mode": "chat_completions",
+            "model": "gpt-5",
+            "base_url_env": "OPENAI_BASE_URL",
+            "base_url": ""
+        },
+        "llama-3.3-groq": {
+            "provider": "groq",
+            "api_key_env": "GROQ_API_KEY",
+            "api_key": "",
+            "api_mode": "chat_completions",
+            "model": "llama-3.3-70b-versatile",
+            "base_url": "https://api.groq.com/openai/v1",
+            "structured_output_mode": "json_object",
+            "use_system_ca": true
+        },
+        "qwen-3.6-groq": {
+            "provider": "groq",
+            "api_key_env": "GROQ_API_KEY",
+            "api_key": "",
+            "api_mode": "chat_completions",
+            "model": "qwen/qwen3.6-27b",
+            "base_url": "https://api.groq.com/openai/v1",
+            "structured_output_mode": "json_object",
+            "use_system_ca": true,
+            "default_request_params": {
+                "reasoning_effort": "none"
+            }
+        }
+    },
+    "capa": {
+        "enabled": true,
+        "late_window_k": 5,
+        "recalibrator_drives_state": true,
+        "guidance_enabled": true
+    }
+}

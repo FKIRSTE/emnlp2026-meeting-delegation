@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "CAPA: Collaborative Agent Predictive Architecture for online meeting delegation"
+type: software
+license: MIT
+repository-code: "https://github.com/FKIRSTE/emnlp2026-meeting-delegation"
+authors:
+  - family-names: Khan
+    given-names: Muneeb
+    affiliation: "University of Göttingen"
+  - family-names: Kirstein
+    given-names: Frederic
+    affiliation: "University of Göttingen"
+  - family-names: Ruas
+    given-names: Terry
+    affiliation: "University of Göttingen"
+  - family-names: Gipp
+    given-names: Bela
+    affiliation: "University of Göttingen"
+preferred-citation:
+  type: conference-paper
+  title: "Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting"
+  authors:
+    - family-names: Khan
+      given-names: Muneeb
+    - family-names: Kirstein
+      given-names: Frederic
+    - family-names: Ruas
+      given-names: Terry
+    - family-names: Gipp
+      given-names: Bela
+  collection-title: "The 2026 Conference on Empirical Methods in Natural Language Processing"
+  publisher:
+    name: "Association for Computational Linguistics"
+  conference:
+    name: "EMNLP 2026"
+    city: "Budapest"
+    country: "HU"
+  month: 10
+  year: 2026

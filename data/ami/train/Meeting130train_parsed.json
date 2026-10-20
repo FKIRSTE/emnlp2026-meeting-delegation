@@ -1,0 +1,752 @@
+[
+  {
+    "utterance_id": "Meeting130_001",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oops That's as far as it goes {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting130_002",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Hi guys uh good morning everybody here . And uh I want to introduce myself , uh my name is uh Shrida Daseri and uh I'm a project manager for this new project which we are going to discuss now . So I want to introduce first of all uh the names and the colleagues here . And what you're uh drawing ?"
+  },
+  {
+    "utterance_id": "Meeting130_003",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Uh sure my name is Agnes and I'm an user {disfmarker} usability user interface designer ."
+  },
+  {
+    "utterance_id": "Meeting130_004",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} My name is Ed and I do accounting ."
+  },
+  {
+    "utterance_id": "Meeting130_005",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh how you spell your name uh ?"
+  },
+  {
+    "utterance_id": "Meeting130_006",
+    "speaker_id": "Marketing",
+    "utterance_content": "E_D_ ."
+  },
+  {
+    "utterance_id": "Meeting130_007",
+    "speaker_id": "Project Manager",
+    "utterance_content": "E_D_ okay ."
+  },
+  {
+    "utterance_id": "Meeting130_008",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting130_009",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And ?"
+  },
+  {
+    "utterance_id": "Meeting130_010",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Do you also do marketing ?"
+  },
+  {
+    "utterance_id": "Meeting130_011",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} No {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting130_012",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So only accounting ? Okay ."
+  },
+  {
+    "utterance_id": "Meeting130_013",
+    "speaker_id": "Marketing",
+    "utterance_content": "Accounting , yes ."
+  },
+  {
+    "utterance_id": "Meeting130_014",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And ?"
+  },
+  {
+    "utterance_id": "Meeting130_015",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And I'm Christine ,"
+  },
+  {
+    "utterance_id": "Meeting130_016",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_017",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and my role in this uh scenario is to be the industrial designer ."
+  },
+  {
+    "utterance_id": "Meeting130_018",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Industrial designer ."
+  },
+  {
+    "utterance_id": "Meeting130_019",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But I'm not really one ."
+  },
+  {
+    "utterance_id": "Meeting130_020",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So who is uh marketing , nobody in the market"
+  },
+  {
+    "utterance_id": "Meeting130_021",
+    "speaker_id": "Marketing",
+    "utterance_content": "Marketing is uh , is me {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting130_022",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It's you , okay . So thanks for coming for the meeting first of all , and uh we have a long time , just twenty-five minutes to discuss about uh this project and the the project initiation . First of all I want to ask uh Mister Ed about your uh marketing plan and your product plan and uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_023",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Well I think that we'll see that throughout the day in how we're going to put this together as a marketing to to market the product . We'll have to see on a through discussion on where we're gonna go from here and from {disfmarker} with this ."
+  },
+  {
+    "utterance_id": "Meeting130_024",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm but uh do you already have like a functional design or a technical design or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_025",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Uh for the moment not yet ."
+  },
+  {
+    "utterance_id": "Meeting130_026",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh for the moment not yet , okay , but uh what's what's your uh {disfmarker} do you have some project plan , something with you or {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_027",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Good question {vocalsound} . No , this is like I said that we have to be discussed between all of us and we'll go from there . We'll have to {disfmarker} simply we'll have to work on it together ."
+  },
+  {
+    "utterance_id": "Meeting130_028",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm . Okay , so uh by when you think you can uh give me some kind of uh project plan , okay , a discussion with uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_029",
+    "speaker_id": "Marketing",
+    "utterance_content": "Certainly by the next meeting ."
+  },
+  {
+    "utterance_id": "Meeting130_030",
+    "speaker_id": "Project Manager",
+    "utterance_content": "By next meeting , okay that will be great . Uh Okay , so there's any questions or uh first of all about uh this project ?"
+  },
+  {
+    "utterance_id": "Meeting130_031",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "What is the goal of the project ?"
+  },
+  {
+    "utterance_id": "Meeting130_032",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Uh the goal of the project I think maybe I'll uh hand out to the Ed , okay , so to explain uh what is the project because he's in the sales and the accounting ."
+  },
+  {
+    "utterance_id": "Meeting130_033",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting130_034",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting130_035",
+    "speaker_id": "Marketing",
+    "utterance_content": "I'm in the sales I'm supposed to explain them what to do {vocalsound} . We have to define exactly what our product is , from uh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_036",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes , so can you explain uh what exactly the product is ?"
+  },
+  {
+    "utterance_id": "Meeting130_037",
+    "speaker_id": "Marketing",
+    "utterance_content": "From what I had in mind we're supposed to be marketing coffee , is that right ?"
+  },
+  {
+    "utterance_id": "Meeting130_038",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh I think uh , if I'm not wrong , we're making the remote control ."
+  },
+  {
+    "utterance_id": "Meeting130_039",
+    "speaker_id": "User Interface",
+    "utterance_content": "Um I was wondering {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_040",
+    "speaker_id": "Marketing",
+    "utterance_content": "Remote controls , 'cause I had two different things . I had a first part of mine was to make a remote control for a new f remote control for television , and afterward I had a discussion about coffee so {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting130_041",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Yes ."
+  },
+  {
+    "utterance_id": "Meeting130_042",
+    "speaker_id": "Marketing",
+    "utterance_content": "we'll start with the remote control for television then . So we're have to design something that is very user friendly ."
+  },
+  {
+    "utterance_id": "Meeting130_043",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_044",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_045",
+    "speaker_id": "Marketing",
+    "utterance_content": "Something uh visual that has something that will will draw people to buy the product ,"
+  },
+  {
+    "utterance_id": "Meeting130_046",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_047",
+    "speaker_id": "Marketing",
+    "utterance_content": "because I think everybody's experienced with uh remote controls , and some remote controls are are worth uh throwing out the window . Uh th most of them ar I don't know we're have to come up with a new idea on how to make it a lot easier to use ,"
+  },
+  {
+    "utterance_id": "Meeting130_048",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_049",
+    "speaker_id": "Marketing",
+    "utterance_content": "'cause a lot of times uh spend uh half a day through the instruction book trying to figure out how to use it ."
+  },
+  {
+    "utterance_id": "Meeting130_050",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_051",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting130_052",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And uh what abo uh Christine , what about your uh the industrial design plan ? Are you have a design already on this product or uh you're still working on the design ?"
+  },
+  {
+    "utterance_id": "Meeting130_053",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um no , I I have not begun working on the design ,"
+  },
+  {
+    "utterance_id": "Meeting130_054",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_055",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and um I uh I actually didn't know we were designing a remote control , I thought we were designing a new monitor . Um the website I went to look at had some announcements about an introduction of a um uh some sort of a seven inch um monitor , and um I understood that that was the project goal . So um I'm glad I didn't d do any work um ahead of time because uh I clearly didn't understand the project goal ."
+  },
+  {
+    "utterance_id": "Meeting130_056",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting130_057",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um I just did s see that we were starting a new project together and there was going to be a four member team composed of these people , and um that's about uh that's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_058",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_059",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "and I I read through the different steps , and what my responsibilities were relative to the steps ."
+  },
+  {
+    "utterance_id": "Meeting130_060",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So uh you'll be leading the team for your design team or how many members is working in the team , for the design ?"
+  },
+  {
+    "utterance_id": "Meeting130_061",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Uh for the industrial design ?"
+  },
+  {
+    "utterance_id": "Meeting130_062",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes ."
+  },
+  {
+    "utterance_id": "Meeting130_063",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um well , I would th think that depends on how much money you give us ."
+  },
+  {
+    "utterance_id": "Meeting130_064",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting130_065",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting130_066",
+    "speaker_id": "Project Manager",
+    "utterance_content": "That's {gap}"
+  },
+  {
+    "utterance_id": "Meeting130_067",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Um because uh , you know , you can uh you can make it uh {disfmarker} {vocalsound} you have different choices with different financial models ."
+  },
+  {
+    "utterance_id": "Meeting130_068",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but uh before we talk about uh the finance , okay , uh do you have some idea how we can uh sell this product or project in the market and how much is going to benefit to the company and uh of course it's to the individual also ."
+  },
+  {
+    "utterance_id": "Meeting130_069",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Well , you know um , I kind of think that in general you have to do uh um y you have to have something that's very fashionable , that's uh very attractive {disfmarker} that um people see and recognize uh its goal , and uh they immediately wanna have it uh have one of their own . So it would {disfmarker} really would need to um {disfmarker} {vocalsound} something like the iPod would be good , seems to have caught on fairly well ,"
+  },
+  {
+    "utterance_id": "Meeting130_070",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_071",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "so um d uh you know , I don't care what it does , just so it looks cool ."
+  },
+  {
+    "utterance_id": "Meeting130_072",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , but uh uh when you think you can give me like a kind of design on the functional design or the technical design ?"
+  },
+  {
+    "utterance_id": "Meeting130_073",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Well , uh I've got a lot of other projects I'm doing right now um and so I'll have to wait and see how those uh how those go . If they uh go quickly then uh it could be a month . If um if I run into any problems in my other projects it might be six months ."
+  },
+  {
+    "utterance_id": "Meeting130_074",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , but uh I need something in the writing , so like uh what's your functional design , what's your technical design , and uh how many people you need for this project , and what's the time frame you're looking , okay , and what is the budget , maybe uh initial budget you're looking , okay , and uh how is going to the market , okay ,"
+  },
+  {
+    "utterance_id": "Meeting130_075",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Mm-hmm . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_076",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so you've you've had to meet with the marketing team and how they're going to market and what are the marketing strategic plan , okay , when are you going to introduce , okay , and by the time you introduce the product and uh you know there there would be a competition , okay , so I need some kind of uh uh the plan in the writing from you . Okay , and it's po"
+  },
+  {
+    "utterance_id": "Meeting130_077",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} And when would you like that ?"
+  },
+  {
+    "utterance_id": "Meeting130_078",
+    "speaker_id": "Project Manager",
+    "utterance_content": "B as soon as possible ."
+  },
+  {
+    "utterance_id": "Meeting130_079",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Uh well if uh if we have enough time uh then d do you think um two weeks is a {disfmarker} is close enough ?"
+  },
+  {
+    "utterance_id": "Meeting130_080",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes I think uh that would be good , because I need to go to the management and uh tell them what we are going to do , and uh what cost is , okay , and what's the time frame and what's the project plan , because uh without any uh documentations , I cannot go to the management and say , so we are going to do this and we need this much money , okay , so then it's it's difficult for me to say , okay , that's the reason I need uh some kind of plan from you , initially , okay , then we can have the further discussion again ."
+  },
+  {
+    "utterance_id": "Meeting130_081",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Uh {vocalsound} are there other people who will be contributing to the plan ?"
+  },
+  {
+    "utterance_id": "Meeting130_082",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes , of course , if you need some help , uh so let me know . So , who are the people you need uh from the marketing or uh the technical side or uh the administration point of view , okay , to add in any documentation , or some technical point of view ,"
+  },
+  {
+    "utterance_id": "Meeting130_083",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting130_084",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so just let me know so I can uh coordinate all the teams ."
+  },
+  {
+    "utterance_id": "Meeting130_085",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay , I'll get back to you on that ."
+  },
+  {
+    "utterance_id": "Meeting130_086",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes . Thank you . Okay . And uh Ed uh so what's {disfmarker} what do you think about uh this uh project for the remote control and d do you have some already planned something for your marketing strategy or uh the sales strategy ?"
+  },
+  {
+    "utterance_id": "Meeting130_087",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well not yet other than uh doing research and taking remote controls and looking what other companies have to do uh , what they're building , their designs , their ideas ,"
+  },
+  {
+    "utterance_id": "Meeting130_088",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Hmm . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting130_089",
+    "speaker_id": "Marketing",
+    "utterance_content": "uh also have to pinpoint which market we're gonna go into ."
+  },
+  {
+    "utterance_id": "Meeting130_090",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_091",
+    "speaker_id": "Marketing",
+    "utterance_content": "It should be a fairly large market because uh the number of people that uh {disfmarker} the competition ,"
+  },
+  {
+    "utterance_id": "Meeting130_092",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_093",
+    "speaker_id": "Marketing",
+    "utterance_content": "uh th I agree it has to be something {disfmarker} it has to be something new , it has to be something that that draws people saying eh , I like this . Whether it works or not , they have to first say I like this , I like the design , and then it's gotta be simple to use ."
+  },
+  {
+    "utterance_id": "Meeting130_094",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes , so what I uh prefer maybe uh you need to interact uh more with the Christine , okay , because you know what she is going to do it , okay , and you know how to sell it . Okay , because uh she is doing the design , but you are the core because you are in the marketing , okay ,"
+  },
+  {
+    "utterance_id": "Meeting130_095",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting130_096",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so because you need to sell {disfmarker} and you're the responsible for the all the money , the finance , okay , tomorrow ."
+  },
+  {
+    "utterance_id": "Meeting130_097",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_098",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So , what I prefer , okay , so you need to interact with the Christine more and uh within her team , okay , who is using the functional design or technical design , okay ,"
+  },
+  {
+    "utterance_id": "Meeting130_099",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_100",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and uh you need to come up with some kind of plan , okay , how we are going to do the {disfmarker} your sales plan , okay , th"
+  },
+  {
+    "utterance_id": "Meeting130_101",
+    "speaker_id": "Marketing",
+    "utterance_content": "Do we already have a cost limit on this , th an idea of how much uh we want to market this for , how much it's gonna sell for ,"
+  },
+  {
+    "utterance_id": "Meeting130_102",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Th That {disfmarker} that's"
+  },
+  {
+    "utterance_id": "Meeting130_103",
+    "speaker_id": "Marketing",
+    "utterance_content": "that's up that's up to us to decide , eh ? {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting130_104",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes , that's {disfmarker} you have to decide , okay , so the best thing is you {disfmarker} uh both of uh the Christine and you discuss with yourself , okay , and come up with the cost , and how we are going to compete in the market , okay , in the the technically , or in the sales wise , okay , the commercial wise , okay . Then uh we have to design , okay , how long it will take the whole project , okay , how much is going to cost us , and how much we are going to benefit for the company . Okay , of course it's it's uh of benefit for everybody individually . Okay , so I think it's uh maybe if we can uh give me some kind of your uh the sales plan , okay , including the technical what uh she's going to talk to you within the team , okay , then it will help me to discuss with the management for further , okay , and put it in the the proper project plan . Okay , and if you need uh any coordination in between uh compared to the maybe the some technical vendors or commercial vendors , okay , depends if you want to have some uh uh marketing plan or technical plan , okay , so you let me know ."
+  },
+  {
+    "utterance_id": "Meeting130_105",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Very good ."
+  },
+  {
+    "utterance_id": "Meeting130_106",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , I can coordinate ,"
+  },
+  {
+    "utterance_id": "Meeting130_107",
+    "speaker_id": "Marketing",
+    "utterance_content": "Very good ."
+  },
+  {
+    "utterance_id": "Meeting130_108",
+    "speaker_id": "Project Manager",
+    "utterance_content": "or maybe uh , you are my coordinator , am I right ?"
+  },
+  {
+    "utterance_id": "Meeting130_109",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting130_110",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Between uh all the coor"
+  },
+  {
+    "utterance_id": "Meeting130_111",
+    "speaker_id": "User Interface",
+    "utterance_content": "Well , no , not exactly . I mean my job from what I understood was to look at the usability requirements and make sure that the product is usable , it's acceptable to the people who are gonna use it and look at the best ways to do that ."
+  },
+  {
+    "utterance_id": "Meeting130_112",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting130_113",
+    "speaker_id": "User Interface",
+    "utterance_content": "So I think I'll have to interact with Christine and discuss with her , so that she's not designing something that my studies will show right off the bat that it's not going to work ,"
+  },
+  {
+    "utterance_id": "Meeting130_114",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Th Christine , yeah {vocalsound} . Which is {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_115",
+    "speaker_id": "User Interface",
+    "utterance_content": "and so it's sort of {disfmarker} it's a loop that feeds in , but I don't think necessarily that I'm in a coordinating position for it ."
+  },
+  {
+    "utterance_id": "Meeting130_116",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes . Yeah , so basically you need to interact with Christine more , okay , for the user acceptability , okay , and the testing , okay ,"
+  },
+  {
+    "utterance_id": "Meeting130_117",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_118",
+    "speaker_id": "Project Manager",
+    "utterance_content": "then you will {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting130_119",
+    "speaker_id": "User Interface",
+    "utterance_content": "Which will also feed into the marketing ,"
+  },
+  {
+    "utterance_id": "Meeting130_120",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes ."
+  },
+  {
+    "utterance_id": "Meeting130_121",
+    "speaker_id": "User Interface",
+    "utterance_content": "because depending on what users want , depends on how you sell it , what tag lines you attach to it , how you try to make it more attractive to users ."
+  },
+  {
+    "utterance_id": "Meeting130_122",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes . Yeah . Yeah . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting130_123",
+    "speaker_id": "User Interface",
+    "utterance_content": "So I think all three groups will need to interact quite a bit . Um , and then I guess build the plan based on all of that , because I think you need to take all the factors into account ."
+  },
+  {
+    "utterance_id": "Meeting130_124",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yep . But what I request , okay , {gap} keep Ed in the loop , okay , in between your uh meeting and Christine meeting , because uh he should know what's happening ."
+  },
+  {
+    "utterance_id": "Meeting130_125",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , of course {vocalsound} . Yeah , we can C_C_ him on any discussions or documents that are passed around ."
+  },
+  {
+    "utterance_id": "Meeting130_126",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes . Okay and please please copy all the mails , okay , all the discussions to me , okay , so I need to submit to the management ."
+  },
+  {
+    "utterance_id": "Meeting130_127",
+    "speaker_id": "User Interface",
+    "utterance_content": "Sure . No problem ."
+  },
+  {
+    "utterance_id": "Meeting130_128",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So any questions for uh time being ?"
+  },
+  {
+    "utterance_id": "Meeting130_129",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting130_130",
+    "speaker_id": "Marketing",
+    "utterance_content": "No ."
+  },
+  {
+    "utterance_id": "Meeting130_131",
+    "speaker_id": "User Interface",
+    "utterance_content": "So , the immediate next step is to start determining the functional design , or"
+  },
+  {
+    "utterance_id": "Meeting130_132",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes ."
+  },
+  {
+    "utterance_id": "Meeting130_133",
+    "speaker_id": "User Interface",
+    "utterance_content": "{disfmarker} okay ."
+  },
+  {
+    "utterance_id": "Meeting130_134",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay . To come up with the functional design and uh to discuss with Ed , okay , and how it's going to be work , and uh first of all with your user acceptance , okay , how it looks like and how it's going to be work in the market , okay ,"
+  },
+  {
+    "utterance_id": "Meeting130_135",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_136",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so then we can discuss about uh further things . So , we'll meet when the {disfmarker} we'll discuss on the further meeting ."
+  },
+  {
+    "utterance_id": "Meeting130_137",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting130_138",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It's okay ? Thanks for coming ."
+  },
+  {
+    "utterance_id": "Meeting130_139",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting130_140",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Would you mind um at the conclusion of our meeting could could you send us a copy of your slides ?"
+  },
+  {
+    "utterance_id": "Meeting130_141",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yes , I will . Yes ."
+  },
+  {
+    "utterance_id": "Meeting130_142",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm , yeah , that would be useful ."
+  },
+  {
+    "utterance_id": "Meeting130_143",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I'll copy , uh le let us keep all the emails and all the copies , okay , share each other , okay , so you know everybody what's happening , okay ?"
+  },
+  {
+    "utterance_id": "Meeting130_144",
+    "speaker_id": "User Interface",
+    "utterance_content": "Sure ."
+  },
+  {
+    "utterance_id": "Meeting130_145",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And if anything you need anytime so please either you can call me , or just send me email , or uh just come and uh knock my door , okay , so I'm available here . It's good ? Okay , thanks for coming and uh I wish you a nice time then ."
+  },
+  {
+    "utterance_id": "Meeting130_146",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting130_147",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Thank you ."
+  },
+  {
+    "utterance_id": "Meeting130_148",
+    "speaker_id": "User Interface",
+    "utterance_content": "Thanks ."
+  },
+  {
+    "utterance_id": "Meeting130_149",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay , see you later . Bye ."
+  },
+  {
+    "utterance_id": "Meeting130_150",
+    "speaker_id": "User Interface",
+    "utterance_content": "Thank you ."
+  }
+]

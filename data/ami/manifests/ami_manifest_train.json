@@ -1,0 +1,1473 @@
+{
+  "input_dir": "qmsum_train_parsed",
+  "output_dir": "data/ami/train",
+  "operation": "copy",
+  "strict": false,
+  "dry_run": false,
+  "ami_roles": [
+    "Industrial Designer",
+    "Marketing",
+    "Project Manager",
+    "User Interface"
+  ],
+  "num_total_files_matched": 161,
+  "num_ami_kept": 97,
+  "num_skipped": 64,
+  "num_errors": 0,
+  "kept": [
+    {
+      "meeting_index": 64,
+      "filename": "Meeting64_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 287
+    },
+    {
+      "meeting_index": 65,
+      "filename": "Meeting65_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 621
+    },
+    {
+      "meeting_index": 66,
+      "filename": "Meeting66_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 640
+    },
+    {
+      "meeting_index": 67,
+      "filename": "Meeting67_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 950
+    },
+    {
+      "meeting_index": 68,
+      "filename": "Meeting68_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 122
+    },
+    {
+      "meeting_index": 69,
+      "filename": "Meeting69_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 316
+    },
+    {
+      "meeting_index": 70,
+      "filename": "Meeting70_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 326
+    },
+    {
+      "meeting_index": 71,
+      "filename": "Meeting71_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 517
+    },
+    {
+      "meeting_index": 72,
+      "filename": "Meeting72_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 105
+    },
+    {
+      "meeting_index": 73,
+      "filename": "Meeting73_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 653
+    },
+    {
+      "meeting_index": 74,
+      "filename": "Meeting74_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 829
+    },
+    {
+      "meeting_index": 75,
+      "filename": "Meeting75_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 573
+    },
+    {
+      "meeting_index": 76,
+      "filename": "Meeting76_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 323
+    },
+    {
+      "meeting_index": 77,
+      "filename": "Meeting77_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 372
+    },
+    {
+      "meeting_index": 78,
+      "filename": "Meeting78_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 587
+    },
+    {
+      "meeting_index": 79,
+      "filename": "Meeting79_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 426
+    },
+    {
+      "meeting_index": 80,
+      "filename": "Meeting80_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 181
+    },
+    {
+      "meeting_index": 81,
+      "filename": "Meeting81_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 473
+    },
+    {
+      "meeting_index": 82,
+      "filename": "Meeting82_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 485
+    },
+    {
+      "meeting_index": 83,
+      "filename": "Meeting83_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 888
+    },
+    {
+      "meeting_index": 84,
+      "filename": "Meeting84_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 151
+    },
+    {
+      "meeting_index": 85,
+      "filename": "Meeting85_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 422
+    },
+    {
+      "meeting_index": 86,
+      "filename": "Meeting86_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 494
+    },
+    {
+      "meeting_index": 87,
+      "filename": "Meeting87_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 444
+    },
+    {
+      "meeting_index": 88,
+      "filename": "Meeting88_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 161
+    },
+    {
+      "meeting_index": 89,
+      "filename": "Meeting89_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 373
+    },
+    {
+      "meeting_index": 90,
+      "filename": "Meeting90_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 572
+    },
+    {
+      "meeting_index": 91,
+      "filename": "Meeting91_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 327
+    },
+    {
+      "meeting_index": 92,
+      "filename": "Meeting92_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 138
+    },
+    {
+      "meeting_index": 93,
+      "filename": "Meeting93_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 380
+    },
+    {
+      "meeting_index": 94,
+      "filename": "Meeting94_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 425
+    },
+    {
+      "meeting_index": 95,
+      "filename": "Meeting95_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 400
+    },
+    {
+      "meeting_index": 96,
+      "filename": "Meeting96_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 212
+    },
+    {
+      "meeting_index": 97,
+      "filename": "Meeting97_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 516
+    },
+    {
+      "meeting_index": 98,
+      "filename": "Meeting98_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 575
+    },
+    {
+      "meeting_index": 99,
+      "filename": "Meeting99_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 802
+    },
+    {
+      "meeting_index": 100,
+      "filename": "Meeting100_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 288
+    },
+    {
+      "meeting_index": 101,
+      "filename": "Meeting101_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 647
+    },
+    {
+      "meeting_index": 102,
+      "filename": "Meeting102_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 675
+    },
+    {
+      "meeting_index": 103,
+      "filename": "Meeting103_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 931
+    },
+    {
+      "meeting_index": 104,
+      "filename": "Meeting104_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 254
+    },
+    {
+      "meeting_index": 105,
+      "filename": "Meeting105_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 310
+    },
+    {
+      "meeting_index": 106,
+      "filename": "Meeting106_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 280
+    },
+    {
+      "meeting_index": 107,
+      "filename": "Meeting107_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 506
+    },
+    {
+      "meeting_index": 108,
+      "filename": "Meeting108_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 401
+    },
+    {
+      "meeting_index": 109,
+      "filename": "Meeting109_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 592
+    },
+    {
+      "meeting_index": 110,
+      "filename": "Meeting110_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 502
+    },
+    {
+      "meeting_index": 111,
+      "filename": "Meeting111_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 1037
+    },
+    {
+      "meeting_index": 112,
+      "filename": "Meeting112_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 236
+    },
+    {
+      "meeting_index": 113,
+      "filename": "Meeting113_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 599
+    },
+    {
+      "meeting_index": 114,
+      "filename": "Meeting114_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 347
+    },
+    {
+      "meeting_index": 115,
+      "filename": "Meeting115_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 300
+    },
+    {
+      "meeting_index": 116,
+      "filename": "Meeting116_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 472
+    },
+    {
+      "meeting_index": 117,
+      "filename": "Meeting117_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 533
+    },
+    {
+      "meeting_index": 118,
+      "filename": "Meeting118_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 373
+    },
+    {
+      "meeting_index": 119,
+      "filename": "Meeting119_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 91
+    },
+    {
+      "meeting_index": 120,
+      "filename": "Meeting120_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 401
+    },
+    {
+      "meeting_index": 121,
+      "filename": "Meeting121_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 611
+    },
+    {
+      "meeting_index": 122,
+      "filename": "Meeting122_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 719
+    },
+    {
+      "meeting_index": 123,
+      "filename": "Meeting123_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 196
+    },
+    {
+      "meeting_index": 124,
+      "filename": "Meeting124_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 443
+    },
+    {
+      "meeting_index": 125,
+      "filename": "Meeting125_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 414
+    },
+    {
+      "meeting_index": 126,
+      "filename": "Meeting126_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 264
+    },
+    {
+      "meeting_index": 127,
+      "filename": "Meeting127_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 385
+    },
+    {
+      "meeting_index": 128,
+      "filename": "Meeting128_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 499
+    },
+    {
+      "meeting_index": 129,
+      "filename": "Meeting129_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 622
+    },
+    {
+      "meeting_index": 130,
+      "filename": "Meeting130_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 150
+    },
+    {
+      "meeting_index": 131,
+      "filename": "Meeting131_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 247
+    },
+    {
+      "meeting_index": 132,
+      "filename": "Meeting132_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 358
+    },
+    {
+      "meeting_index": 133,
+      "filename": "Meeting133_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 381
+    },
+    {
+      "meeting_index": 134,
+      "filename": "Meeting134_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 240
+    },
+    {
+      "meeting_index": 135,
+      "filename": "Meeting135_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 473
+    },
+    {
+      "meeting_index": 136,
+      "filename": "Meeting136_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 328
+    },
+    {
+      "meeting_index": 137,
+      "filename": "Meeting137_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 547
+    },
+    {
+      "meeting_index": 138,
+      "filename": "Meeting138_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 284
+    },
+    {
+      "meeting_index": 139,
+      "filename": "Meeting139_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 370
+    },
+    {
+      "meeting_index": 140,
+      "filename": "Meeting140_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 370
+    },
+    {
+      "meeting_index": 141,
+      "filename": "Meeting141_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 708
+    },
+    {
+      "meeting_index": 142,
+      "filename": "Meeting142_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 395
+    },
+    {
+      "meeting_index": 143,
+      "filename": "Meeting143_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 837
+    },
+    {
+      "meeting_index": 144,
+      "filename": "Meeting144_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 796
+    },
+    {
+      "meeting_index": 145,
+      "filename": "Meeting145_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 1616
+    },
+    {
+      "meeting_index": 146,
+      "filename": "Meeting146_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 515
+    },
+    {
+      "meeting_index": 147,
+      "filename": "Meeting147_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 970
+    },
+    {
+      "meeting_index": 148,
+      "filename": "Meeting148_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 1050
+    },
+    {
+      "meeting_index": 149,
+      "filename": "Meeting149_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 1401
+    },
+    {
+      "meeting_index": 150,
+      "filename": "Meeting150_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 445
+    },
+    {
+      "meeting_index": 151,
+      "filename": "Meeting151_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 524
+    },
+    {
+      "meeting_index": 152,
+      "filename": "Meeting152_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 792
+    },
+    {
+      "meeting_index": 153,
+      "filename": "Meeting153_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 1229
+    },
+    {
+      "meeting_index": 154,
+      "filename": "Meeting154_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 397
+    },
+    {
+      "meeting_index": 155,
+      "filename": "Meeting155_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 624
+    },
+    {
+      "meeting_index": 156,
+      "filename": "Meeting156_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 807
+    },
+    {
+      "meeting_index": 157,
+      "filename": "Meeting157_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 1010
+    },
+    {
+      "meeting_index": 158,
+      "filename": "Meeting158_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 203
+    },
+    {
+      "meeting_index": 159,
+      "filename": "Meeting159_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 958
+    },
+    {
+      "meeting_index": 160,
+      "filename": "Meeting160_parsed.json",
+      "ami_roles_found": [
+        "Industrial Designer",
+        "Marketing",
+        "Project Manager",
+        "User Interface"
+      ],
+      "num_utterances": 900
+    }
+  ],
+  "skipped": [
+    {
+      "meeting_index": 0,
+      "filename": "Meeting0_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 374
+    },
+    {
+      "meeting_index": 1,
+      "filename": "Meeting1_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 706
+    },
+    {
+      "meeting_index": 2,
+      "filename": "Meeting2_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1056
+    },
+    {
+      "meeting_index": 3,
+      "filename": "Meeting3_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 591
+    },
+    {
+      "meeting_index": 4,
+      "filename": "Meeting4_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 646
+    },
+    {
+      "meeting_index": 5,
+      "filename": "Meeting5_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 507
+    },
+    {
+      "meeting_index": 6,
+      "filename": "Meeting6_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 827
+    },
+    {
+      "meeting_index": 7,
+      "filename": "Meeting7_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 914
+    },
+    {
+      "meeting_index": 8,
+      "filename": "Meeting8_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 299
+    },
+    {
+      "meeting_index": 9,
+      "filename": "Meeting9_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1831
+    },
+    {
+      "meeting_index": 10,
+      "filename": "Meeting10_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 891
+    },
+    {
+      "meeting_index": 11,
+      "filename": "Meeting11_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1155
+    },
+    {
+      "meeting_index": 12,
+      "filename": "Meeting12_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1001
+    },
+    {
+      "meeting_index": 13,
+      "filename": "Meeting13_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1155
+    },
+    {
+      "meeting_index": 14,
+      "filename": "Meeting14_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 661
+    },
+    {
+      "meeting_index": 15,
+      "filename": "Meeting15_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 606
+    },
+    {
+      "meeting_index": 16,
+      "filename": "Meeting16_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1467
+    },
+    {
+      "meeting_index": 17,
+      "filename": "Meeting17_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1115
+    },
+    {
+      "meeting_index": 18,
+      "filename": "Meeting18_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1319
+    },
+    {
+      "meeting_index": 19,
+      "filename": "Meeting19_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1138
+    },
+    {
+      "meeting_index": 20,
+      "filename": "Meeting20_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1004
+    },
+    {
+      "meeting_index": 21,
+      "filename": "Meeting21_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 659
+    },
+    {
+      "meeting_index": 22,
+      "filename": "Meeting22_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 985
+    },
+    {
+      "meeting_index": 23,
+      "filename": "Meeting23_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1008
+    },
+    {
+      "meeting_index": 24,
+      "filename": "Meeting24_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 351
+    },
+    {
+      "meeting_index": 25,
+      "filename": "Meeting25_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 244
+    },
+    {
+      "meeting_index": 26,
+      "filename": "Meeting26_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 602
+    },
+    {
+      "meeting_index": 27,
+      "filename": "Meeting27_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 766
+    },
+    {
+      "meeting_index": 28,
+      "filename": "Meeting28_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 395
+    },
+    {
+      "meeting_index": 29,
+      "filename": "Meeting29_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 873
+    },
+    {
+      "meeting_index": 30,
+      "filename": "Meeting30_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 500
+    },
+    {
+      "meeting_index": 31,
+      "filename": "Meeting31_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 762
+    },
+    {
+      "meeting_index": 32,
+      "filename": "Meeting32_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 637
+    },
+    {
+      "meeting_index": 33,
+      "filename": "Meeting33_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 653
+    },
+    {
+      "meeting_index": 34,
+      "filename": "Meeting34_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 874
+    },
+    {
+      "meeting_index": 35,
+      "filename": "Meeting35_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1008
+    },
+    {
+      "meeting_index": 36,
+      "filename": "Meeting36_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 453
+    },
+    {
+      "meeting_index": 37,
+      "filename": "Meeting37_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 630
+    },
+    {
+      "meeting_index": 38,
+      "filename": "Meeting38_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 568
+    },
+    {
+      "meeting_index": 39,
+      "filename": "Meeting39_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 1530
+    },
+    {
+      "meeting_index": 40,
+      "filename": "Meeting40_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 316
+    },
+    {
+      "meeting_index": 41,
+      "filename": "Meeting41_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 338
+    },
+    {
+      "meeting_index": 42,
+      "filename": "Meeting42_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 239
+    },
+    {
+      "meeting_index": 43,
+      "filename": "Meeting43_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 336
+    },
+    {
+      "meeting_index": 44,
+      "filename": "Meeting44_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 261
+    },
+    {
+      "meeting_index": 45,
+      "filename": "Meeting45_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 370
+    },
+    {
+      "meeting_index": 46,
+      "filename": "Meeting46_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 315
+    },
+    {
+      "meeting_index": 47,
+      "filename": "Meeting47_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 91
+    },
+    {
+      "meeting_index": 48,
+      "filename": "Meeting48_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 97
+    },
+    {
+      "meeting_index": 49,
+      "filename": "Meeting49_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 198
+    },
+    {
+      "meeting_index": 50,
+      "filename": "Meeting50_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 130
+    },
+    {
+      "meeting_index": 51,
+      "filename": "Meeting51_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 140
+    },
+    {
+      "meeting_index": 52,
+      "filename": "Meeting52_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 165
+    },
+    {
+      "meeting_index": 53,
+      "filename": "Meeting53_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 121
+    },
+    {
+      "meeting_index": 54,
+      "filename": "Meeting54_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 142
+    },
+    {
+      "meeting_index": 55,
+      "filename": "Meeting55_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 130
+    },
+    {
+      "meeting_index": 56,
+      "filename": "Meeting56_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 141
+    },
+    {
+      "meeting_index": 57,
+      "filename": "Meeting57_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 183
+    },
+    {
+      "meeting_index": 58,
+      "filename": "Meeting58_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 234
+    },
+    {
+      "meeting_index": 59,
+      "filename": "Meeting59_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 140
+    },
+    {
+      "meeting_index": 60,
+      "filename": "Meeting60_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 161
+    },
+    {
+      "meeting_index": 61,
+      "filename": "Meeting61_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 179
+    },
+    {
+      "meeting_index": 62,
+      "filename": "Meeting62_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 261
+    },
+    {
+      "meeting_index": 63,
+      "filename": "Meeting63_parsed.json",
+      "ami_roles_found": [],
+      "num_utterances": 123
+    }
+  ],
+  "errors": []
+}

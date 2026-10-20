@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-labelledby="title desc">
+<title id="title">Episode outcomes on 137 AMI meetings</title>
+<desc id="desc">Stacked bars of strict hits, loose-only hits, uncredited attempts, and not-attempted episodes for the transcript-only delegate, the Reflexion-style baseline, and CAPA. Not attempted: 51.4, 49.5, and 2.5 percent.</desc>
+<rect x="0.5" y="0.5" width="879" height="299" rx="12" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+<text x="32" y="44" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#0b0b0b">Episode outcomes on 137 AMI meetings</text>
+<text x="32" y="68" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#52514e">Share of idea-unit episodes (%), macro-averaged over meetings · GPT-4o · Table 2</text>
+<rect x="32" y="88" width="12" height="12" rx="3" fill="#2a78d6"/>
+<text x="50" y="98.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#52514e">Strict hit</text>
+<rect x="127" y="88" width="12" height="12" rx="3" fill="#eb6834"/>
+<text x="145" y="98.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#52514e">Loose-only hit</text>
+<rect x="258" y="88" width="12" height="12" rx="3" fill="#1baf7a"/>
+<text x="276" y="98.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#52514e">Uncredited attempt</text>
+<rect x="411" y="88" width="12" height="12" rx="3" fill="#eda100"/>
+<text x="429" y="98.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#52514e">Not attempted</text>
+<line x1="196.0" y1="122" x2="196.0" y2="256" stroke="#e1e0d9" stroke-width="1"/>
+<text x="196.0" y="274" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#898781" text-anchor="middle">0%</text>
+<line x1="352.0" y1="122" x2="352.0" y2="256" stroke="#e1e0d9" stroke-width="1"/>
+<text x="352.0" y="274" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#898781" text-anchor="middle">25%</text>
+<line x1="508.0" y1="122" x2="508.0" y2="256" stroke="#e1e0d9" stroke-width="1"/>
+<text x="508.0" y="274" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#898781" text-anchor="middle">50%</text>
+<line x1="664.0" y1="122" x2="664.0" y2="256" stroke="#e1e0d9" stroke-width="1"/>
+<text x="664.0" y="274" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#898781" text-anchor="middle">75%</text>
+<line x1="820.0" y1="122" x2="820.0" y2="256" stroke="#e1e0d9" stroke-width="1"/>
+<text x="820.0" y="274" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#898781" text-anchor="middle">100%</text>
+<text x="180" y="148.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#0b0b0b" text-anchor="end">Transcript-only</text>
+<rect x="196.00" y="132" width="64.77" height="24" fill="#2a78d6"><title>Strict hit: 10.7%</title></rect>
+<text x="228.38" y="148.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">10.7</text>
+<rect x="262.77" y="132" width="94.10" height="24" fill="#eb6834"><title>Loose-only hit: 15.4%</title></rect>
+<text x="309.82" y="148.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">15.4</text>
+<rect x="358.86" y="132" width="138.40" height="24" fill="#1baf7a"><title>Uncredited attempt: 22.5%</title></rect>
+<text x="428.06" y="148.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">22.5</text>
+<path d="M499.26,132 H816.00 Q820.00,132 820.00,136 V152 Q820.00,156 816.00,156 H499.26 Z" fill="#eda100"><title>Not attempted: 51.4%</title></path>
+<text x="659.63" y="148.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">51.4</text>
+<text x="180" y="194.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#0b0b0b" text-anchor="end">Reflexion-style</text>
+<rect x="196.00" y="178" width="62.27" height="24" fill="#2a78d6"><title>Strict hit: 10.3%</title></rect>
+<text x="227.14" y="194.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">10.3</text>
+<rect x="260.27" y="178" width="85.36" height="24" fill="#eb6834"><title>Loose-only hit: 14.0%</title></rect>
+<text x="302.95" y="194.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">14.0</text>
+<rect x="347.63" y="178" width="160.86" height="24" fill="#1baf7a"><title>Uncredited attempt: 26.1%</title></rect>
+<text x="428.06" y="194.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">26.1</text>
+<path d="M510.50,178 H815.38 Q819.38,178 819.38,182 V198 Q819.38,202 815.38,202 H510.50 Z" fill="#eda100"><title>Not attempted: 49.5%</title></path>
+<text x="664.94" y="194.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">49.5</text>
+<text x="180" y="240.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="end">CAPA (ours)</text>
+<rect x="196.00" y="224" width="154.62" height="24" fill="#2a78d6"><title>Strict hit: 25.1%</title></rect>
+<text x="273.31" y="240.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">25.1</text>
+<rect x="352.62" y="224" width="167.10" height="24" fill="#eb6834"><title>Loose-only hit: 27.1%</title></rect>
+<text x="436.18" y="240.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">27.1</text>
+<rect x="521.73" y="224" width="280.67" height="24" fill="#1baf7a"><title>Uncredited attempt: 45.3%</title></rect>
+<text x="662.06" y="240.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">45.3</text>
+<path d="M804.40,224 H816.00 Q820.00,224 820.00,228 V244 Q820.00,248 816.00,248 H804.40 Z" fill="#eda100"><title>Not attempted: 2.5%</title></path>
+<text x="828.00" y="240.5" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0b0b0b">2.5</text>
+</svg>

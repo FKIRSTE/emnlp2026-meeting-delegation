@@ -1,0 +1,1507 @@
+[
+  {
+    "utterance_id": "Meeting23_001",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So we can start ?"
+  },
+  {
+    "utterance_id": "Meeting23_002",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_003",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Suppose I have to do my presentation . {vocalsound} Eh um {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_004",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Ah okay . It's Ada Longmund ?"
+  },
+  {
+    "utterance_id": "Meeting23_005",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} So , I'll present myself , I'm Ada Longmund , and as you may know it , I'm the pr project manager . So um we will have to um speak about m the project . Our project project is to create um a new remote control and as you may know there's lot of industrials interesting in creating a remote control , so the remote control has to be original , trendy and um user-friendly . Record . So the project method is the following . So if we're um the functional design , you have to do uh any individual work and uh also work with uh meetings talking with each other . Uh it will be the same for the conceptual design and also the same for the detailed design . Uh ."
+  },
+  {
+    "utterance_id": "Meeting23_006",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_007",
+    "speaker_id": "Project Manager",
+    "utterance_content": "The tool training is to try out the white board , so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_008",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Maybe someone ha we have to {gap} this whiteboard ,"
+  },
+  {
+    "utterance_id": "Meeting23_009",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting23_010",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "yeah ?"
+  },
+  {
+    "utterance_id": "Meeting23_011",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_012",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Maybe you can draw your favourite animal"
+  },
+  {
+    "utterance_id": "Meeting23_013",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_014",
+    "speaker_id": "Project Manager",
+    "utterance_content": "and make a list of its favourite characteristics ."
+  },
+  {
+    "utterance_id": "Meeting23_015",
+    "speaker_id": "Marketing",
+    "utterance_content": "So right now ?"
+  },
+  {
+    "utterance_id": "Meeting23_016",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I don't know if we have to do it now , maybe later later ."
+  },
+  {
+    "utterance_id": "Meeting23_017",
+    "speaker_id": "User Interface",
+    "utterance_content": "So yeah I think you can do it . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_018",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , I don't know ."
+  },
+  {
+    "utterance_id": "Meeting23_019",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_020",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So the selling price of the product will be twenty five Euros . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_021",
+    "speaker_id": "User Interface",
+    "utterance_content": "Twenty five Euros ?"
+  },
+  {
+    "utterance_id": "Meeting23_022",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah . Yeah . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_023",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting23_024",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I think it's quite good price , yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_025",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I it's it's reasonable , s quite {disfmarker} yeah . Twenty five ."
+  },
+  {
+    "utterance_id": "Meeting23_026",
+    "speaker_id": "Marketing",
+    "utterance_content": "It's reasonable , I think , yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_027",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And uh"
+  },
+  {
+    "utterance_id": "Meeting23_028",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_029",
+    "speaker_id": "Project Manager",
+    "utterance_content": "it will uh be a an international remote control ,"
+  },
+  {
+    "utterance_id": "Meeting23_030",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Is {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_031",
+    "speaker_id": "Project Manager",
+    "utterance_content": "as we want to sell it in the entire world , and the product costs will be not more than twelve Euros and fifty centimes . So , as you will discuss about the remote control you will have to experience your um {disfmarker} with the remote control . Um just uh maybe be imaginative with {vocalsound} remote const con controls ,"
+  },
+  {
+    "utterance_id": "Meeting23_032",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_033",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_034",
+    "speaker_id": "Project Manager",
+    "utterance_content": "try to create something new and people would like to to buy . And {vocalsound} and the next meeting will start in thirty minutes , so you'll ha all have your spethisfispis specif specific role and you know {disfmarker} I suppose you know what you have to do . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_035",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} Yeah . I I hope so {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_036",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And uh you will have to work on the design and also to work on the design of th technical fun functions of the remote control and think of the user requirement specifications ."
+  },
+  {
+    "utterance_id": "Meeting23_037",
+    "speaker_id": "Marketing",
+    "utterance_content": "Those things just refer to each of each of us , I think . AMI"
+  },
+  {
+    "utterance_id": "Meeting23_038",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_039",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yep ."
+  },
+  {
+    "utterance_id": "Meeting23_040",
+    "speaker_id": "Marketing",
+    "utterance_content": "and {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_041",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I_D_ ,"
+  },
+  {
+    "utterance_id": "Meeting23_042",
+    "speaker_id": "Marketing",
+    "utterance_content": "okay ."
+  },
+  {
+    "utterance_id": "Meeting23_043",
+    "speaker_id": "Project Manager",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_044",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_045",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_046",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I_D_ is for the Industrial Design , yeah ?"
+  },
+  {
+    "utterance_id": "Meeting23_047",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_048",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And U_I_D_ , it's for the User Interface Designer ,"
+  },
+  {
+    "utterance_id": "Meeting23_049",
+    "speaker_id": "User Interface",
+    "utterance_content": "That's me ."
+  },
+  {
+    "utterance_id": "Meeting23_050",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ,"
+  },
+  {
+    "utterance_id": "Meeting23_051",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "yeah ?"
+  },
+  {
+    "utterance_id": "Meeting23_052",
+    "speaker_id": "Marketing",
+    "utterance_content": "and Marketing Expert , it's me ."
+  },
+  {
+    "utterance_id": "Meeting23_053",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "AMI yeah project ."
+  },
+  {
+    "utterance_id": "Meeting23_054",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So I will manage all all the group ."
+  },
+  {
+    "utterance_id": "Meeting23_055",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} you will be the manager {vocalsound} yeah {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_056",
+    "speaker_id": "Marketing",
+    "utterance_content": "You can manage all this , yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_057",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_058",
+    "speaker_id": "Marketing",
+    "utterance_content": "Good ."
+  },
+  {
+    "utterance_id": "Meeting23_059",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So you have questions ?"
+  },
+  {
+    "utterance_id": "Meeting23_060",
+    "speaker_id": "Marketing",
+    "utterance_content": "Um . Not really ."
+  },
+  {
+    "utterance_id": "Meeting23_061",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} So"
+  },
+  {
+    "utterance_id": "Meeting23_062",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_063",
+    "speaker_id": "Project Manager",
+    "utterance_content": "you all know what the parts of the work you have to do ."
+  },
+  {
+    "utterance_id": "Meeting23_064",
+    "speaker_id": "Marketing",
+    "utterance_content": "So which {disfmarker} you , the Industrial Designer ."
+  },
+  {
+    "utterance_id": "Meeting23_065",
+    "speaker_id": "User Interface",
+    "utterance_content": "No I'm user interf I'm user interface design ."
+  },
+  {
+    "utterance_id": "Meeting23_066",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I am the Industrial Design , yeah"
+  },
+  {
+    "utterance_id": "Meeting23_067",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting23_068",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_069",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And you ?"
+  },
+  {
+    "utterance_id": "Meeting23_070",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I am the Industrial Designer so ."
+  },
+  {
+    "utterance_id": "Meeting23_071",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mm okay ."
+  },
+  {
+    "utterance_id": "Meeting23_072",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay . So what's the difference between"
+  },
+  {
+    "utterance_id": "Meeting23_073",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_074",
+    "speaker_id": "User Interface",
+    "utterance_content": "user interface design d industrial design ? {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_075",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_076",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Hmm ."
+  },
+  {
+    "utterance_id": "Meeting23_077",
+    "speaker_id": "Marketing",
+    "utterance_content": "I mean , you have to know . Ah , you have to know it ."
+  },
+  {
+    "utterance_id": "Meeting23_078",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_079",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} It's difficult . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_080",
+    "speaker_id": "Marketing",
+    "utterance_content": "It's your job , so I hope you you know what it is ."
+  },
+  {
+    "utterance_id": "Meeting23_081",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "You know very soon . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_082",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah , I think so ."
+  },
+  {
+    "utterance_id": "Meeting23_083",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_084",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting23_085",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I suppose you have to design it and you have to take care of the industrial way to transform it ."
+  },
+  {
+    "utterance_id": "Meeting23_086",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay , so I make uh u user interface ."
+  },
+  {
+    "utterance_id": "Meeting23_087",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_088",
+    "speaker_id": "User Interface",
+    "utterance_content": "You you de you implement the core functions in the {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_089",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And i maybe you will transform it {vocalsound} ."
+  },
+  {
+    "utterance_id": "Meeting23_090",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I I think the user the user interface design is {disfmarker} he will design how the user will you know {disfmarker} the relation between the user and you know the remote control so {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_091",
+    "speaker_id": "User Interface",
+    "utterance_content": "Use it . Make make {disfmarker} yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_092",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "And the uh industrial design , it is how the object will look like ."
+  },
+  {
+    "utterance_id": "Meeting23_093",
+    "speaker_id": "User Interface",
+    "utterance_content": "Maybe I think uh uh i industrial design's uh , it's the function design ."
+  },
+  {
+    "utterance_id": "Meeting23_094",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah . So the materi"
+  },
+  {
+    "utterance_id": "Meeting23_095",
+    "speaker_id": "User Interface",
+    "utterance_content": "I design the user f user interface , you design the function ."
+  },
+  {
+    "utterance_id": "Meeting23_096",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Maybe , it is the outside and the inside ."
+  },
+  {
+    "utterance_id": "Meeting23_097",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_098",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_099",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_100",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay right . But {disfmarker} I was thinking that he's a user {disfmarker} 'cause the user interface to design for example where the but button will be , you know ."
+  },
+  {
+    "utterance_id": "Meeting23_101",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_102",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "But I don't know . {vocalsound} Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_103",
+    "speaker_id": "Marketing",
+    "utterance_content": "Well . You know ."
+  },
+  {
+    "utterance_id": "Meeting23_104",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I'm the industrial designer ."
+  },
+  {
+    "utterance_id": "Meeting23_105",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh , okay , okay . Not the other one ."
+  },
+  {
+    "utterance_id": "Meeting23_106",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So ."
+  },
+  {
+    "utterance_id": "Meeting23_107",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_108",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay . So and the marketing expert will {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_109",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , I'm just go I'm trying to give you some trends about what should be done and what the users would like to have"
+  },
+  {
+    "utterance_id": "Meeting23_110",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_111",
+    "speaker_id": "Marketing",
+    "utterance_content": "and then thi this would {vocalsound} I guess converged to the User Interface Designer wi and then Industrial Designer ."
+  },
+  {
+    "utterance_id": "Meeting23_112",
+    "speaker_id": "Project Manager",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_113",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Ok Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_114",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And when designing y the remote control just remember that uh it has to be a kind of international product . So you don't have to do something really specific ,"
+  },
+  {
+    "utterance_id": "Meeting23_115",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_116",
+    "speaker_id": "Project Manager",
+    "utterance_content": "as everybody everybody will have to use it ,"
+  },
+  {
+    "utterance_id": "Meeting23_117",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting23_118",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting23_119",
+    "speaker_id": "Project Manager",
+    "utterance_content": "it's sor the same as keyboards . You know , you have Qwerty , Azerty , French and U_K_ keyboard ,"
+  },
+  {
+    "utterance_id": "Meeting23_120",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Mm ."
+  },
+  {
+    "utterance_id": "Meeting23_121",
+    "speaker_id": "Project Manager",
+    "utterance_content": "so really the remote control to be international ."
+  },
+  {
+    "utterance_id": "Meeting23_122",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_123",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And not too expensive ."
+  },
+  {
+    "utterance_id": "Meeting23_124",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_125",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm-hmm ."
+  },
+  {
+    "utterance_id": "Meeting23_126",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah . And uh simple ."
+  },
+  {
+    "utterance_id": "Meeting23_127",
+    "speaker_id": "Project Manager",
+    "utterance_content": "As we want to maximise the benefit ."
+  },
+  {
+    "utterance_id": "Meeting23_128",
+    "speaker_id": "User Interface",
+    "utterance_content": "And easy to use ."
+  },
+  {
+    "utterance_id": "Meeting23_129",
+    "speaker_id": "Marketing",
+    "utterance_content": "And you have to keep it under twelve Euros and f fifty , so ."
+  },
+  {
+    "utterance_id": "Meeting23_130",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_131",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , you have to keep in mind that the product cost won't be maxim more than twelve dot fifty Euros ."
+  },
+  {
+    "utterance_id": "Meeting23_132",
+    "speaker_id": "User Interface",
+    "utterance_content": "Ah , yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_133",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It should be {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_134",
+    "speaker_id": "Marketing",
+    "utterance_content": "That's the problem ."
+  },
+  {
+    "utterance_id": "Meeting23_135",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay . Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_136",
+    "speaker_id": "Project Manager",
+    "utterance_content": "And to be sure that really people will be interested in buying a new remote control with maybe new functionalities that don't exist in the mm existing remote controls now ."
+  },
+  {
+    "utterance_id": "Meeting23_137",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_138",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_139",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So , is it okay ?"
+  },
+  {
+    "utterance_id": "Meeting23_140",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_141",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm . It's clear ."
+  },
+  {
+    "utterance_id": "Meeting23_142",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} There was a step about drawing something in the in the board , I don't know ."
+  },
+  {
+    "utterance_id": "Meeting23_143",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah , maybe should go and draw an animal ."
+  },
+  {
+    "utterance_id": "Meeting23_144",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_145",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Is it ? {vocalsound} Are we supposed to do right now ? {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_146",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah yeah , you try . Try first . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_147",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh right it's it's from the left to the ri {vocalsound} It's {disfmarker} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_148",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So"
+  },
+  {
+    "utterance_id": "Meeting23_149",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_150",
+    "speaker_id": "Project Manager",
+    "utterance_content": "you think we have to do it now ?"
+  },
+  {
+    "utterance_id": "Meeting23_151",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I d I was thinking but I n I'm not sure now . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_152",
+    "speaker_id": "User Interface",
+    "utterance_content": "You can draw something which is very simple . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_153",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You want me to draw something ?"
+  },
+  {
+    "utterance_id": "Meeting23_154",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_155",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Product manager {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_156",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Everybody {vocalsound} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_157",
+    "speaker_id": "Project Manager",
+    "utterance_content": "okay , let's go ,"
+  },
+  {
+    "utterance_id": "Meeting23_158",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh , maybe we should bring Kemy here ."
+  },
+  {
+    "utterance_id": "Meeting23_159",
+    "speaker_id": "Project Manager",
+    "utterance_content": "I will try ."
+  },
+  {
+    "utterance_id": "Meeting23_160",
+    "speaker_id": "User Interface",
+    "utterance_content": "Kemy is really good at drawing . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_161",
+    "speaker_id": "Marketing",
+    "utterance_content": "Many {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_162",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} I think everybody should do it , so ."
+  },
+  {
+    "utterance_id": "Meeting23_163",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_164",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} It's not matter {vocalsound} So ."
+  },
+  {
+    "utterance_id": "Meeting23_165",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_166",
+    "speaker_id": "User Interface",
+    "utterance_content": "You're going to draw ? {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_167",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_168",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_169",
+    "speaker_id": "Marketing",
+    "utterance_content": "Uh it's the same as mine ."
+  },
+  {
+    "utterance_id": "Meeting23_170",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} What's this ?"
+  },
+  {
+    "utterance_id": "Meeting23_171",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} yeah . It's a {disfmarker} {vocalsound} It's a cat ."
+  },
+  {
+    "utterance_id": "Meeting23_172",
+    "speaker_id": "User Interface",
+    "utterance_content": "It's a fat cat . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_173",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} It is not a fat cat . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_174",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_175",
+    "speaker_id": "Marketing",
+    "utterance_content": "It's the fat cat , okay ."
+  },
+  {
+    "utterance_id": "Meeting23_176",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , it is a {disfmarker} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_177",
+    "speaker_id": "User Interface",
+    "utterance_content": "Can you draw uh um rabbit ?"
+  },
+  {
+    "utterance_id": "Meeting23_178",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_179",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh , hat ha rat ."
+  },
+  {
+    "utterance_id": "Meeting23_180",
+    "speaker_id": "Marketing",
+    "utterance_content": "A rat ?"
+  },
+  {
+    "utterance_id": "Meeting23_181",
+    "speaker_id": "User Interface",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_182",
+    "speaker_id": "Marketing",
+    "utterance_content": "That's difficult ."
+  },
+  {
+    "utterance_id": "Meeting23_183",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yes you have to draw a rat if you want a rat ."
+  },
+  {
+    "utterance_id": "Meeting23_184",
+    "speaker_id": "Project Manager",
+    "utterance_content": "No . A mouse is not too difficult ."
+  },
+  {
+    "utterance_id": "Meeting23_185",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} It's your rat . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_186",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Mouse is okay ."
+  },
+  {
+    "utterance_id": "Meeting23_187",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Yeah , it's okay ."
+  },
+  {
+    "utterance_id": "Meeting23_188",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah . Just go ,"
+  },
+  {
+    "utterance_id": "Meeting23_189",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ,"
+  },
+  {
+    "utterance_id": "Meeting23_190",
+    "speaker_id": "Marketing",
+    "utterance_content": "you you the closest to the whiteboard ."
+  },
+  {
+    "utterance_id": "Meeting23_191",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "go {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_192",
+    "speaker_id": "User Interface",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting23_193",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{gap} right , but in grow , it's {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_194",
+    "speaker_id": "Marketing",
+    "utterance_content": "Jus"
+  },
+  {
+    "utterance_id": "Meeting23_195",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_196",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "everybody has to grow {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_197",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_198",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh . Okay , I draw . The only thing I can draw is like this . Oh . Oh . Oh ."
+  },
+  {
+    "utterance_id": "Meeting23_199",
+    "speaker_id": "Marketing",
+    "utterance_content": "A duck ."
+  },
+  {
+    "utterance_id": "Meeting23_200",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} You love the eyes ."
+  },
+  {
+    "utterance_id": "Meeting23_201",
+    "speaker_id": "User Interface",
+    "utterance_content": "No . {vocalsound} What's this ?"
+  },
+  {
+    "utterance_id": "Meeting23_202",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "What are you {disfmarker} I don {vocalsound} no idea , so {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_203",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_204",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , that was the eyes ."
+  },
+  {
+    "utterance_id": "Meeting23_205",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_206",
+    "speaker_id": "Project Manager",
+    "utterance_content": "A clown ."
+  },
+  {
+    "utterance_id": "Meeting23_207",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_208",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Rabbit ."
+  },
+  {
+    "utterance_id": "Meeting23_209",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's a rabbit ."
+  },
+  {
+    "utterance_id": "Meeting23_210",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_211",
+    "speaker_id": "Marketing",
+    "utterance_content": "Pikachu . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_212",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_213",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_214",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_215",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It's a rabbit ."
+  },
+  {
+    "utterance_id": "Meeting23_216",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Oh yeah . Bugs Bunny one ."
+  },
+  {
+    "utterance_id": "Meeting23_217",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_218",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_219",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's not so bad so ."
+  },
+  {
+    "utterance_id": "Meeting23_220",
+    "speaker_id": "User Interface",
+    "utterance_content": "The only thing I can draw , because it's very simple . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_221",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_222",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay . I go ."
+  },
+  {
+    "utterance_id": "Meeting23_223",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_224",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} {gap}"
+  },
+  {
+    "utterance_id": "Meeting23_225",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_226",
+    "speaker_id": "Marketing",
+    "utterance_content": "What ? Oh . So what else ? This was my favourite one ,"
+  },
+  {
+    "utterance_id": "Meeting23_227",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} So you don't have a {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_228",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Thank you . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_229",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_230",
+    "speaker_id": "Marketing",
+    "utterance_content": "but {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_231",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} A fish ."
+  },
+  {
+    "utterance_id": "Meeting23_232",
+    "speaker_id": "Marketing",
+    "utterance_content": "Right . A fish ."
+  },
+  {
+    "utterance_id": "Meeting23_233",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_234",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} That's a that's a fish ?"
+  },
+  {
+    "utterance_id": "Meeting23_235",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_236",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay , let's try to draw something ."
+  },
+  {
+    "utterance_id": "Meeting23_237",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You forgot the chips ."
+  },
+  {
+    "utterance_id": "Meeting23_238",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_239",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_240",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh yeah , doesn't look so fine ."
+  },
+  {
+    "utterance_id": "Meeting23_241",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Have to be really careful ."
+  },
+  {
+    "utterance_id": "Meeting23_242",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Fish and chips . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_243",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound} Okay ,"
+  },
+  {
+    "utterance_id": "Meeting23_244",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Ah {vocalsound} it's my turn ."
+  },
+  {
+    "utterance_id": "Meeting23_245",
+    "speaker_id": "Marketing",
+    "utterance_content": "it's your turn ."
+  },
+  {
+    "utterance_id": "Meeting23_246",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh . Okay , be careful ."
+  },
+  {
+    "utterance_id": "Meeting23_247",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay . So . {gap} {gap} It's ok"
+  },
+  {
+    "utterance_id": "Meeting23_248",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_249",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Of"
+  },
+  {
+    "utterance_id": "Meeting23_250",
+    "speaker_id": "User Interface",
+    "utterance_content": "No problem , no problem ."
+  },
+  {
+    "utterance_id": "Meeting23_251",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "So , what can I draw some more ?"
+  },
+  {
+    "utterance_id": "Meeting23_252",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Oh {gap} . {gap} ?"
+  },
+  {
+    "utterance_id": "Meeting23_253",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} {vocalsound} {gap} ? No . Mm {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_254",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_255",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_256",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_257",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_258",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} {gap} . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_259",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , it's it's a se it's my priority this one . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_260",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_261",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_262",
+    "speaker_id": "Marketing",
+    "utterance_content": "Mm ."
+  },
+  {
+    "utterance_id": "Meeting23_263",
+    "speaker_id": "User Interface",
+    "utterance_content": "A person ? {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_264",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_265",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} No . It's a really crazy dog {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_266",
+    "speaker_id": "Project Manager",
+    "utterance_content": "{vocalsound} Oh yeah . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_267",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Dog . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_268",
+    "speaker_id": "Marketing",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_269",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_270",
+    "speaker_id": "Marketing",
+    "utterance_content": "Good ."
+  },
+  {
+    "utterance_id": "Meeting23_271",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_272",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Transfer . It's a dog in a village . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_273",
+    "speaker_id": "User Interface",
+    "utterance_content": "{vocalsound} {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_274",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} So what are you sug going to do now ? {gap}"
+  },
+  {
+    "utterance_id": "Meeting23_275",
+    "speaker_id": "Marketing",
+    "utterance_content": "I think it's done ."
+  },
+  {
+    "utterance_id": "Meeting23_276",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah , I think {disfmarker}"
+  },
+  {
+    "utterance_id": "Meeting23_277",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "It's done ?"
+  },
+  {
+    "utterance_id": "Meeting23_278",
+    "speaker_id": "Project Manager",
+    "utterance_content": "yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_279",
+    "speaker_id": "Marketing",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_280",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_281",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Just have to {disfmarker} present project ,"
+  },
+  {
+    "utterance_id": "Meeting23_282",
+    "speaker_id": "User Interface",
+    "utterance_content": "So we have break ."
+  },
+  {
+    "utterance_id": "Meeting23_283",
+    "speaker_id": "Project Manager",
+    "utterance_content": "discuss a little bit about it ."
+  },
+  {
+    "utterance_id": "Meeting23_284",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Oh my God ."
+  },
+  {
+    "utterance_id": "Meeting23_285",
+    "speaker_id": "Marketing",
+    "utterance_content": "Oh , we have twenty five minutes for the meeting ."
+  },
+  {
+    "utterance_id": "Meeting23_286",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_287",
+    "speaker_id": "Marketing",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_288",
+    "speaker_id": "Project Manager",
+    "utterance_content": "So , if you have questions ."
+  },
+  {
+    "utterance_id": "Meeting23_289",
+    "speaker_id": "User Interface",
+    "utterance_content": "Oh . Hmm ."
+  },
+  {
+    "utterance_id": "Meeting23_290",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_291",
+    "speaker_id": "Marketing",
+    "utterance_content": "Know what time is it ? No ."
+  },
+  {
+    "utterance_id": "Meeting23_292",
+    "speaker_id": "User Interface",
+    "utterance_content": "No . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_293",
+    "speaker_id": "Project Manager",
+    "utterance_content": "It's okay ?"
+  },
+  {
+    "utterance_id": "Meeting23_294",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "Yeah , it's okay ."
+  },
+  {
+    "utterance_id": "Meeting23_295",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You know your job ? you know your job ?"
+  },
+  {
+    "utterance_id": "Meeting23_296",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "{vocalsound} We have an idea yeah . {vocalsound}"
+  },
+  {
+    "utterance_id": "Meeting23_297",
+    "speaker_id": "Project Manager",
+    "utterance_content": "You know your job ?"
+  },
+  {
+    "utterance_id": "Meeting23_298",
+    "speaker_id": "Industrial Designer",
+    "utterance_content": "I have an idea of my job {vocalsound} so {disfmarker} yeah so . Yeah ."
+  },
+  {
+    "utterance_id": "Meeting23_299",
+    "speaker_id": "Project Manager",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_300",
+    "speaker_id": "User Interface",
+    "utterance_content": "Okay ."
+  },
+  {
+    "utterance_id": "Meeting23_301",
+    "speaker_id": "Marketing",
+    "utterance_content": "Good ."
+  }
+]
